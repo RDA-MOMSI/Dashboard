@@ -360,28 +360,12 @@
                 }
               ],
               "count": 1
-            },
-            {
-              "name": "Epigenomics",
-              "children": [
-                {
-                  "name": "Reporting Guideline",
-                  "children": [
-                    {
-                      "name": "minSCe",
-                      "count": 2
-                    }
-                  ],
-                  "count": 2
-                }
-              ],
-              "count": 2
             }
           ],
-          "count": 3
+          "count": 1
         }
       ],
-      "count": 3
+      "count": 1
     },
     {
       "name": "Mass Spectrometry (general)",
@@ -816,5 +800,5 @@
       "count": 2
     }
   ],
-  "count": 243
+  "count": 241
 }

@@ -35,13 +35,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -64,7 +60,7 @@
                   "count": 6
                 }
               ],
-              "count": 95
+              "count": 93
             },
             {
               "name": "Proteomics",
@@ -245,51 +241,10 @@
               "count": 58
             }
           ],
-          "count": 249
-        },
-        {
-          "name": "Experimental Design",
-          "children": [
-            {
-              "name": "Genomics",
-              "children": [
-                {
-                  "name": "Reporting Guideline",
-                  "children": [
-                    {
-                      "name": "undefined",
-                      "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
-                    }
-                  ],
-                  "count": 28
-                }
-              ],
-              "count": 28
-            },
-            {
-              "name": "Proteomics",
-              "children": [],
-              "count": 0
-            },
-            {
-              "name": "Metabolomics",
-              "children": [],
-              "count": 0
-            },
-            {
-              "name": "Universal",
-              "children": [],
-              "count": 0
-            }
-          ],
-          "count": 28
+          "count": 247
         }
       ],
-      "count": 277
+      "count": 247
     },
     {
       "name": "Collect",
@@ -325,13 +280,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -354,7 +305,7 @@
                   "count": 6
                 }
               ],
-              "count": 95
+              "count": 93
             },
             {
               "name": "Proteomics",
@@ -535,51 +486,10 @@
               "count": 58
             }
           ],
-          "count": 249
-        },
-        {
-          "name": "All of the above",
-          "children": [
-            {
-              "name": "Genomics",
-              "children": [
-                {
-                  "name": "Reporting Guideline",
-                  "children": [
-                    {
-                      "name": "undefined",
-                      "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
-                    }
-                  ],
-                  "count": 28
-                }
-              ],
-              "count": 28
-            },
-            {
-              "name": "Proteomics",
-              "children": [],
-              "count": 0
-            },
-            {
-              "name": "Metabolomics",
-              "children": [],
-              "count": 0
-            },
-            {
-              "name": "Universal",
-              "children": [],
-              "count": 0
-            }
-          ],
-          "count": 28
+          "count": 247
         }
       ],
-      "count": 277
+      "count": 247
     },
     {
       "name": "Process",
@@ -615,13 +525,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -644,7 +550,7 @@
                   "count": 6
                 }
               ],
-              "count": 95
+              "count": 93
             },
             {
               "name": "Proteomics",
@@ -825,51 +731,10 @@
               "count": 58
             }
           ],
-          "count": 249
-        },
-        {
-          "name": "Metadata Collection",
-          "children": [
-            {
-              "name": "Genomics",
-              "children": [
-                {
-                  "name": "Reporting Guideline",
-                  "children": [
-                    {
-                      "name": "undefined",
-                      "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
-                    }
-                  ],
-                  "count": 28
-                }
-              ],
-              "count": 28
-            },
-            {
-              "name": "Proteomics",
-              "children": [],
-              "count": 0
-            },
-            {
-              "name": "Metabolomics",
-              "children": [],
-              "count": 0
-            },
-            {
-              "name": "Universal",
-              "children": [],
-              "count": 0
-            }
-          ],
-          "count": 28
+          "count": 247
         }
       ],
-      "count": 277
+      "count": 247
     },
     {
       "name": "Analysis",
@@ -896,13 +761,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Model/Format",
@@ -925,7 +786,7 @@
                   "count": 2
                 }
               ],
-              "count": 89
+              "count": 87
             },
             {
               "name": "Proteomics",
@@ -1016,7 +877,7 @@
               "count": 4
             }
           ],
-          "count": 165
+          "count": 163
         },
         {
           "name": "Other",
@@ -1040,16 +901,12 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 }
               ],
-              "count": 76
+              "count": 74
             },
             {
               "name": "Proteomics",
@@ -1170,7 +1027,7 @@
               "count": 56
             }
           ],
-          "count": 192
+          "count": 190
         },
         {
           "name": "Interpretation Analysis",
@@ -1184,13 +1041,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Model/Format",
@@ -1213,7 +1066,7 @@
                   "count": 11
                 }
               ],
-              "count": 87
+              "count": 85
             },
             {
               "name": "Proteomics",
@@ -1354,7 +1207,7 @@
               "count": 47
             }
           ],
-          "count": 226
+          "count": 224
         },
         {
           "name": "Quantitative Analysis",
@@ -1426,16 +1279,12 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 }
               ],
-              "count": 28
+              "count": 26
             },
             {
               "name": "Proteomics",
@@ -1485,7 +1334,7 @@
               "count": 0
             }
           ],
-          "count": 68
+          "count": 66
         },
         {
           "name": "Software Specific",
@@ -1578,13 +1427,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Terminology Artefact",
@@ -1597,7 +1442,7 @@
                   "count": 11
                 }
               ],
-              "count": 93
+              "count": 91
             },
             {
               "name": "Proteomics",
@@ -1718,10 +1563,10 @@
               "count": 58
             }
           ],
-          "count": 194
+          "count": 192
         }
       ],
-      "count": 998
+      "count": 988
     },
     {
       "name": "Preservation",
@@ -1748,13 +1593,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Model/Format",
@@ -1787,7 +1628,7 @@
                   "count": 6
                 }
               ],
-              "count": 95
+              "count": 93
             },
             {
               "name": "Proteomics",
@@ -1938,7 +1779,7 @@
               "count": 29
             }
           ],
-          "count": 213
+          "count": 211
         },
         {
           "name": "Metadata Storage or Exchange",
@@ -1962,13 +1803,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Terminology Artefact",
@@ -1981,7 +1818,7 @@
                   "count": 11
                 }
               ],
-              "count": 87
+              "count": 85
             },
             {
               "name": "Proteomics",
@@ -2132,7 +1969,7 @@
               "count": 52
             }
           ],
-          "count": 231
+          "count": 229
         },
         {
           "name": "Data (raw, processed, generated) Storage",
@@ -2266,16 +2103,12 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 }
               ],
-              "count": 28
+              "count": 26
             },
             {
               "name": "Proteomics",
@@ -2326,51 +2159,10 @@
               "count": 4
             }
           ],
-          "count": 58
-        },
-        {
-          "name": "Metadata Storage",
-          "children": [
-            {
-              "name": "Genomics",
-              "children": [
-                {
-                  "name": "Reporting Guideline",
-                  "children": [
-                    {
-                      "name": "undefined",
-                      "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
-                    }
-                  ],
-                  "count": 28
-                }
-              ],
-              "count": 28
-            },
-            {
-              "name": "Proteomics",
-              "children": [],
-              "count": 0
-            },
-            {
-              "name": "Metabolomics",
-              "children": [],
-              "count": 0
-            },
-            {
-              "name": "Universal",
-              "children": [],
-              "count": 0
-            }
-          ],
-          "count": 28
+          "count": 56
         }
       ],
-      "count": 659
+      "count": 625
     },
     {
       "name": "Sharing",
@@ -2407,16 +2199,12 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 }
               ],
-              "count": 87
+              "count": 85
             },
             {
               "name": "Proteomics",
@@ -2547,7 +2335,7 @@
               "count": 52
             }
           ],
-          "count": 204
+          "count": 202
         },
         {
           "name": "All of the above",
@@ -2571,13 +2359,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -2600,7 +2384,7 @@
                   "count": 6
                 }
               ],
-              "count": 84
+              "count": 82
             },
             {
               "name": "Proteomics",
@@ -2741,7 +2525,7 @@
               "count": 58
             }
           ],
-          "count": 202
+          "count": 200
         },
         {
           "name": "Repository (machine-readable)",
@@ -2755,13 +2539,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Model/Format",
@@ -2804,7 +2584,7 @@
                   "count": 11
                 }
               ],
-              "count": 95
+              "count": 93
             },
             {
               "name": "Proteomics",
@@ -2925,7 +2705,7 @@
               "count": 33
             }
           ],
-          "count": 215
+          "count": 213
         },
         {
           "name": "Article (human-readable)",
@@ -2939,16 +2719,12 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 }
               ],
-              "count": 28
+              "count": 26
             },
             {
               "name": "Proteomics",
@@ -2998,7 +2774,7 @@
               "count": 0
             }
           ],
-          "count": 71
+          "count": 69
         },
         {
           "name": null,
@@ -3012,16 +2788,12 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 }
               ],
-              "count": 28
+              "count": 26
             },
             {
               "name": "Proteomics",
@@ -3039,7 +2811,7 @@
               "count": 0
             }
           ],
-          "count": 28
+          "count": 26
         },
         {
           "name": "Other",
@@ -3079,7 +2851,7 @@
           "count": 21
         }
       ],
-      "count": 741
+      "count": 731
     },
     {
       "name": "Reuse",
@@ -3106,13 +2878,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Model/Format",
@@ -3135,7 +2903,7 @@
                   "count": 6
                 }
               ],
-              "count": 93
+              "count": 91
             },
             {
               "name": "Proteomics",
@@ -3296,7 +3064,7 @@
               "count": 56
             }
           ],
-          "count": 241
+          "count": 239
         },
         {
           "name": "Uncertain",
@@ -3380,13 +3148,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Model/Format",
@@ -3419,7 +3183,7 @@
                   "count": 6
                 }
               ],
-              "count": 84
+              "count": 82
             },
             {
               "name": "Proteomics",
@@ -3540,7 +3304,7 @@
               "count": 22
             }
           ],
-          "count": 173
+          "count": 171
         },
         {
           "name": "Not Required for Reuse",
@@ -3564,13 +3328,9 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 },
                 {
                   "name": "Terminology Artefact",
@@ -3583,7 +3343,7 @@
                   "count": 11
                 }
               ],
-              "count": 87
+              "count": 85
             },
             {
               "name": "Proteomics",
@@ -3684,7 +3444,7 @@
               "count": 11
             }
           ],
-          "count": 182
+          "count": 180
         },
         {
           "name": "Recommended for Reuse",
@@ -3718,16 +3478,12 @@
                     {
                       "name": "undefined",
                       "count": 26
-                    },
-                    {
-                      "name": "minSCe",
-                      "count": 2
                     }
                   ],
-                  "count": 28
+                  "count": 26
                 }
               ],
-              "count": 87
+              "count": 85
             },
             {
               "name": "Proteomics",
@@ -3848,7 +3604,7 @@
               "count": 6
             }
           ],
-          "count": 180
+          "count": 178
         },
         {
           "name": "Other",
@@ -3957,8 +3713,8 @@
           "count": 15
         }
       ],
-      "count": 956
+      "count": 948
     }
   ],
-  "count": 4185
+  "count": 4033
 }
