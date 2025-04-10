@@ -1,0 +1,111 @@
+@import url("observablehq:default.css");
+@import url("observablehq:theme-cotton.css");
+
+body {
+  font-family: var(--sans-serif);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	max-width: none;
+	font-family: var(--sans-serif);
+	font-weight: bold;
+}
+
+#observablehq-main p a[href] {
+  text-decoration: underline;
+}
+
+.logos .footer-logos {
+	display: flex;
+	font-family: var(--sans-serif);
+	margin: 1rem 0 1rem;
+	text-wrap: balance;
+	text-align: left;
+	justify-content: left; /* Align horizontal */
+	align-items: center; /* Align vertical */
+}
+.logo-image {
+	float: left; 
+	width: 65px; 
+}
+.footer-image {
+	float: left;
+	margin: 0 10px 0 10px;
+}
+.footer-text {
+	margin: 5;
+	font-size: 9px;
+	font-style: initial;
+	font-weight: 400;
+	line-height: 1.4;
+	color: var(--theme-foreground-muted);
+}
+.logo-text h1 {
+	margin: 0.5rem 0;
+	padding: 0.5rem 0;
+	max-width: none;
+	font-size: 14vw;
+	font-weight: 700;
+}
+
+p,
+ul,
+ol {
+	max-width: none;
+	font-weight: 400;
+	line-height: 1.5;
+	color: var(--theme-foreground-muted);
+}
+
+blockquote,
+blockquote ul,
+blockquote p {
+	margin: 0.5rem;
+	padding: 0.5rem;
+	max-width: none;
+	background-color:#e5f8f8ff;
+}
+
+blockquote ul {
+	padding: inherit;
+	margin-left: 2rem;
+	color:dimgrey;
+}
+
+blockquote p {
+	color:steelblue;
+	font-weight: bold;
+}
+
+.description {
+	margin-top: 5px;
+}
+
+.description h2 {
+	margin: 0;
+	max-width: 34em;
+	font-size: 20px;
+	font-style: initial;
+	font-weight: 500;
+	line-height: 1.5;
+	color: var(--theme-foreground-muted);
+}
+
+.card-sharp {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	justify-center: center; /* Align horizontal */
+	align-items: center; /* Align vertical */
+}
+
+@media (min-width: 640px) {
+	.logo-text h1 {
+		font-size: 40px;
+	}
+}

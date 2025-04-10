@@ -1,0 +1,102 @@
+[
+  {
+    "type": "Reporting Guideline",
+    "standard": "Genomics",
+    "count": 28
+  },
+  {
+    "type": "Reporting Guideline",
+    "standard": "Proteomics",
+    "count": 16
+  },
+  {
+    "type": "Reporting Guideline",
+    "standard": "Metabolomics",
+    "count": 10
+  },
+  {
+    "type": "Reporting Guideline",
+    "standard": "Universal",
+    "count": 4
+  },
+  {
+    "type": "Terminology artefact",
+    "standard": "Genomics",
+    "count": 0
+  },
+  {
+    "type": "Terminology artefact",
+    "standard": "Proteomics",
+    "count": 0
+  },
+  {
+    "type": "Terminology artefact",
+    "standard": "Metabolomics",
+    "count": 0
+  },
+  {
+    "type": "Terminology artefact",
+    "standard": "Universal",
+    "count": 0
+  },
+  {
+    "type": "Model/Format",
+    "standard": "Genomics",
+    "count": 48
+  },
+  {
+    "type": "Model/Format",
+    "standard": "Proteomics",
+    "count": 17
+  },
+  {
+    "type": "Model/Format",
+    "standard": "Metabolomics",
+    "count": 21
+  },
+  {
+    "type": "Model/Format",
+    "standard": "Universal",
+    "count": 7
+  },
+  {
+    "type": "Identifier Schema",
+    "standard": "Genomics",
+    "count": 6
+  },
+  {
+    "type": "Identifier Schema",
+    "standard": "Proteomics",
+    "count": 3
+  },
+  {
+    "type": "Identifier Schema",
+    "standard": "Metabolomics",
+    "count": 7
+  },
+  {
+    "type": "Identifier Schema",
+    "standard": "Universal",
+    "count": 11
+  },
+  {
+    "type": "Multi-Standard Applicable",
+    "standard": "Genomics",
+    "count": 2
+  },
+  {
+    "type": "Multi-Standard Applicable",
+    "standard": "Proteomics",
+    "count": 4
+  },
+  {
+    "type": "Multi-Standard Applicable",
+    "standard": "Metabolomics",
+    "count": 5
+  },
+  {
+    "type": "Multi-Standard Applicable",
+    "standard": "Universal",
+    "count": 5
+  }
+]

@@ -1,0 +1,71 @@
+name: Dashboard rebuild
+on:
+    workflow_dispatch:
+    push:
+        branches: ["main"]
+permissions:
+    contents: write
+
+jobs:
+    rebuild:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v4
+              with:
+                node-version: '20' 
+                cache: "yarn"
+
+            - run: node ./rebuild-dashboard.cjs
+            
+            - name: Commit changes
+              id: commit-changes
+              continue-on-error: true
+              shell: bash
+              run: |
+                  git config --global user.email "github-actions[bot]@users.noreply.github.com" && \
+                  git config --global user.name "github-actions[bot]" && \
+                  git add ./src/data/circle-packing-chart.json && \
+                  git add ./src/data/cluster-chart.json && \
+                  git add ./src/data/standards-bar-chart.json && \
+                  git add ./src/data/sunburst-chart.json && \
+                  git commit -m 'Update Dashboard' && \
+                  git push
+
+    build:
+        runs-on: ubuntu-latest
+        needs: [rebuild]
+        if: always()
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v4
+              with:
+                node-version: '20' 
+                cache: "yarn"
+
+            - name: Install dependencies
+              run: yarn --frozen-lockfile
+              
+            - name: Build
+              run: yarn run build
+
+            - name: Upload artifact
+              uses: actions/upload-pages-artifact@v3
+              with:
+                path: ./dist
+
+    deploy:
+        runs-on: ubuntu-latest
+        permissions:
+            pages: write
+            id-token: write
+        needs: [build]
+        if: needs.build.result == 'success'
+        environment:
+          name: github-pages
+          url: ${{ steps.deployment.outputs.page_url }}
+        steps:
+            - run: echo "needs.build.result == ${{ needs.build.result == 'success' }}"
+            - name: Deploy to GitHub Pages
+              id: deployment
+              uses: actions/deploy-pages@v4

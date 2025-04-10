@@ -1,0 +1,178 @@
+name: Process submission
+on:
+    issues:
+        types: [labeled]
+concurrency: 'main'
+
+jobs:
+    validation:
+        runs-on: ubuntu-latest
+        outputs:
+            authorised-actor: ${{ steps.authorised-actor-check.outputs.valid && github.event.label.name == 'merge' }}
+            has-genomics: ${{ contains(github.event.issue.labels.*.name, 'genomics') }}
+            has-proteomics: ${{ contains(github.event.issue.labels.*.name, 'proteomics') }}
+            has-metabolomics: ${{ contains(github.event.issue.labels.*.name, 'metabolomics') }}
+            has-universal: ${{ contains(github.event.issue.labels.*.name, 'universal') }}
+        steps:
+            - name: Check if actor is authorised
+              id: authorised-actor-check
+              shell: bash
+              run: |
+                  if [ "${{ contains(fromJSON(secrets.AUTHORISED_MERGE), github.triggering_actor) }}" ]; then
+                    echo "valid=true" >> $GITHUB_OUTPUT;
+                  else
+                    echo "valid=false" >> $GITHUB_OUTPUT;
+                  fi
+
+    genomics:
+        runs-on: ubuntu-latest
+        needs: [validation]
+        outputs: 
+            data_string: ${{ steps.set-data.outputs.data }}
+        if: fromJSON(needs.validation.outputs.authorised-actor) && fromJSON(needs.validation.outputs.has-genomics)
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v4
+              with:
+                node-version: '20'
+            - uses: stefanbuck/github-issue-parser@v3
+              id: issue-parser
+              with:
+                template-path: .github/ISSUE_TEMPLATE/01-genomics-standards.yml
+                
+            - run: echo '${{ steps.issue-parser.outputs.jsonString }}' > submission.json
+            - run: cat submission.json
+            - name: Upload submission result
+              uses: actions/upload-artifact@v4
+              with:
+                name: submission_data
+                path: submission.json
+
+    proteomics:
+        runs-on: ubuntu-latest
+        needs: [validation]
+        outputs: 
+            data_string: ${{ steps.set-data.outputs.data }}
+        if: fromJSON(needs.validation.outputs.authorised-actor) && fromJSON(needs.validation.outputs.has-proteomics)
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v4
+              with:
+                node-version: '20'
+            - uses: stefanbuck/github-issue-parser@v3
+              id: issue-parser
+              with:
+                template-path: .github/ISSUE_TEMPLATE/02-proteomics-standards.yml
+                
+            - run: echo '${{ steps.issue-parser.outputs.jsonString }}' > submission.json
+            - run: cat submission.json
+            - name: Upload submission result
+              uses: actions/upload-artifact@v4
+              with:
+                name: submission_data
+                path: submission.json
+
+    metabolomics:
+        runs-on: ubuntu-latest
+        needs: [validation]
+        outputs: 
+            data_string: ${{ steps.set-data.outputs.data }}
+        if: fromJSON(needs.validation.outputs.authorised-actor) && fromJSON(needs.validation.outputs.has-metabolomics)
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v4
+              with:
+                node-version: '20'
+            - uses: stefanbuck/github-issue-parser@v3
+              id: issue-parser
+              with:
+                template-path: .github/ISSUE_TEMPLATE/03-metabolomics-standards.yml
+                
+            - run: echo '${{ steps.issue-parser.outputs.jsonString }}' > submission.json
+            - run: cat submission.json
+            - name: Upload submission result
+              uses: actions/upload-artifact@v4
+              with:
+                name: submission_data
+                path: submission.json
+
+    universal:
+        runs-on: ubuntu-latest
+        needs: [validation]
+        outputs: 
+            data_string: ${{ steps.set-data.outputs.data }}
+        if: fromJSON(needs.validation.outputs.authorised-actor) && fromJSON(needs.validation.outputs.has-universal)
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v4
+              with:
+                node-version: '20'
+            - uses: stefanbuck/github-issue-parser@v3
+              id: issue-parser
+              with:
+                template-path: .github/ISSUE_TEMPLATE/04-universal-standards.yml
+                
+            - run: echo '${{ steps.issue-parser.outputs.jsonString }}' > submission.json
+            - run: cat submission.json
+            - name: Upload submission result
+              uses: actions/upload-artifact@v4
+              with:
+                name: submission_data
+                path: submission.json
+
+    completion:
+        runs-on: ubuntu-latest
+        needs: [genomics, proteomics, metabolomics, universal]
+        if: |
+            !failure() 
+            && !cancelled() 
+            && (needs.genomics.result == 'success' || needs.proteomics.result == 'success' || needs.metabolomics.result == 'success' || needs.universal.result == 'success')
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v4
+              with:
+                node-version: '20' 
+                cache: "yarn"
+
+            - name: Download submission result
+              uses: actions/download-artifact@v4
+              with:
+                name: submission_data
+            - name: Restore data
+              id: set-completion-data
+              shell: bash
+              run: |
+                data=`cat submission.json`
+                echo $data > submission.json
+
+            - name: Set variables
+              id: set-variables
+              shell: bash
+              run: |
+                if [[ "${{ needs.genomics.result }}" == "success" ]]; then
+                  echo "genomics" > submitter.txt
+                elif [[ "${{ needs.proteomics.result }}" == "success" ]]; then
+                  echo "proteomics" > submitter.txt
+                elif [[ "${{ needs.metabolomics.result }}" == "success" ]]; then
+                  echo "metabolomics" > submitter.txt
+                elif [[ "${{ needs.universal.result }}" == "success" ]]; then
+                  echo "universal" > submitter.txt
+                fi
+
+            - run: cat submitter.txt
+            - run: node ./process-submission.cjs
+            
+            - name: Commit changes
+              shell: bash
+              run: |
+                  git config --global user.email "github-actions[bot]@users.noreply.github.com" && \
+                  git config --global user.name "github-actions[bot]" && \
+                  git add ./src/data/database.json && \
+                  git add CONTRIBUTING.md && \
+                  git commit -m 'Update Standards' && \
+                  git push
+
+            - name: Close Issue
+              run: gh issue close --comment "Auto-closing issue" ${{ github.event.issue.number }}
+              env:
+                GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

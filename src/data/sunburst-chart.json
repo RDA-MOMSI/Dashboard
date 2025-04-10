@@ -1,0 +1,3964 @@
+{
+  "name": "Standards",
+  "children": [
+    {
+      "name": "Plan",
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 6
+                    }
+                  ],
+                  "count": 6
+                }
+              ],
+              "count": 95
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                }
+              ],
+              "count": 44
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                }
+              ],
+              "count": 52
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 29
+                    }
+                  ],
+                  "count": 29
+                },
+                {
+                  "name": "Other (Community-Driven)",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                }
+              ],
+              "count": 58
+            }
+          ],
+          "count": 249
+        },
+        {
+          "name": "Experimental Design",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                }
+              ],
+              "count": 28
+            },
+            {
+              "name": "Proteomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Metabolomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Universal",
+              "children": [],
+              "count": 0
+            }
+          ],
+          "count": 28
+        }
+      ],
+      "count": 277
+    },
+    {
+      "name": "Collect",
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 6
+                    }
+                  ],
+                  "count": 6
+                }
+              ],
+              "count": 95
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                }
+              ],
+              "count": 44
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                }
+              ],
+              "count": 52
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 29
+                    }
+                  ],
+                  "count": 29
+                },
+                {
+                  "name": "Other (Community-Driven)",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                }
+              ],
+              "count": 58
+            }
+          ],
+          "count": 249
+        },
+        {
+          "name": "All of the above",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                }
+              ],
+              "count": 28
+            },
+            {
+              "name": "Proteomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Metabolomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Universal",
+              "children": [],
+              "count": 0
+            }
+          ],
+          "count": 28
+        }
+      ],
+      "count": 277
+    },
+    {
+      "name": "Process",
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 6
+                    }
+                  ],
+                  "count": 6
+                }
+              ],
+              "count": 95
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                }
+              ],
+              "count": 44
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                }
+              ],
+              "count": 52
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 29
+                    }
+                  ],
+                  "count": 29
+                },
+                {
+                  "name": "Other (Community-Driven)",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                }
+              ],
+              "count": 58
+            }
+          ],
+          "count": 249
+        },
+        {
+          "name": "Metadata Collection",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                }
+              ],
+              "count": 28
+            },
+            {
+              "name": "Proteomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Metabolomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Universal",
+              "children": [],
+              "count": 0
+            }
+          ],
+          "count": 28
+        }
+      ],
+      "count": 277
+    },
+    {
+      "name": "Analysis",
+      "children": [
+        {
+          "name": "All of the above",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                }
+              ],
+              "count": 89
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                }
+              ],
+              "count": 37
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                }
+              ],
+              "count": 35
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                }
+              ],
+              "count": 4
+            }
+          ],
+          "count": 165
+        },
+        {
+          "name": "Other",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                }
+              ],
+              "count": 76
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                }
+              ],
+              "count": 20
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                }
+              ],
+              "count": 40
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 29
+                    }
+                  ],
+                  "count": 29
+                }
+              ],
+              "count": 56
+            }
+          ],
+          "count": 192
+        },
+        {
+          "name": "Interpretation Analysis",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                }
+              ],
+              "count": 87
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                }
+              ],
+              "count": 40
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                }
+              ],
+              "count": 52
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 29
+                    }
+                  ],
+                  "count": 29
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                }
+              ],
+              "count": 47
+            }
+          ],
+          "count": 226
+        },
+        {
+          "name": "Quantitative Analysis",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                }
+              ],
+              "count": 48
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                }
+              ],
+              "count": 33
+            },
+            {
+              "name": "Metabolomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Universal",
+              "children": [],
+              "count": 0
+            }
+          ],
+          "count": 81
+        },
+        {
+          "name": "Qualitative Analysis",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                }
+              ],
+              "count": 28
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                }
+              ],
+              "count": 33
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                }
+              ],
+              "count": 7
+            },
+            {
+              "name": "Universal",
+              "children": [],
+              "count": 0
+            }
+          ],
+          "count": 68
+        },
+        {
+          "name": "Software Specific",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                }
+              ],
+              "count": 48
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                }
+              ],
+              "count": 3
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                }
+              ],
+              "count": 21
+            },
+            {
+              "name": "Universal",
+              "children": [],
+              "count": 0
+            }
+          ],
+          "count": 72
+        },
+        {
+          "name": null,
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 6
+                    }
+                  ],
+                  "count": 6
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                }
+              ],
+              "count": 93
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                }
+              ],
+              "count": 36
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                }
+              ],
+              "count": 7
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 29
+                    }
+                  ],
+                  "count": 29
+                },
+                {
+                  "name": "Other (Community-Driven)",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                }
+              ],
+              "count": 58
+            }
+          ],
+          "count": 194
+        }
+      ],
+      "count": 998
+    },
+    {
+      "name": "Preservation",
+      "children": [
+        {
+          "name": "All of the above",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 6
+                    }
+                  ],
+                  "count": 6
+                }
+              ],
+              "count": 95
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                }
+              ],
+              "count": 37
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                }
+              ],
+              "count": 52
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Other (Community-Driven)",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                }
+              ],
+              "count": 29
+            }
+          ],
+          "count": 213
+        },
+        {
+          "name": "Metadata Storage or Exchange",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                }
+              ],
+              "count": 87
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                }
+              ],
+              "count": 40
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                }
+              ],
+              "count": 52
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 29
+                    }
+                  ],
+                  "count": 29
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                }
+              ],
+              "count": 52
+            }
+          ],
+          "count": 231
+        },
+        {
+          "name": "Data (raw, processed, generated) Storage",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 6
+                    }
+                  ],
+                  "count": 6
+                }
+              ],
+              "count": 54
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                }
+              ],
+              "count": 40
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                }
+              ],
+              "count": 31
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                }
+              ],
+              "count": 4
+            }
+          ],
+          "count": 129
+        },
+        {
+          "name": null,
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                }
+              ],
+              "count": 28
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                }
+              ],
+              "count": 17
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                }
+              ],
+              "count": 9
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                }
+              ],
+              "count": 4
+            }
+          ],
+          "count": 58
+        },
+        {
+          "name": "Metadata Storage",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                }
+              ],
+              "count": 28
+            },
+            {
+              "name": "Proteomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Metabolomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Universal",
+              "children": [],
+              "count": 0
+            }
+          ],
+          "count": 28
+        }
+      ],
+      "count": 659
+    },
+    {
+      "name": "Sharing",
+      "children": [
+        {
+          "name": "Knowledgebase (machine-readable)",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                }
+              ],
+              "count": 87
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                }
+              ],
+              "count": 23
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                }
+              ],
+              "count": 42
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 29
+                    }
+                  ],
+                  "count": 29
+                }
+              ],
+              "count": 52
+            }
+          ],
+          "count": 204
+        },
+        {
+          "name": "All of the above",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 6
+                    }
+                  ],
+                  "count": 6
+                }
+              ],
+              "count": 84
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                }
+              ],
+              "count": 24
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                }
+              ],
+              "count": 36
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 29
+                    }
+                  ],
+                  "count": 29
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Other (Community-Driven)",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                }
+              ],
+              "count": 58
+            }
+          ],
+          "count": 202
+        },
+        {
+          "name": "Repository (machine-readable)",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 6
+                    }
+                  ],
+                  "count": 6
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                }
+              ],
+              "count": 95
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                }
+              ],
+              "count": 40
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                }
+              ],
+              "count": 47
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 29
+                    }
+                  ],
+                  "count": 29
+                }
+              ],
+              "count": 33
+            }
+          ],
+          "count": 215
+        },
+        {
+          "name": "Article (human-readable)",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                }
+              ],
+              "count": 28
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                }
+              ],
+              "count": 33
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                }
+              ],
+              "count": 10
+            },
+            {
+              "name": "Universal",
+              "children": [],
+              "count": 0
+            }
+          ],
+          "count": 71
+        },
+        {
+          "name": null,
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                }
+              ],
+              "count": 28
+            },
+            {
+              "name": "Proteomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Metabolomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Universal",
+              "children": [],
+              "count": 0
+            }
+          ],
+          "count": 28
+        },
+        {
+          "name": "Other",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Proteomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                }
+              ],
+              "count": 21
+            },
+            {
+              "name": "Universal",
+              "children": [],
+              "count": 0
+            }
+          ],
+          "count": 21
+        }
+      ],
+      "count": 741
+    },
+    {
+      "name": "Reuse",
+      "children": [
+        {
+          "name": "Conditional based on linked standards",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 6
+                    }
+                  ],
+                  "count": 6
+                }
+              ],
+              "count": 93
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                }
+              ],
+              "count": 40
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                }
+              ],
+              "count": 52
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 29
+                    }
+                  ],
+                  "count": 29
+                }
+              ],
+              "count": 56
+            }
+          ],
+          "count": 241
+        },
+        {
+          "name": "Uncertain",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                }
+              ],
+              "count": 48
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                }
+              ],
+              "count": 16
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                }
+              ],
+              "count": 10
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 29
+                    }
+                  ],
+                  "count": 29
+                }
+              ],
+              "count": 29
+            }
+          ],
+          "count": 103
+        },
+        {
+          "name": "Required for Reuse",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 6
+                    }
+                  ],
+                  "count": 6
+                }
+              ],
+              "count": 84
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                }
+              ],
+              "count": 25
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 5
+                    }
+                  ],
+                  "count": 5
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                }
+              ],
+              "count": 42
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                }
+              ],
+              "count": 22
+            }
+          ],
+          "count": 173
+        },
+        {
+          "name": "Not Required for Reuse",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                }
+              ],
+              "count": 87
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                }
+              ],
+              "count": 37
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                }
+              ],
+              "count": 47
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                }
+              ],
+              "count": 11
+            }
+          ],
+          "count": 182
+        },
+        {
+          "name": "Recommended for Reuse",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                },
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 26
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 2
+                    }
+                  ],
+                  "count": 28
+                }
+              ],
+              "count": 87
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 17
+                    }
+                  ],
+                  "count": 17
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 16
+                    }
+                  ],
+                  "count": 16
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 3
+                    }
+                  ],
+                  "count": 3
+                }
+              ],
+              "count": 40
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Terminology Artefact",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 9
+                    }
+                  ],
+                  "count": 9
+                },
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 21
+                    }
+                  ],
+                  "count": 21
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 7
+                    }
+                  ],
+                  "count": 7
+                }
+              ],
+              "count": 47
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Other (Community-Driven)",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 2
+                    }
+                  ],
+                  "count": 2
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                }
+              ],
+              "count": 6
+            }
+          ],
+          "count": 180
+        },
+        {
+          "name": "Other",
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 48
+                    }
+                  ],
+                  "count": 48
+                }
+              ],
+              "count": 48
+            },
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                }
+              ],
+              "count": 4
+            },
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 10
+                    }
+                  ],
+                  "count": 10
+                }
+              ],
+              "count": 10
+            },
+            {
+              "name": "Universal",
+              "children": [],
+              "count": 0
+            }
+          ],
+          "count": 62
+        },
+        {
+          "name": null,
+          "children": [
+            {
+              "name": "Genomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Proteomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Metabolomics",
+              "children": [],
+              "count": 0
+            },
+            {
+              "name": "Universal",
+              "children": [
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 11
+                    }
+                  ],
+                  "count": 11
+                },
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "undefined",
+                      "count": 4
+                    }
+                  ],
+                  "count": 4
+                }
+              ],
+              "count": 15
+            }
+          ],
+          "count": 15
+        }
+      ],
+      "count": 956
+    }
+  ],
+  "count": 4185
+}

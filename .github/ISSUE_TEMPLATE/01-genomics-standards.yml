@@ -1,0 +1,252 @@
+name: Genomics Standards
+description: Submit a new genomics standard for review.
+labels: ["genomics", "review"]
+assignees:
+  - turukawa
+  - lnanderson
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to contribute this new genomics standard!
+  - type: dropdown
+    id: standard-type
+    attributes:
+      label: Standard Type
+      description: What type of standard is it?
+      options:
+        - Reporting Guideline
+        - Terminology artefact
+        - Model/Format
+        - Identifier Schema
+        - Multi-Standard Applicable
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Status
+      description: What is the status of the standard?
+      options:
+        - Established
+        - Established/Maintained
+        - In Development
+        - Uncertain
+        - Depreciated
+    validations:
+      required: true
+  - type: input
+    id: country
+    attributes:
+      label: Country
+      description: What region or country is the organisation active in?
+      placeholder: e.g. Worldwide
+    validations:
+      required: true
+  - type: dropdown
+    id: domain-class-subclass
+    attributes:
+      label: Domain Class/Subclass
+      description: What is the domain class or -subclass of the standard?
+      multiple: true
+      options:
+        - Genomics
+        - Transcriptomics
+        - Epigenomics
+        - Genomics/Transcriptomics
+        - Genomics/Transcriptomics/Epigenomics
+        - Multi-omics Applicable
+    validations:
+      required: true
+  - type: dropdown
+    id: application-technology
+    attributes:
+      label: Application Technology
+      description: What is the application technology of the standard?
+      multiple: true
+      options:
+        - Sequencing (general)
+        - High-Throughput Sequencing
+        - DNA Sequencing
+        - RNA Sequencing
+        - Methylation Sequencing
+        - Long-Read Sequencing
+        - Array Sequencing
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: standard-name
+    attributes:
+      label: Standard Name
+      description: What is the name of the standard?
+      placeholder: e.g. FAIR Header Reference Genome
+    validations:
+      required: true
+  - type: input
+    id: acronym
+    attributes:
+      label: Acronym
+      description: What is the standard's acronym?
+      placeholder: e.g. FHR
+  - type: dropdown
+    id: plan
+    attributes:
+      label: Plan
+      description: What is the [data management plan](https://rdmkit.elixir-europe.org/planning)?
+      options:
+        - Experimental Design
+        - Computed Analysis Design
+        - All of the above
+        - N/A
+    validations:
+      required: true
+  - type: dropdown
+    id: collect
+    attributes:
+      label: Collect
+      description: How are data [collected](https://rdmkit.elixir-europe.org/collecting)?
+      options:
+        - Sample Preparation
+        - Data Acquisition
+        - All of the above
+        - N/A
+    validations:
+      required: true
+  - type: dropdown
+    id: process
+    attributes:
+      label: Process
+      description: How are data [processed](https://rdmkit.elixir-europe.org/processing)?
+      options:
+        - Data Pre-Processing
+        - Data Feature Detection/Identification
+        - Data Normalization
+        - Metadata Collection
+        - All of the above
+        - N/A
+    validations:
+      required: true
+  - type: dropdown
+    id: analysis
+    attributes:
+      label: Analysis
+      description: How are data [analysed](https://rdmkit.elixir-europe.org/analysing)?
+      options:
+        - Qualitative Analysis
+        - Quantitative Analysis
+        - Statistical Analysis
+        - Interpretation Analysis
+        - Software Specific
+        - All of the above
+        - Other
+        - N/A
+    validations:
+      required: true
+  - type: dropdown
+    id: preservation
+    attributes:
+      label: Preservation
+      description: How are data [preserved](https://rdmkit.elixir-europe.org/preserving)?
+      options:
+        - Data (raw, processed, generated) Storage
+        - Metadata Storage
+        - All of the above
+        - N/A
+    validations:
+      required: true
+  - type: dropdown
+    id: sharing
+    attributes:
+      label: Sharing
+      description: How are data [shared](https://rdmkit.elixir-europe.org/sharing)?
+      options:
+        - Article (human-readable)
+        - Knowledgebase (machine-readable)
+        - Repository (machine-readable)
+        - All of the above
+        - Other
+        - N/A
+    validations:
+      required: true
+  - type: dropdown
+    id: reuse
+    attributes:
+      label: Reuse
+      description: Are data available for [reuse](https://rdmkit.elixir-europe.org/reusing)?
+      options:
+        - Required for Reuse
+        - Recommended for Reuse
+        - Not Required for Reuse
+        - Conditional based on linked standards
+        - Other
+        - Uncertain
+        - N/A
+    validations:
+      required: true
+  - type: checkboxes
+    id: meets-criteria
+    attributes:
+      label: Meets Criteria
+      description: Standard meets discussed criteria to be selected for the [MOMSI Standards Collection at FAIRsharing](https://fairsharing.org/5742). 
+      options:
+        - label: Meets criteria for the Omics Standards Collection at FAIRsharing
+  - type: input
+    id: active-affiliations
+    attributes:
+      label: Active Affiliation(s)
+      description: What organisation is the standard affiliated to?
+      placeholder: e.g. Genome Standards Consortium (GSC)
+    validations:
+      required: true
+  - type: input
+    id: homepage
+    attributes:
+      label: Homepage
+      description: What is the organization's homepage URL?
+      placeholder: e.g. https://www.gensc.org
+    validations:
+      required: true
+  - type: input
+    id: reference-article-citation-doi
+    attributes:
+      label: Reference Article Citation (DOI)
+      description: Provide a DOI for relevant references?
+      placeholder: e.g. https://doi.org/10.12688/f1000research.12342.2
+  - type: input
+    id: reference-source-code-doi
+    attributes:
+      label: Reference Source Code (DOI or URL)
+      description: Provide a URL or DOI for relevant references?
+      placeholder: e.g. https://github.com/GenomicsStandardsConsortium/mixs
+  - type: input
+    id: fairsharing-record-doi
+    attributes:
+      label: FAIRsharing Record (DOI or URL)
+      description: Provide a URL or DOI for relevant references?
+      placeholder: e.g. https://fairsharing.org/5383
+  - type: input
+    id: contributor-name
+    attributes:
+      label: Contributor Name
+      description: Provide your name for attribution as a contributor
+      placeholder: e.g. Symona Adaro
+  - type: input
+    id: contributor-orcid-id
+    attributes:
+      label: Contributor ORCID ID
+      description: Provide your ORCID ID?
+      placeholder: e.g. 0000-0000-0000-0000
+  - type: dropdown
+    id: credit
+    attributes:
+      label: CRediT
+      description: Taxonomy to describe types of contributions, [CRediT](https://credit.niso.org/).
+      options:
+        - "Data curation; Writing - review & editing"
+        - "Data curation; Writing - original draft"
+        - N/A
+  - type: textarea
+    id: comments
+    attributes:
+      label: Comments
+      description: Any additional information?
