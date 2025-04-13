@@ -85,7 +85,7 @@
             "Acronym/Short Name": "MIAME",
             "Active Affiliation(s)": "Functional Genomics Data Society (FGED)",
             "Analysis": "All of the above",
-            "Application Technology": "Sequencing (general)",
+            "Application Technology": "Array Sequencing",
             "CRediT": null,
             "Collection": "All of the above",
             "Contributor": null,
@@ -119,7 +119,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
-            "Domain Class/Subclass": "Genomics",
+            "Domain Class/Subclass": "Genomics, Transcriptomics",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.dnk0f6",
             "Homepage": "https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md",
             "Identifier": "MOMSI_G:00004",
@@ -128,7 +128,7 @@
             "Preservation": "Data (raw, processed, generated) Storage",
             "Processing": "Data Feature Detection/Identification",
             "Reference Article Citation (DOI)": "https://arxiv.org/pdf/2202.07782.pdf",
-            "Reference Source Code (DOI or URL)": "https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md",
+            "Reference Source Code (DOI or URL)": null,
             "Reuse": "Required for Reuse",
             "Sharing": "All of the above",
             "Standard Name": "Generic Feature Format Version 3",
@@ -147,7 +147,7 @@
             "Contributor ORCID ID": null,
             "Country": "United States",
             "Domain Class/Subclass": "Genomics",
-            "FAIRsharing Record (DOI or URL)": "https://fairsharing.org/5898",
+            "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.9b168d",
             "Homepage": "https://www.niaid.nih.gov/research/human-pathogen-and-vector-sequencing-metadata-standards",
             "Identifier": "MOMSI_G:00005",
             "Meets Criteria": "False",
@@ -201,7 +201,7 @@
             "Contributor ORCID ID": null,
             "Country": "United States",
             "Domain Class/Subclass": "Genomics",
-            "FAIRsharing Record (DOI or URL)": "https://fairsharing.org/5899",
+            "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.71e545",
             "Homepage": "https://www.niaid.nih.gov/research/clinical-metadata-standard",
             "Identifier": "MOMSI_G:00007",
             "Meets Criteria": "False",
@@ -436,7 +436,7 @@
             "Acronym/Short Name": "WGS",
             "Active Affiliation(s)": "Global Alliance for Genomics and Health (GA4GH)",
             "Analysis": "All of the above",
-            "Application Technology": "Sequencing (general)",
+            "Application Technology": "High-Throughput Sequencing",
             "CRediT": null,
             "Collection": "All of the above",
             "Contributor": null,
@@ -490,7 +490,7 @@
             "Acronym/Short Name": "CRAM",
             "Active Affiliation(s)": "Global Alliance for Genomics and Health (GA4GH)",
             "Analysis": "Quantitative Analysis",
-            "Application Technology": "Sequencing (general)",
+            "Application Technology": "High-Throughput Sequencing",
             "CRediT": null,
             "Collection": "Data Acquisition",
             "Contributor": null,
@@ -695,7 +695,7 @@
             "Preservation": "All of the above",
             "Processing": "All of the above",
             "Reference Article Citation (DOI)": "https://doi.org/10.1089/omi.2008.0a10",
-            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs",
+            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs/tree/main/mixs-templates/Mims_plus_combinations",
             "Reuse": "Required for Reuse",
             "Sharing": "All of the above",
             "Standard Name": "Minimum information about a metagenome sequence",
@@ -722,7 +722,7 @@
             "Preservation": "All of the above",
             "Processing": "All of the above",
             "Reference Article Citation (DOI)": "https://doi.org/10.1038/nbt1360",
-            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs",
+            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs/tree/main/mixs-templates/MigsBa_plus_combinations",
             "Reuse": "Required for Reuse",
             "Sharing": "All of the above",
             "Standard Name": "Minimal Information about a Genome Sequence: cultured bacteria/archaea",
@@ -749,7 +749,7 @@
             "Preservation": "All of the above",
             "Processing": "All of the above",
             "Reference Article Citation (DOI)": "https://doi.org/10.1038/nbt1360",
-            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs",
+            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs/tree/main/mixs-templates/MigsEu_plus_combinations",
             "Reuse": "Required for Reuse",
             "Sharing": "All of the above",
             "Standard Name": "Minimal Information about a Genome Sequence: eukaryote",
@@ -776,7 +776,7 @@
             "Preservation": "All of the above",
             "Processing": "All of the above",
             "Reference Article Citation (DOI)": "https://doi.org/10.1038/nbt1360",
-            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs",
+            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs/tree/main/mixs-templates/MigsOrg_plus_combinations",
             "Reuse": "Required for Reuse",
             "Sharing": "All of the above",
             "Standard Name": "Minimal Information about a Genome Sequence: organelle",
@@ -803,7 +803,7 @@
             "Preservation": "All of the above",
             "Processing": "All of the above",
             "Reference Article Citation (DOI)": "https://doi.org/10.1038/nbt1360",
-            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs",
+            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs/tree/main/mixs-templates/MigsPl_plus_combinations",
             "Reuse": "Required for Reuse",
             "Sharing": "All of the above",
             "Standard Name": "Minimal Information about a Genome Sequence: plasmid",
@@ -830,7 +830,7 @@
             "Preservation": "All of the above",
             "Processing": "All of the above",
             "Reference Article Citation (DOI)": "https://doi.org/10.1038/nbt1360",
-            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs",
+            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs/tree/main/mixs-templates/MigsVi_plus_combinations",
             "Reuse": "Required for Reuse",
             "Sharing": "All of the above",
             "Standard Name": "Minimal Information about a Genome Sequence: virus",
@@ -838,7 +838,7 @@
             "Status": "Established/Maintained"
         },
         {
-            "Acronym/Short Name": "MIMARK",
+            "Acronym/Short Name": "MIMARKS-SU/MIMARKS-S",
             "Active Affiliation(s)": "Genome Standards Consortium (GSC)",
             "Analysis": "All of the above",
             "Application Technology": "Sequencing (general)",
@@ -850,17 +850,17 @@
             "Country": "Worldwide",
             "Domain Class/Subclass": "Transcriptomics",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.39606a",
-            "Homepage": "https://genomicsstandardsconsortium.github.io/mixs/#checklists",
+            "Homepage": "https://genomicsstandardsconsortium.github.io/mixs/0010008/",
             "Identifier": "MOMSI_G:00031",
             "Meets Criteria": "True",
             "Planning": "Experimental Design",
             "Preservation": "All of the above",
             "Processing": "All of the above",
             "Reference Article Citation (DOI)": "https://doi.org/10.1038/nbt.1823",
-            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs",
+            "Reference Source Code (DOI or URL)": null,
             "Reuse": "Required for Reuse",
             "Sharing": "All of the above",
-            "Standard Name": "Minimum information about a marker gene sequence",
+            "Standard Name": "Minimal Information about a Marker Sequence: survey for marker gene sequences obtained directly from the environment",
             "Standard Type": "Reporting Guideline",
             "Status": "Established/Maintained"
         },
@@ -884,7 +884,7 @@
             "Preservation": "All of the above",
             "Processing": "All of the above",
             "Reference Article Citation (DOI)": "https://doi.org/10.1038/nbt.3893",
-            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs",
+            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs/tree/main/mixs-templates/Misag_plus_combinations",
             "Reuse": "Required for Reuse",
             "Sharing": "All of the above",
             "Standard Name": "Minimum information about a single amplified genome sequence",
@@ -911,7 +911,7 @@
             "Preservation": "All of the above",
             "Processing": "All of the above",
             "Reference Article Citation (DOI)": "https://doi.org/10.1038/nbt.3893",
-            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs",
+            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs/tree/main/mixs-templates/Mimag_plus_combinations",
             "Reuse": "Required for Reuse",
             "Sharing": "All of the above",
             "Standard Name": "Minimum information about a metagenome-assembled genome sequence",
@@ -938,7 +938,7 @@
             "Preservation": "All of the above",
             "Processing": "All of the above",
             "Reference Article Citation (DOI)": "https://doi.org/10.1038/nbt.4306",
-            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs",
+            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs/tree/main/mixs-templates/Miuvig_plus_combinations",
             "Reuse": "Required for Reuse",
             "Sharing": "All of the above",
             "Standard Name": "Minimum Information about an Uncultivated Virus Genome",
@@ -1677,7 +1677,7 @@
         {
             "Acronym/Short Name": "ENA MIxS",
             "Active Affiliation(s)": "EMBL-EBI",
-            "Analysis": "Other",
+            "Analysis": null,
             "Application Technology": "Sequencing (general)",
             "CRediT": null,
             "Collection": "Data Acquisition",
@@ -2459,7 +2459,7 @@
         },
         {
             "Acronym/Short Name": "MIXS ID",
-            "Active Affiliation(s)": "NMDC and GSC",
+            "Active Affiliation(s)": "NMDC and Genome Standards Consortium (GSC)",
             "Analysis": null,
             "Application Technology": "Sequencing (general)",
             "CRediT": null,
@@ -2509,6 +2509,60 @@
             "Sharing": "All of the above",
             "Standard Name": "Sequence Read Archive Identifier Schema",
             "Standard Type": "Identifier Schema",
+            "Status": "Established/Maintained"
+        },
+        {
+            "Acronym/Short Name": "MIBiG",
+            "Active Affiliation(s)": "Genome Standards Consortium (GSC)",
+            "Analysis": "Interpretation Analysis",
+            "Application Technology": "Other",
+            "CRediT": null,
+            "Collection": "All of the above",
+            "Contributor": null,
+            "Contributor Name": null,
+            "Contributor ORCID ID": null,
+            "Country": "Worldwide",
+            "Domain Class/Subclass": "Multi-omics Applicable",
+            "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.jqfgxs",
+            "Homepage": "http://mibig.secondarymetabolites.org/",
+            "Identifier": "MOMSI_G:00093",
+            "Meets Criteria": "False",
+            "Planning": "All of the above",
+            "Preservation": "Metadata Storage or Exchange",
+            "Processing": "Metadata Collection",
+            "Reference Article Citation (DOI)": "https://doi.org/10.1038/nchembio.1890",
+            "Reference Source Code (DOI or URL)": null,
+            "Reuse": "Conditional based on linked standards",
+            "Sharing": "All of the above",
+            "Standard Name": "Minimum Information about a Biosynthetic Gene cluster",
+            "Standard Type": "Reporting Guideline",
+            "Status": "Established/Maintained"
+        },
+        {
+            "Acronym/Short Name": "MIMARKS-SP/MIMARKS-C",
+            "Active Affiliation(s)": "Genome Standards Consortium (GSC)",
+            "Analysis": "All of the above",
+            "Application Technology": "Sequencing (general)",
+            "CRediT": null,
+            "Collection": "All of the above",
+            "Contributor": null,
+            "Contributor Name": null,
+            "Contributor ORCID ID": null,
+            "Country": "Worldwide",
+            "Domain Class/Subclass": "Transcriptomics",
+            "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.zvrep1",
+            "Homepage": "https://genomicsstandardsconsortium.github.io/mixs/0010009/",
+            "Identifier": "MOMSI_G:00094",
+            "Meets Criteria": "True",
+            "Planning": "Experimental Design",
+            "Preservation": "All of the above",
+            "Processing": "All of the above",
+            "Reference Article Citation (DOI)": "https://doi.org/10.1038/nbt.1823",
+            "Reference Source Code (DOI or URL)": "https://github.com/GenomicsStandardsConsortium/mixs/tree/main/mixs-templates/MimarksC_plus_combinations",
+            "Reuse": "Required for Reuse",
+            "Sharing": "All of the above",
+            "Standard Name": "Minimal Information about a Marker Sequence: specimen for marker gene sequences from cultured or voucher-identifiable specimens",
+            "Standard Type": "Reporting Guideline",
             "Status": "Established/Maintained"
         }
     ],
@@ -3576,7 +3630,7 @@
             "Contributor": null,
             "Contributor Name": null,
             "Contributor ORCID ID": null,
-            "Country": "Worldwide",
+            "Country": "France, United Kingdom",
             "Domain Class/Subclass": "Metabolomics",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.exz30t",
             "Homepage": "https://github.com/MSI-Metabolomics-Standards-Initiative/CIMR/",
@@ -3920,7 +3974,7 @@
     ],
     "proteomics": [
         {
-            "Acronym/Short Name": "PSI CV MS",
+            "Acronym/Short Name": "PSI-MS CV",
             "Active Affiliation(s)": "HUPO - Proteomics Standards Initiative",
             "Analysis": "Interpretation Analysis",
             "Application Technology": "Mass Spectrometry (general)",
@@ -4157,7 +4211,7 @@
             "Description": "Tab-delimited format that describes the sample characteristics and the relationships between samples and data files included in a dataset.",
             "Domain Class/Subclass": "Proteomics, Metaproteomics",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.4a8cd2",
-            "Homepage": "https://github.com/bigbio/proteomics-metadata-standard/tree/master/sdrf-proteomics",
+            "Homepage": "https://www.psidev.info/sdrf-sample-data-relationship-format",
             "Identifier": "MOMSI_P:00008",
             "Meets Criteria": "True",
             "Planning": "Computed Analysis Design",
@@ -4984,7 +5038,7 @@
             "Status": "Established/Maintained"
         },
         {
-            "Acronym/Short Name": "PR/PRO",
+            "Acronym/Short Name": "PR",
             "Active Affiliation(s)": "PRO Consortium",
             "Analysis": "Interpretation Analysis",
             "Application Technology": "Mass Spectrometry (general)",
@@ -5163,6 +5217,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.987d5a",
             "Homepage": "https://www.iso.org/iso-8601-date-and-time-format.html",
             "Identifier": "MOMSI_U:00000",
@@ -5176,8 +5231,7 @@
             "Sharing": "All of the above",
             "Standard Name": "Date and time format",
             "Standard Type": "Model/Format",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "DOI",
@@ -5189,6 +5243,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "FAIR Principles",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.hFLKCn",
             "Homepage": "https://www.doi.org/",
             "Identifier": "MOMSI_U:00001",
@@ -5196,14 +5251,13 @@
             "Planning": "All of the above",
             "Preservation": "All of the above",
             "Processing": null,
-            "Reference Article Citation (DOI)": null,
+            "Reference Article Citation (DOI)": "https://doi.org/10.1000/292",
             "Reference Source Code (DOI or URL)": null,
             "Reuse": "Required for Reuse",
             "Sharing": "All of the above",
             "Standard Name": "Digital Object Identifier",
             "Standard Type": "Identifier Schema",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "FAIR Principles"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "IGSN",
@@ -5215,6 +5269,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.c7f365",
             "Homepage": "https://www.igsn.org/",
             "Identifier": "MOMSI_U:00002",
@@ -5228,8 +5283,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "International Generic Sample Number",
             "Standard Type": "Identifier Schema",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "ISA-TAB",
@@ -5241,6 +5295,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.53gp75",
             "Homepage": "https://isa-specs.readthedocs.io/en/latest/isatab.html",
             "Identifier": "MOMSI_U:00003",
@@ -5254,8 +5309,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "ISA Metadata Framework",
             "Standard Type": "Multi-Standard Applicable",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "LinkML",
@@ -5267,6 +5321,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.cb7086",
             "Homepage": "https://linkml.io/linkml/; https://linkml.github.io/ ",
             "Identifier": "MOMSI_U:00004",
@@ -5280,8 +5335,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Linked Data Modeling Language",
             "Standard Type": "Multi-Standard Applicable",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "RO-Crate",
@@ -5293,6 +5347,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.wUoZKE",
             "Homepage": "https://w3id.org/ro/crate",
             "Identifier": "MOMSI_U:00005",
@@ -5301,13 +5356,12 @@
             "Preservation": "Metadata Storage or Exchange",
             "Processing": "Metadata Collection",
             "Reference Article Citation (DOI)": "https://doi.org/10.3233/DS-210053",
-            "Reference Source Code (DOI or URL)": "https://doi.org/10.5281/zenodo.5146227",
+            "Reference Source Code (DOI or URL)": "https://doi.org/10.5281/zenodo.5146227; https://doi.org/10.5281/zenodo.7867028 ",
             "Reuse": "Conditional based on linked standards",
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Research Object Crate",
             "Standard Type": "Multi-Standard Applicable",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "ORCID",
@@ -5319,6 +5373,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.OrNi1L",
             "Homepage": "https://support.orcid.org/hc/en-us/articles/360006897674-Structure-of-the-ORCID-Identifier",
             "Identifier": "MOMSI_U:00006",
@@ -5332,8 +5387,7 @@
             "Sharing": "All of the above",
             "Standard Name": "Open Researcher and Contributor IDentifier",
             "Standard Type": "Identifier Schema",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "ISO 20691",
@@ -5345,6 +5399,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://fairsharing.org/3533",
             "Homepage": "https://www.iso.org/standard/68848.html",
             "Identifier": "MOMSI_U:00007",
@@ -5358,34 +5413,33 @@
             "Sharing": "Repository (machine-readable)",
             "Standard Name": "Requirements for data formatting and description in the life sciences",
             "Standard Type": "Reporting Guideline",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "PIDINST v.1.0",
             "Active Affiliation(s)": "Research Data Alliance (RDA)",
-            "Analysis": "Interpretation Analysis",
+            "Analysis": null,
             "CRediT": null,
             "Collection": "Data Acquisition",
             "Contributor": null,
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices, Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.209c8e",
             "Homepage": "https://www.rd-alliance.org/groups/persistent-identification-instruments-wg;https://www.pidinst.org/ ",
             "Identifier": "MOMSI_U:00008",
             "Meets Criteria": "True",
-            "Planning": "All of the above",
+            "Planning": "Experimental Design",
             "Preservation": "Metadata Storage or Exchange",
-            "Processing": "Metadata Collection",
+            "Processing": null,
             "Reference Article Citation (DOI)": "https://doi.org/10.15497/RDA00070",
             "Reference Source Code (DOI or URL)": "https://github.com/rdawg-pidinst/schema;https://github.com/rdawg-pidinst  ",
-            "Reuse": "Required for Reuse",
+            "Reuse": "Recommended for Reuse",
             "Sharing": "All of the above",
             "Standard Name": "Metadata Schema for the Persistent Identification of Instruments (1.0)",
             "Standard Type": "Model/Format",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable, General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "RDaF 2.0",
@@ -5397,6 +5451,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "United States",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.f0aee1",
             "Homepage": "https://www.nist.gov/programs-projects/research-data-framework-rdaf",
             "Identifier": "MOMSI_U:00009",
@@ -5410,8 +5465,7 @@
             "Sharing": "All of the above",
             "Standard Name": "NIST Research Data Framework (RDaF) (Version 2.0)",
             "Standard Type": "Reporting Guideline",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "OBO Foundary",
@@ -5423,6 +5477,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.847069",
             "Homepage": "https://obofoundry.org/",
             "Identifier": "MOMSI_U:00010",
@@ -5436,8 +5491,7 @@
             "Sharing": "All of the above",
             "Standard Name": "OBO Foundary Ontology Collection",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "Identifiers.org",
@@ -5449,6 +5503,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.2b0d92",
             "Homepage": "https://docs.identifiers.org/pages/identification_scheme.html",
             "Identifier": "MOMSI_U:00011",
@@ -5462,8 +5517,7 @@
             "Sharing": "All of the above",
             "Standard Name": "Identifiers.org namespace",
             "Standard Type": "Identifier Schema",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "ROR",
@@ -5475,6 +5529,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.1jKfji",
             "Homepage": "https://ror.org/",
             "Identifier": "MOMSI_U:00012",
@@ -5488,8 +5543,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Research Organization Registry",
             "Standard Type": "Identifier Schema",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "CURIE",
@@ -5501,6 +5555,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.af21db",
             "Homepage": "https://www.w3.org/TR/2010/NOTE-curie-20101216/",
             "Identifier": "MOMSI_U:00013",
@@ -5514,8 +5569,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Compact URI",
             "Standard Type": "Identifier Schema",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "RRID",
@@ -5527,6 +5581,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.ATwSZG",
             "Homepage": "https://www.rrids.org/",
             "Identifier": "MOMSI_U:00014",
@@ -5540,8 +5595,7 @@
             "Sharing": "All of the above",
             "Standard Name": "Research Resource Identifier",
             "Standard Type": "Identifier Schema",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "hdl",
@@ -5553,6 +5607,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "FAIR Principles",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.0b7e54",
             "Homepage": "http://handle.net/",
             "Identifier": "MOMSI_U:00015",
@@ -5566,8 +5621,7 @@
             "Sharing": "All of the above",
             "Standard Name": "handle identifier",
             "Standard Type": "Identifier Schema",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "FAIR Principles"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "CRediT",
@@ -5579,6 +5633,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.fe4816",
             "Homepage": "https://credit.niso.org/",
             "Identifier": "MOMSI_U:00016",
@@ -5592,8 +5647,7 @@
             "Sharing": "All of the above",
             "Standard Name": "Contributor Roles Taxonomy",
             "Standard Type": "Multi-Standard Applicable",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "URI",
@@ -5605,6 +5659,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.d261e1",
             "Homepage": "https://www.rfc-editor.org/rfc/rfc3986",
             "Identifier": "MOMSI_U:00017",
@@ -5617,9 +5672,8 @@
             "Reuse": "Conditional based on linked standards",
             "Sharing": "All of the above",
             "Standard Name": "Uniform Resource Identifier",
-            "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Standard Type": "Identifier Schema",
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "ISO/TS 22943:2022",
@@ -5631,6 +5685,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.54e4e8",
             "Homepage": "https://www.iso.org/standard/83121.html",
             "Identifier": "MOMSI_U:00018",
@@ -5644,8 +5699,7 @@
             "Sharing": "All of the above",
             "Standard Name": "ISO/TS 22943:2022, Information and documentation \u2014 Principles of identification",
             "Standard Type": "Identifier Schema",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "PID Guidelines",
@@ -5657,6 +5711,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "FAIR Principles",
             "FAIRsharing Record (DOI or URL)": "pending",
             "Homepage": "https://www.rd-alliance.org/groups/national-pid-strategies-interest-group",
             "Identifier": "MOMSI_U:00019",
@@ -5670,8 +5725,7 @@
             "Sharing": "All of the above",
             "Standard Name": "RDA National PID Strategies Guide and Checklist",
             "Standard Type": "Reporting Guideline",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "FAIR Principles"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "JSON",
@@ -5683,6 +5737,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.5bbab9",
             "Homepage": "https://www.iso.org/standard/71616.html",
             "Identifier": "MOMSI_U:00020",
@@ -5696,8 +5751,7 @@
             "Sharing": "All of the above",
             "Standard Name": "JavaScript Object Notation",
             "Standard Type": "Model/Format",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "JSON-LD",
@@ -5709,6 +5763,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.8f9bbb",
             "Homepage": "https://www.w3.org/TR/json-ld/",
             "Identifier": "MOMSI_U:00021",
@@ -5722,8 +5777,7 @@
             "Sharing": "All of the above",
             "Standard Name": "JavaScript Object Notation for Linked Data",
             "Standard Type": "Model/Format",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "Bioschemas",
@@ -5735,6 +5789,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://fairsharing.org/4744",
             "Homepage": "https://bioschemas.org/",
             "Identifier": "MOMSI_U:00022",
@@ -5748,8 +5803,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Bioschemas Data Model Schema",
             "Standard Type": "Model/Format",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "MONDO",
@@ -5761,6 +5815,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.b2979t",
             "Homepage": "https://monarch-initiative.github.io/mondo",
             "Identifier": "MOMSI_U:00023",
@@ -5774,8 +5829,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Mondo Disease Ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "NCBITAXON",
@@ -5787,6 +5841,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.fj07xj",
             "Homepage": "https://obofoundry.org/ontology/ncbitaxon.html",
             "Identifier": "MOMSI_U:00024",
@@ -5800,8 +5855,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "NCBI Taxonomy",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "CL",
@@ -5813,6 +5867,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.j9y503",
             "Homepage": "https://obophenotype.github.io/cell-ontology/",
             "Identifier": "MOMSI_U:00025",
@@ -5826,8 +5881,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Cell Ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "BTO",
@@ -5839,6 +5893,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.1414v8",
             "Homepage": "http://www.brenda-enzymes.info/",
             "Identifier": "MOMSI_U:00026",
@@ -5852,8 +5907,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "BRENDA tissue / enzyme source",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "GO",
@@ -5865,6 +5919,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.6xq0ee",
             "Homepage": "https://geneontology.org/",
             "Identifier": "MOMSI_U:00027",
@@ -5878,8 +5933,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Gene Ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "OBI",
@@ -5891,6 +5945,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.284e1z",
             "Homepage": "http://obi-ontology.org/",
             "Identifier": "MOMSI_U:00028",
@@ -5904,8 +5959,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Ontology for Biomedical Investigations",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "EDAM",
@@ -5917,6 +5971,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.a6r7zs",
             "Homepage": "EDAM: Ontology of bioscientific data analysis and data management (edamontology.org)",
             "Identifier": "MOMSI_U:00029",
@@ -5930,8 +5985,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Ontology of bioscientific data analysis and data management",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "HP",
@@ -5943,6 +5997,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.kbtt7f",
             "Homepage": "http://www.human-phenotype-ontology.org/",
             "Identifier": "MOMSI_U:00030",
@@ -5956,8 +6011,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Human Phenotype Ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "SWO",
@@ -5969,6 +6023,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.sp3szt",
             "Homepage": "https://github.com/allysonlister/swo",
             "Identifier": "MOMSI_U:00031",
@@ -5980,10 +6035,9 @@
             "Reference Source Code (DOI or URL)": null,
             "Reuse": "Conditional based on linked standards",
             "Sharing": "Knowledgebase (machine-readable)",
-            "Standard Name": "Software ontology",
+            "Standard Name": "Software Ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "STATO",
@@ -5995,6 +6049,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.na5xp",
             "Homepage": "http://stato-ontology.org/",
             "Identifier": "MOMSI_U:00032",
@@ -6008,8 +6063,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "The Statistical Methods Ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "BFO",
@@ -6021,6 +6075,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.wcpd6f",
             "Homepage": "https://www.iso.org/standard/74572.html; https://basic-formal-ontology.org/ ",
             "Identifier": "MOMSI_U:00033",
@@ -6034,8 +6089,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Basic Formal Ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "EFO",
@@ -6047,6 +6101,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.1gr4tz",
             "Homepage": "https://www.ebi.ac.uk/efo/",
             "Identifier": "MOMSI_U:00034",
@@ -6060,8 +6115,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Environmental Factor Ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "UO",
@@ -6073,6 +6127,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.mjnypw",
             "Homepage": "https://github.com/bio-ontology-research-group/unit-ontology",
             "Identifier": "MOMSI_U:00035",
@@ -6086,8 +6141,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Units of Measure Ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "OWL",
@@ -6099,6 +6153,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.atygwy",
             "Homepage": "http://www.w3.org/TR/owl-overview/",
             "Identifier": "MOMSI_U:00036",
@@ -6112,8 +6167,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Web ontology language",
             "Standard Type": "Model/Format",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "OBO",
@@ -6125,6 +6179,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.aa0eat",
             "Homepage": "https://owlcollab.github.io/oboformat/doc/obo-syntax.html",
             "Identifier": "MOMSI_U:00037",
@@ -6138,8 +6193,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "OBO file format",
             "Standard Type": "Model/Format",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "PATO",
@@ -6151,6 +6205,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.ezwdhz",
             "Homepage": "https://github.com/pato-ontology/pato/",
             "Identifier": "MOMSI_U:00038",
@@ -6164,8 +6219,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Phenotype And Trait Ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "UBERON",
@@ -6177,6 +6231,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.4c0b6b",
             "Homepage": "http://uberon.org/",
             "Identifier": "MOMSI_U:00039",
@@ -6190,8 +6245,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Uber-anatomy ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "OMP",
@@ -6203,6 +6257,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.cc3f2x",
             "Homepage": "https://microbialphenotypes.org/",
             "Identifier": "MOMSI_U:00040",
@@ -6216,8 +6271,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Ontology of Microbial Phenotypes",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "RO",
@@ -6229,6 +6283,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.9w8ea0",
             "Homepage": "http://oborel.github.io/",
             "Identifier": "MOMSI_U:00041",
@@ -6242,8 +6297,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "OBO Relations Ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "CARE",
@@ -6255,6 +6309,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "CARE Principles",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.1faf1c",
             "Homepage": "https://www.gida-global.org/care",
             "Identifier": "MOMSI_U:00042",
@@ -6268,8 +6323,7 @@
             "Sharing": "All of the above",
             "Standard Name": "The CARE Principles for Indigenous Data Governance",
             "Standard Type": "Other (Community-Driven)",
-            "Status": "Established",
-            "Universal Omics Class/Subclass": "CARE Principles"
+            "Status": "Established"
         },
         {
             "Acronym/Short Name": "FAIR",
@@ -6281,6 +6335,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "FAIR Principles",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.WWI10U",
             "Homepage": "https://www.go-fair.org/fair-principles/",
             "Identifier": "MOMSI_U:00043",
@@ -6294,8 +6349,7 @@
             "Sharing": "All of the above",
             "Standard Name": "The FAIR Guiding Principles for scientific data management and stewardship",
             "Standard Type": "Other (Community-Driven)",
-            "Status": "Established",
-            "Universal Omics Class/Subclass": "FAIR Principles"
+            "Status": "Established"
         },
         {
             "Acronym/Short Name": "UUID/GUID",
@@ -6307,6 +6361,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "United States",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.d6d54c",
             "Homepage": "https://www.rfc-editor.org/rfc/rfc9562",
             "Identifier": "MOMSI_U:00044",
@@ -6320,8 +6375,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Universally Unique Identifier/Globally Unique Identifier",
             "Standard Type": "Multi-Standard Applicable",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "FORCE11 Data Principles",
@@ -6333,6 +6387,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.9hynwc",
             "Homepage": "https://www.force11.org/group/research-data-publishing-ethics",
             "Identifier": "MOMSI_U:00045",
@@ -6346,8 +6401,7 @@
             "Sharing": "All of the above",
             "Standard Name": "FORCE11 Data Citation Principles",
             "Standard Type": "Reporting Guideline",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "NCBO BioPortal",
@@ -6359,6 +6413,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://fairsharing.org/10.25504/FAIRsharing.4m97ah",
             "Homepage": "https://bioportal.bioontology.org/",
             "Identifier": "MOMSI_U:00046",
@@ -6372,8 +6427,7 @@
             "Sharing": "All of the above",
             "Standard Name": "National Center for Biomedical Ontology BioPortal",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "SIFR BioPortal",
@@ -6385,6 +6439,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "France",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://fairsharing.org/5960",
             "Homepage": "https://bioportal.lirmm.fr/",
             "Identifier": "MOMSI_U:00047",
@@ -6398,8 +6453,7 @@
             "Sharing": "All of the above",
             "Standard Name": "Semantic Indexing of French Biomedical Data Resources BioPortal",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "AgroPortal",
@@ -6411,6 +6465,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.z4xpxx",
             "Homepage": "https://agroportal.lirmm.fr/search",
             "Identifier": "MOMSI_U:00048",
@@ -6424,8 +6479,7 @@
             "Sharing": "All of the above",
             "Standard Name": "OntoPortal Alliance AgroPortal",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "BiodivPortal",
@@ -6437,6 +6491,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.78ba11",
             "Homepage": "https://biodivportal.gfbio.org/",
             "Identifier": "MOMSI_U:00049",
@@ -6450,8 +6505,7 @@
             "Sharing": "All of the above",
             "Standard Name": "OntoPortal Alliance BiodivPortal",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "EarthPortal",
@@ -6463,6 +6517,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.76c1ee",
             "Homepage": "https://earthportal.eu/",
             "Identifier": "MOMSI_U:00050",
@@ -6476,8 +6531,7 @@
             "Sharing": "All of the above",
             "Standard Name": "OntoPortal Alliance EarthPortal",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "OntoBee",
@@ -6489,6 +6543,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.q8fx1b",
             "Homepage": "https://ontobee.org",
             "Identifier": "MOMSI_U:00051",
@@ -6502,8 +6557,7 @@
             "Sharing": "All of the above",
             "Standard Name": "Ontology Browser",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "PO",
@@ -6515,6 +6569,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "United States",
+            "Domain Class/Subclass": "Omics Applicable",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.3ngg40",
             "Homepage": "http://planteome.org/",
             "Identifier": "MOMSI_U:00052",
@@ -6528,8 +6583,7 @@
             "Sharing": "Knowledgebase (machine-readable)",
             "Standard Name": "Plant Ontology",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "Multi-Omics Applicable"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "DWC",
@@ -6541,6 +6595,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.xvf5y3",
             "Homepage": "https://dwc.tdwg.org/",
             "Identifier": "MOMSI_U:00053",
@@ -6554,8 +6609,7 @@
             "Sharing": "Repository (machine-readable)",
             "Standard Name": "Darwin Core List of Terms",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "DCMI",
@@ -6567,6 +6621,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.9vtwjs",
             "Homepage": "https://www.dublincore.org/specifications/dublin-core/dcmi-terms/",
             "Identifier": "MOMSI_U:00054",
@@ -6580,8 +6635,7 @@
             "Sharing": "Repository (machine-readable)",
             "Standard Name": "DCMI Metadata Terms",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "OLS",
@@ -6593,6 +6647,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "General Best Practices",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.Mkl9RR",
             "Homepage": "https://www.ebi.ac.uk/ols4/",
             "Identifier": "MOMSI_U:00055",
@@ -6600,14 +6655,13 @@
             "Planning": "All of the above",
             "Preservation": "Metadata Storage or Exchange",
             "Processing": null,
-            "Reference Article Citation (DOI)": null,
+            "Reference Article Citation (DOI)": "https://doi.org/10.1093/nar/gkq331",
             "Reference Source Code (DOI or URL)": "https://github.com/EBISPOT/ols4",
             "Reuse": "Uncertain",
             "Sharing": "All of the above",
             "Standard Name": "Ontology Lookup Service",
             "Standard Type": "Terminology Artefact",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "General Best Practices"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "RAiD",
@@ -6619,6 +6673,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Australia, Worldwide",
+            "Domain Class/Subclass": "FAIR Principles",
             "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.dc702a",
             "Homepage": "https://raid.org/",
             "Identifier": "MOMSI_U:00056",
@@ -6632,8 +6687,7 @@
             "Sharing": "All of the above",
             "Standard Name": "Research Activity Identifier",
             "Standard Type": "Identifier Schema",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "FAIR Principles"
+            "Status": "Established/Maintained"
         },
         {
             "Acronym/Short Name": "ISO 27729:2024",
@@ -6645,6 +6699,7 @@
             "Contributor Name": null,
             "Contributor ORCID ID": null,
             "Country": "Worldwide",
+            "Domain Class/Subclass": "FAIR Principles",
             "FAIRsharing Record (DOI or URL)": "https://fairsharing.org/6302",
             "Homepage": "https://www.iso.org/standard/87177.html",
             "Identifier": "MOMSI_U:00057",
@@ -6658,8 +6713,111 @@
             "Sharing": "All of the above",
             "Standard Name": "Information and documentation \u2014 International standard name identifier (ISNI)",
             "Standard Type": "Identifier Schema",
-            "Status": "Established/Maintained",
-            "Universal Omics Class/Subclass": "FAIR Principles"
+            "Status": "Established/Maintained"
+        },
+        {
+            "Acronym/Short Name": "uPheno",
+            "Active Affiliation(s)": "The Monarch Initiative",
+            "Analysis": "Interpretation Analysis",
+            "CRediT": null,
+            "Collection": null,
+            "Contributor": null,
+            "Contributor Name": null,
+            "Contributor ORCID ID": null,
+            "Country": "Worldwide",
+            "Domain Class/Subclass": "Omics Applicable",
+            "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.r41qhx",
+            "Homepage": "https://github.com/obophenotype/upheno",
+            "Identifier": "MOMSI_U:00058",
+            "Meets Criteria": "False",
+            "Planning": "All of the above",
+            "Preservation": "Metadata Storage or Exchange",
+            "Processing": null,
+            "Reference Article Citation (DOI)": "https://doi.org/10.1101/2024.09.18.613276",
+            "Reference Source Code (DOI or URL)": null,
+            "Reuse": "Conditional based on linked standards",
+            "Sharing": "All of the above",
+            "Standard Name": "The Unified Phenotype Ontology",
+            "Standard Type": "Terminology Artefact",
+            "Status": "Established/Maintained"
+        },
+        {
+            "Acronym/Short Name": "T4FS",
+            "Active Affiliation(s)": "Oxford e-Research Centre",
+            "Analysis": "All of the above",
+            "CRediT": null,
+            "Collection": "All of the above",
+            "Contributor": null,
+            "Contributor Name": null,
+            "Contributor ORCID ID": null,
+            "Country": "Worldwide",
+            "Domain Class/Subclass": "FAIR Principles",
+            "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.fb99fa",
+            "Homepage": "https://github.com/terms4fairskills/FAIRterminology",
+            "Identifier": "MOMSI_U:00059",
+            "Meets Criteria": "True",
+            "Planning": "All of the above",
+            "Preservation": "All of the above",
+            "Processing": "All of the above",
+            "Reference Article Citation (DOI)": null,
+            "Reference Source Code (DOI or URL)": "https://doi.org/10.5281/zenodo.4772741",
+            "Reuse": "Conditional based on linked standards",
+            "Sharing": "All of the above",
+            "Standard Name": "terms4FAIRskills FAIR Data Stewardship Terminology",
+            "Standard Type": "Terminology Artefact",
+            "Status": "Established/Maintained"
+        },
+        {
+            "Acronym/Short Name": "FAIROS PIDs",
+            "Active Affiliation(s)": "FAIROS RCN: FAIR Facilities & Instruments",
+            "Analysis": null,
+            "CRediT": null,
+            "Collection": "Data Acquisition",
+            "Contributor": null,
+            "Contributor Name": null,
+            "Contributor ORCID ID": null,
+            "Country": "United States, Worldwide",
+            "Domain Class/Subclass": "General Best Practices, Omics Applicable",
+            "FAIRsharing Record (DOI or URL)": null,
+            "Homepage": "https://ncar.github.io/FAIR-Facilities-Instruments",
+            "Identifier": "MOMSI_U:00060",
+            "Meets Criteria": "False",
+            "Planning": "Experimental Design",
+            "Preservation": "Metadata Storage or Exchange",
+            "Processing": null,
+            "Reference Article Citation (DOI)": "https://doi.org/10.7191/jeslib.964",
+            "Reference Source Code (DOI or URL)": null,
+            "Reuse": "Recommended for Reuse",
+            "Sharing": "All of the above",
+            "Standard Name": "FAIR Instruments and Facilities Research Coordination Network",
+            "Standard Type": "Identifier Schema",
+            "Status": "Established/Maintained"
+        },
+        {
+            "Acronym/Short Name": "i4iOZ",
+            "Active Affiliation(s)": "ARDC Australasian Identifiers for Instruments Community of Practice",
+            "Analysis": null,
+            "CRediT": null,
+            "Collection": "Data Acquisition",
+            "Contributor": null,
+            "Contributor Name": null,
+            "Contributor ORCID ID": null,
+            "Country": "Australia, Worldwide",
+            "Domain Class/Subclass": "General Best Practices, Omics Applicable",
+            "FAIRsharing Record (DOI or URL)": null,
+            "Homepage": "https://www.google.com/url?q=https://sites.google.com/ardc.edu.au/i4ioz/home&sa=D&source=docs&ust=1652404243631908&usg=AOvVaw3hcT3IfoUQBOJlUS2XiNm4",
+            "Identifier": "MOMSI_U:00061",
+            "Meets Criteria": "False",
+            "Planning": "Experimental Design",
+            "Preservation": "Metadata Storage or Exchange",
+            "Processing": null,
+            "Reference Article Citation (DOI)": "https://doi.org/10.5281/zenodo.7759201",
+            "Reference Source Code (DOI or URL)": null,
+            "Reuse": "Recommended for Reuse",
+            "Sharing": "All of the above",
+            "Standard Name": "Identifiers for Instruments in Australasia Community of Practice",
+            "Standard Type": "Identifier Schema",
+            "Status": "Established/Maintained"
         }
     ]
 }

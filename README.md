@@ -56,7 +56,7 @@ As part of our sustainability workflow and long-term maintenance plan this repos
 
 ####  ✅ Updates
 
-The dashboard is automatically rebuilt on any repository changes using scheduled workflows in GitHub Actions.
+The dashboard is automatically rebuilt on any repository changes using scheduled workflows in GitHub Actions. To build and deploy your own version of this dashboard and repository, please review the [DEPLOYMENT](https://github.com/RDA-MOMSI/Dashboard/blob/main/DEPLOYMENT.md) guide.
 
 ---
 
@@ -69,9 +69,9 @@ Copyright 2023–2025 RDA Multi-Omics Metadata Standards Integration Working Gro
 The code in this repository is licensed under the [BSD-3-Clause License](https://github.com/RDA-MOMSI/Dashboard#BSD-3-Clause-1-ov-file).
 
 > 🔥 📖 **Citation Policy**
->_ In efforts to enable discovery, sharing, and reuse of RDA WG deliverables, we kindly ask the MOMSI WG Landscape Review Dashboard Repository and provided supporting materials be referenced under the following citations._
->1. source code doi placeholder
->2. journal article doi placeholder
+> _In efforts to enable discovery, sharing, and reuse of RDA WG deliverables, we kindly ask the MOMSI WG Landscape Review Dashboard Repository and provided supporting materials be referenced under the following citations._
+> 1. source code doi placeholder
+> 2. journal article doi placeholder
 
 ### 🎁 Funding
 
