@@ -18,7 +18,7 @@ The Research Data Management toolkit for Life Sciences (RDMkit)[^1] is just one 
 >  - Working group alignments aimed to enhance research data lifecycle standard-informed decision making and educational domain-aware materials supporting data stewardship and management best practices.
 
 
-[![doi: 10.5281/zenodo.11552128](./images/MOMSI_Research_Data_Lifecycle.png)](https://doi.org/10.5281/zenodo.11552128)
+[![doi:10.5281/zenodo.11552128](src/images/MOMSI_Research_Data_Lifecycle.png)](https://doi.org/10.5281/zenodo.11552128)
 *Figure 1. MOMSI WG curations expand on RDMkit plan, collect, process, and analyze stages for adding domain standard use-case context to generalist research data lifecycle frameworks.*
 
 ### MOMSI Subject Area Standard Implementations Research Data Lifecycle Journeys
@@ -36,9 +36,11 @@ Core concepts, terms, and curation activity examples incorporating RDMkit use-ca
 
 ## MOMSI FAIRsharing Collection Journeys
 
-The [MOMSI Collection (Deliverable 1b)](https://fairsharing.org/5742) located at FAIRsharing[^2] is a refined and filtered down collection of domain specific and Omics relevant universal terminologies, metadata reporting guidelines, data models/formats, and identifier schemas. New and existing standards listed in this collection have undergone an iterative in-depth landscape review process using the MOMSI curation dashboard sustainability workflow.
+The [MOMSI Collection (Deliverable 1b)](https://fairsharing.org/5742) located at FAIRsharing[^2] is a refined and filtered down collection of domain specific and Omics relevant universal terminologies, metadata reporting guidelines, data models/formats, and identifier schemas. 
 
 New and existing standards listed in this collection have undergone an iterative in-depth landscape review process using the MOMSI curation dashboard sustainability workflow. This process involves evaluating the accuracy and completeness of each standard and the minimal information criteria required for curation. Our collection seeks to benefit and encourage continuous, open, and machine-actionable Multi-omics community standards curation, supporting evolving research data management and sharing best practices.
+
+_Note: If you notice a standard is missing from the output results listed under a specific query below, check the standard record to make sure curations have been recently and accurately updated._
 
 > <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg> Collaboration Highlight: RDA FAIRsharing WG, FAIRsharing Community Champions
 > - FAIRsharing is a community curated educational resource containing linked records representing data and metadata standards, inter-related to databases and data policies.
@@ -77,7 +79,7 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
 
 "Advanced" journeys provide a more in-depth view of standards listed across multiple Omics domains and standard types curated at the dashboard and listed at our collection. See "FAIRsharing content: standards overview"[^4] and "FAIR Principles in a nutshell"[^5] to learn more about how combined Omics standards and Universal standards can support FAIR research developments.
 
-1. **Browse Domain vs. Universal Standard Types**
+1. **Browse MOMSI Curations by Domain vs. Universal Standard Types**
 
    - View Terminology Artefacts examples representing Universal (generalist) standard curations relevant to Omics for [BFO](https://doi.org/10.25504/FAIRsharing.wcpd6f), [T4FS](https://doi.org/10.25504/FAIRsharing.fb99fa), [EDAM](https://doi.org/10.25504/FAIRsharing.a6r7zs) **vs.** Omics Domain representative examples such as [EFO](https://doi.org/10.25504/FAIRsharing.1gr4tz), [PSI-MS CV](https://doi.org/10.25504/FAIRsharing.sxh2dp), [XLMOD](https://doi.org/10.25504/FAIRsharing.6ccbe6).
   
@@ -87,11 +89,24 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
   
    - View Identifier Schema examples representing Universal (generalist) standard curations for [DOI](https://doi.org/10.25504/FAIRsharing.hFLKCn), [CURIE](https://doi.org/10.25504/FAIRsharing.af21db), [ORCID](https://doi.org/10.25504/FAIRsharing.OrNi1L) **vs.** Omics Domain representative examples such as [Biosample ID](https://doi.org/10.25504/FAIRsharing.322dc0), [UniProt ID](https://doi.org/10.25504/FAIRsharing.fd6003), [InChI](https://doi.org/10.25504/FAIRsharing.ddk9t9).
 
+2. **Browse MOMSI Curations by Relevant Submission Criteria**
 
- > <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"/></svg> **Additional advanced journeys pending**
+    _Note: render times for each query may take a few minutes based on the size and complexity of the established relationships._
+
+   - View standards affiliated efforts by the [Genomic Standards Consortium (GSC)](https://fairsharing.org/5742?page=1&organisations=genomic%2520standards%2520consortium), [European Bioinformatics Institute (EBI)](https://fairsharing.org/5742?page=1&organisations=european%2520bioinformatics%2520institute), [HUPO Proteomics Standards Initiative (HUPO-PSI)](https://fairsharing.org/5742?page=1&organisations=proteomics%2520standards%2520initiative%2520%28psi%29%2520-%2520human%2520proteomics%2520organisation%2520%28hupo%29), or the [International Organization for Standardization (ISO)](https://fairsharing.org/5742?page=1&organisations=international%2520organization%2520for%2520standardization%2520%28iso%29).
+   - View standards being [actively maintained](https://fairsharing.org/5742?page=1&isMaintained=true) by corresponding affiliated organizations.
+   - View standards that are currently still [in development](https://fairsharing.org/5742?page=1&status=in_development).
+   - View standards that are [recommended](https://fairsharing.org/5742?page=1&isRecommended=true) by a data policy from a journal, journal publisher or funder.
+   - View the [MOMSI collection network graph](https://fairsharing.org/graph/5742) to explore how curation standards are interlinked to databases, standards, and policies.
+
+**References**
 
 [^1]: RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences URL: [https://rdmkit.elixir-europe.org](https://rdmkit.elixir-europe.org/) (Accessed 2025-04-12).
+
 [^2]: Sansone, SA., McQuilton, P., Rocca-Serra, P. _et al._ FAIRsharing as a community approach to standards, repositories and policies. _Nat Biotechnol_ 37, 358–367 (2019). https://doi.org/10.1038/s41587-019-0080-8
+
 [^3]: Allyson Lister, & Susanna-Assunta Sansone. (2023, July 28). FAIRsharing in a nutshell. Zenodo. https://doi.org/10.5281/zenodo.8191958
+
 [^4]: Malin Sandström, Allyson Lister, & Susanna-Assunta Sansone. (2023, July 26). FAIRsharing content: standards overview. Zenodo. https://doi.org/10.5281/zenodo.8186982
+
 [^5]: Lister, A., Sansone, S.-A., & Rocca-Serra, P. (2024, June 19). FAIR Principles in a nutshell. Zenodo. https://doi.org/10.5281/zenodo.12167786
