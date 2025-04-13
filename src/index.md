@@ -57,10 +57,10 @@ const bardata = FileAttachment("data/standards-bar-chart.json").json();
 import {Mutable} from "observablehq:stdlib";
 const data = await FileAttachment("data/database.json").json()
 const dataColumns = {
-	"genomics": ["Standard Type", "Domain Class/Subclass", "Acronym", "Standard Name", "Status", "Country", "Application Technology", "Plan", "Collect", "Process", "Analysis", "Preservation", "Sharing", "Reuse", "Active Affiliation(s)", "FAIRsharing Record (DOI or URL)", "Identifier"],
-	"proteomics": ["Standard Type", "Domain Class/Subclass", "Acronym", "Standard Name", "Status", "Country", "Application Technology", "Plan", "Collect", "Process", "Analysis", "Preservation", "Sharing", "Reuse", "Active Affiliation(s)", "FAIRsharing Record (DOI or URL)", "Identifier"],
-	"metabolomics": ["Standard Type", "Domain Class/Subclass", "Acronym", "Standard Name", "Status", "Country", "Application Technology", "Plan", "Collect", "Process", "Analysis", "Preservation", "Sharing", "Reuse", "Active Affiliation(s)", "FAIRsharing Record (DOI or URL)", "Identifier"],
-	"universal": ["Standard Type", "Domain Class/Subclass", "Acronym", "Standard Name", "Status", "Country", "Application Technology", "Plan", "Collect", "Process", "Analysis", "Preservation", "Sharing", "Reuse", "Active Affiliation(s)", "FAIRsharing Record (DOI or URL)", "Identifier"]
+	"genomics": ["Standard Type", "Domain Class/Subclass", "Acronym/Short Name", "Standard Name", "Status", "Country", "Application Technology", "Planning", "Collection", "Processing", "Analysis", "Preservation", "Sharing", "Reuse", "Active Affiliation(s)", "FAIRsharing Record (DOI or URL)", "Identifier"],
+	"proteomics": ["Standard Type", "Domain Class/Subclass", "Acronym/Short Name", "Standard Name", "Status", "Country", "Application Technology", "Planning", "Collection", "Processing", "Analysis", "Preservation", "Sharing", "Reuse", "Active Affiliation(s)", "FAIRsharing Record (DOI or URL)", "Identifier"],
+	"metabolomics": ["Standard Type", "Domain Class/Subclass", "Acronym/Short Name", "Standard Name", "Status", "Country", "Application Technology", "Planning", "Collection", "Processing", "Analysis", "Preservation", "Sharing", "Reuse", "Active Affiliation(s)", "FAIRsharing Record (DOI or URL)", "Identifier"],
+	"universal": ["Standard Type", "Domain Class/Subclass", "Acronym/Short Name", "Standard Name", "Status", "Country", "Application Technology", "Planning", "Collection", "Processing", "Analysis", "Preservation", "Sharing", "Reuse", "Active Affiliation(s)", "FAIRsharing Record (DOI or URL)", "Identifier"]
 }
 let standardChoice = Mutable("genomics")
 let columnChoice = Mutable(dataColumns["genomics"])

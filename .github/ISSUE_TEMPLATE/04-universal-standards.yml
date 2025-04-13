@@ -15,7 +15,7 @@ body:
       description: What type of standard is it?
       options:
         - Reporting Guideline
-        - Terminology artefact
+        - Terminology Artefact
         - Model/Format
         - Identifier Schema
         - Multi-Standard Applicable
@@ -29,9 +29,10 @@ body:
       options:
         - Established
         - Established/Maintained
-        - In Development
-        - Uncertain
         - Depreciated
+        - In Development
+        - Obsolete
+        - Uncertain
     validations:
       required: true
   - type: input
@@ -51,9 +52,8 @@ body:
       options:
         - FAIR Principles
         - CARE Principles
-        - TRUST Principles
         - General Best Practices
-        - Multi-omics Applicable
+        - Omics Applicable
         - Other
     validations:
       required: true
@@ -66,39 +66,41 @@ body:
     validations:
       required: true
   - type: input
-    id: acronym
+    id: acronym-short-name
     attributes:
-      label: Acronym
+      label: Acronym/Short Name
       description: What is the standard's acronym?
       placeholder: e.g. DOI
   - type: dropdown
-    id: plan
+    id: planning
     attributes:
-      label: Plan
+      label: Planning
       description: What is the [data management plan](https://rdmkit.elixir-europe.org/planning)?
       options:
         - Experimental Design
         - Computed Analysis Design
         - All of the above
+        - Uncertain
         - N/A
     validations:
       required: true
   - type: dropdown
-    id: collect
+    id: collection
     attributes:
-      label: Collect
+      label: Collection
       description: How are data [collected](https://rdmkit.elixir-europe.org/collecting)?
       options:
         - Sample Preparation
         - Data Acquisition
         - All of the above
+        - Uncertain
         - N/A
     validations:
       required: true
   - type: dropdown
-    id: process
+    id: processing
     attributes:
-      label: Process
+      label: Processing
       description: How are data [processed](https://rdmkit.elixir-europe.org/processing)?
       options:
         - Data Pre-Processing
@@ -106,6 +108,7 @@ body:
         - Data Normalization
         - Metadata Collection
         - All of the above
+        - Uncertain
         - N/A
     validations:
       required: true
@@ -121,6 +124,7 @@ body:
         - Interpretation Analysis
         - Software Specific
         - All of the above
+        - Uncertain
         - Other
         - N/A
     validations:
@@ -134,6 +138,7 @@ body:
         - Data (raw, processed, generated) Storage
         - Metadata Storage
         - All of the above
+        - Uncertain
         - N/A
     validations:
       required: true
@@ -147,6 +152,7 @@ body:
         - Knowledgebase (machine-readable)
         - Repository (machine-readable)
         - All of the above
+        - Uncertain
         - Other
         - N/A
     validations:
@@ -161,8 +167,8 @@ body:
         - Recommended for Reuse
         - Not Required for Reuse
         - Conditional based on linked standards
-        - Other
         - Uncertain
+        - Other
         - N/A
     validations:
       required: true

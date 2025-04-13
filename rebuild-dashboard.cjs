@@ -7,8 +7,8 @@ let data = JSON.parse(fs.readFileSync('./src/data/database.json', 'utf-8'))
 // CONSTANTS
 
 const STANDARDS = ["Genomics", "Proteomics", "Metabolomics", "Universal"]
-const LIFECYCLE = ["Plan", "Collect", "Process", "Analysis", "Preservation", "Sharing", "Reuse"]
-const STANDARDTYPES = ["Reporting Guideline", "Terminology artefact", "Model/Format", "Identifier Schema", "Multi-Standard Applicable"]
+const LIFECYCLE = ["Planning", "Collection", "Processing", "Analysis", "Preservation", "Sharing", "Reuse"]
+const STANDARDTYPES = ["Reporting Guideline", "Terminology Artefact", "Model/Format", "Identifier Schema", "Multi-Standard Applicable"]
 const MULTIPLE_PERMITTED = ["Domain Class/Subclass", "Application Technology"]
 
 const STANDARDS_AGGREGATION = {
@@ -113,7 +113,7 @@ function rebuildCollapsibleClusterTreeAggregations(data, aggregation = STANDARDS
 						children: [],
 						count: 0
 					}
-					for (const [k, v] of Object.entries(getStandardCounts(subClassTerm, filteredSubClass, "Acronym"))) {
+					for (const [k, v] of Object.entries(getStandardCounts(subClassTerm, filteredSubClass, "Acronym/Short Name"))) {
 						subClassChild.count += v
 						subClassChild.children.push({
 							name: k,
@@ -170,7 +170,7 @@ function rebuildClusterTreeAggregations(data, aggregation = STANDARDS_AGGREGATIO
 					children: [],
 					count: 0
 				}
-				for (const [k, v] of Object.entries(getStandardCounts(subClassTerm, filteredSubClass, "Acronym"))) {
+				for (const [k, v] of Object.entries(getStandardCounts(subClassTerm, filteredSubClass, "Acronym/Short Name"))) {
 					subClassChild.count += v
 					subClassChild.children.push({
 						name: k,
@@ -190,7 +190,7 @@ function rebuildClusterTreeAggregations(data, aggregation = STANDARDS_AGGREGATIO
 }
 
 function rebuildSunburstAggregations(data, aggregation = STANDARDS_AGGREGATION) {
-	// Zoomable sunburst: Data Lifecycle -> Lifecycle Term -> Standards -> Standard Types -> Acronyms
+	// Zoomable sunburst: Data Lifecycle -> Lifecycle Term -> Standards -> Standard Types -> Acronym/Short Name
 	// https://observablehq.com/@d3/zoomable-sunburst
 	// https://observablehq.com/@d3/zoomable-icicle
 	for (const cycle of LIFECYCLE) {
@@ -213,7 +213,7 @@ function rebuildSunburstAggregations(data, aggregation = STANDARDS_AGGREGATION) 
 					count: 0
 				}
 				const filteredCycle = data[standard.toLowerCase()].filter((item) => item[cycle] === cycleTerm)
-				// Build the hierarchy: "Standard Type", "Acronym"
+				// Build the hierarchy: "Standard Type", "Acronym/Short Name"
 				let classTerms = filteredCycle.map(item => item["Standard Type"])
 				for (const classTerm of [...new Set(classTerms)]) {
 					const classChild = {
@@ -221,7 +221,7 @@ function rebuildSunburstAggregations(data, aggregation = STANDARDS_AGGREGATION) 
 						children: [],
 						count: 0
 					}
-					for (const [k, v] of Object.entries(getStandardCounts(classTerm, data[standard.toLowerCase()], "Acronym"))) {
+					for (const [k, v] of Object.entries(getStandardCounts(classTerm, data[standard.toLowerCase()], "Acronym/Short Name"))) {
 						classChild.count += v
 						classChild.children.push({
 							name: k,
@@ -252,7 +252,7 @@ function rebuildCirclePackingAggregations(data, aggregation = STANDARDS_AGGREGAT
 			children: [],
 			count: 0
 		}
-		// Build the hierarchy: "Standard Type", "Acronym"
+		// Build the hierarchy: "Standard Type", "Acronym/Short Name"
 		let classTerms = data[standard.toLowerCase()].map(item => item["Standard Type"])
 		for (const classTerm of [...new Set(classTerms)]) {
 			const classChild = {
@@ -260,7 +260,7 @@ function rebuildCirclePackingAggregations(data, aggregation = STANDARDS_AGGREGAT
 				children: [],
 				count: 0
 			}
-			for (const [k, v] of Object.entries(getStandardCounts(classTerm, data[standard.toLowerCase()], "Acronym"))) {
+			for (const [k, v] of Object.entries(getStandardCounts(classTerm, data[standard.toLowerCase()], "Acronym/Short Name"))) {
 				classChild.count += v
 				classChild.children.push({
 					name: k,
