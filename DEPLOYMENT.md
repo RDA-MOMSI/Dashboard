@@ -88,3 +88,7 @@ On extraction, the first dashboard can be triggered to build.
 
 **Scripts:**
 - [Python parser](https://github.com/RDA-MOMSI/Dashboard/blob/main/rda-momsi-import-structure.ipynb) can be run manually on source data to build the `database.json` file.
+
+## Queries
+
+This guide was developed by Gavin Chait @ [Whythawk](https://whythawk.com). If you have any queries or concerns, please [contact me](https://whythawk.com/contact/).
