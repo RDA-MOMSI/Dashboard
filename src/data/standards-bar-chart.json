@@ -2,7 +2,7 @@
   {
     "type": "Reporting Guideline",
     "standard": "Genomics",
-    "count": 26
+    "count": 28
   },
   {
     "type": "Reporting Guideline",
@@ -22,22 +22,22 @@
   {
     "type": "Terminology Artefact",
     "standard": "Genomics",
-    "count": 0
+    "count": 11
   },
   {
     "type": "Terminology Artefact",
     "standard": "Proteomics",
-    "count": 0
+    "count": 4
   },
   {
     "type": "Terminology Artefact",
     "standard": "Metabolomics",
-    "count": 0
+    "count": 9
   },
   {
     "type": "Terminology Artefact",
     "standard": "Universal",
-    "count": 0
+    "count": 30
   },
   {
     "type": "Model/Format",
@@ -77,7 +77,7 @@
   {
     "type": "Identifier Schema",
     "standard": "Universal",
-    "count": 11
+    "count": 14
   },
   {
     "type": "Multi-Standard Applicable",

@@ -8,8 +8,48 @@
           "name": "Terminology Artefact",
           "children": [
             {
-              "name": "undefined",
-              "count": 11
+              "name": "SO",
+              "count": 1
+            },
+            {
+              "name": "HGNC",
+              "count": 1
+            },
+            {
+              "name": "GECKO",
+              "count": 1
+            },
+            {
+              "name": "GENEPIO",
+              "count": 1
+            },
+            {
+              "name": "PCL",
+              "count": 1
+            },
+            {
+              "name": "MIAPA",
+              "count": 1
+            },
+            {
+              "name": "GENO",
+              "count": 1
+            },
+            {
+              "name": "ORNASEQ",
+              "count": 1
+            },
+            {
+              "name": "ARO",
+              "count": 1
+            },
+            {
+              "name": "EGO",
+              "count": 1
+            },
+            {
+              "name": "ENVO",
+              "count": 1
             }
           ],
           "count": 11
@@ -18,8 +58,196 @@
           "name": "Model/Format",
           "children": [
             {
-              "name": "undefined",
-              "count": 48
+              "name": "FHR",
+              "count": 1
+            },
+            {
+              "name": "GFF3",
+              "count": 1
+            },
+            {
+              "name": "VCF",
+              "count": 1
+            },
+            {
+              "name": "FASTA",
+              "count": 1
+            },
+            {
+              "name": "FASTQ",
+              "count": 1
+            },
+            {
+              "name": "ISO 4454:2022",
+              "count": 1
+            },
+            {
+              "name": "SAM",
+              "count": 1
+            },
+            {
+              "name": "BEACON",
+              "count": 1
+            },
+            {
+              "name": "BAM",
+              "count": 1
+            },
+            {
+              "name": "CRAM",
+              "count": 1
+            },
+            {
+              "name": "CLUSTALW",
+              "count": 1
+            },
+            {
+              "name": "Hi-C",
+              "count": 1
+            },
+            {
+              "name": "GTF",
+              "count": 1
+            },
+            {
+              "name": "PHYLIP",
+              "count": 1
+            },
+            {
+              "name": "NWK",
+              "count": 1
+            },
+            {
+              "name": "PhyloXML",
+              "count": 1
+            },
+            {
+              "name": "HDF5/h5",
+              "count": 1
+            },
+            {
+              "name": "BioPAX",
+              "count": 1
+            },
+            {
+              "name": "PED",
+              "count": 1
+            },
+            {
+              "name": "SBML",
+              "count": 1
+            },
+            {
+              "name": "GenBank ID",
+              "count": 1
+            },
+            {
+              "name": "ENA EMBL XSD",
+              "count": 1
+            },
+            {
+              "name": "FAM",
+              "count": 1
+            },
+            {
+              "name": "FAIRtracks",
+              "count": 1
+            },
+            {
+              "name": "AIRR Repertoire",
+              "count": 1
+            },
+            {
+              "name": "AIRR Rearrangement",
+              "count": 1
+            },
+            {
+              "name": "bedMethyl",
+              "count": 1
+            },
+            {
+              "name": "bigBed",
+              "count": 1
+            },
+            {
+              "name": "CIGAR",
+              "count": 1
+            },
+            {
+              "name": "bigWig",
+              "count": 1
+            },
+            {
+              "name": "bedpe",
+              "count": 1
+            },
+            {
+              "name": "BED",
+              "count": 1
+            },
+            {
+              "name": "mirGFF3",
+              "count": 1
+            },
+            {
+              "name": "GCDML",
+              "count": 1
+            },
+            {
+              "name": "FG",
+              "count": 1
+            },
+            {
+              "name": "ISO/TS 4424:2023",
+              "count": 1
+            },
+            {
+              "name": "ISO/TS 4425:2023",
+              "count": 1
+            },
+            {
+              "name": "ISO/TS 8376:2023",
+              "count": 1
+            },
+            {
+              "name": "ISO/TS 8392:2023",
+              "count": 1
+            },
+            {
+              "name": "ISO/TS 20428:2024",
+              "count": 1
+            },
+            {
+              "name": "ISO 21393:2021",
+              "count": 1
+            },
+            {
+              "name": "ISO/TS 22690:2021",
+              "count": 1
+            },
+            {
+              "name": "ISO/TS 22692:2020",
+              "count": 1
+            },
+            {
+              "name": "ISO/TS 22693:2021",
+              "count": 1
+            },
+            {
+              "name": "ISO/TS 23357:2023",
+              "count": 1
+            },
+            {
+              "name": "ISO 25720:2009",
+              "count": 1
+            },
+            {
+              "name": "SRA-XML",
+              "count": 1
+            },
+            {
+              "name": "md5sum",
+              "count": 1
             }
           ],
           "count": 48
@@ -28,18 +256,130 @@
           "name": "Reporting Guideline",
           "children": [
             {
-              "name": "undefined",
-              "count": 26
+              "name": "MIxS",
+              "count": 1
+            },
+            {
+              "name": "MIAME",
+              "count": 1
+            },
+            {
+              "name": "GSCID/BRC",
+              "count": 1
+            },
+            {
+              "name": "MINSEQE",
+              "count": 1
+            },
+            {
+              "name": "DMID",
+              "count": 1
+            },
+            {
+              "name": "MAGE-TAB",
+              "count": 1
+            },
+            {
+              "name": "EBP1",
+              "count": 1
+            },
+            {
+              "name": "MIMS",
+              "count": 1
+            },
+            {
+              "name": "MIGS-BA",
+              "count": 1
+            },
+            {
+              "name": "MIGS-EU",
+              "count": 1
+            },
+            {
+              "name": "MIGS-ORG",
+              "count": 1
+            },
+            {
+              "name": "MIGS-PI",
+              "count": 1
+            },
+            {
+              "name": "MIGS-VI",
+              "count": 1
+            },
+            {
+              "name": "MIMARKS-SU/MIMARKS-S",
+              "count": 1
+            },
+            {
+              "name": "MISAG",
+              "count": 1
+            },
+            {
+              "name": "MIMAG",
+              "count": 1
+            },
+            {
+              "name": "MIUViG",
+              "count": 1
+            },
+            {
+              "name": "STORMS",
+              "count": 1
+            },
+            {
+              "name": "GA4GH-VRS",
+              "count": 1
+            },
+            {
+              "name": "MiAIRR",
+              "count": 1
+            },
+            {
+              "name": "CDE",
+              "count": 1
+            },
+            {
+              "name": "MIAPA Checklist",
+              "count": 1
+            },
+            {
+              "name": "MINIMESS",
+              "count": 1
+            },
+            {
+              "name": "ENA MIxS",
+              "count": 1
+            },
+            {
+              "name": "OORF-TRF",
+              "count": 1
+            },
+            {
+              "name": "FHIR Genomics",
+              "count": 1
+            },
+            {
+              "name": "MIBiG",
+              "count": 1
+            },
+            {
+              "name": "MIMARKS-SP/MIMARKS-C",
+              "count": 1
             }
           ],
-          "count": 26
+          "count": 28
         },
         {
           "name": "Multi-Standard Applicable",
           "children": [
             {
-              "name": "undefined",
-              "count": 2
+              "name": "WGS",
+              "count": 1
+            },
+            {
+              "name": "ADC API",
+              "count": 1
             }
           ],
           "count": 2
@@ -48,14 +388,34 @@
           "name": "Identifier Schema",
           "children": [
             {
-              "name": "undefined",
-              "count": 6
+              "name": "NCBITaxon",
+              "count": 1
+            },
+            {
+              "name": "GOLD ID",
+              "count": 1
+            },
+            {
+              "name": "SAMN",
+              "count": 1
+            },
+            {
+              "name": "PRJNA",
+              "count": 1
+            },
+            {
+              "name": "MIXS ID",
+              "count": 1
+            },
+            {
+              "name": "SRA ID",
+              "count": 1
             }
           ],
           "count": 6
         }
       ],
-      "count": 93
+      "count": 95
     },
     {
       "name": "Proteomics",
@@ -64,8 +424,20 @@
           "name": "Terminology Artefact",
           "children": [
             {
-              "name": "undefined",
-              "count": 4
+              "name": "PSI-MS CV",
+              "count": 1
+            },
+            {
+              "name": "MOD",
+              "count": 1
+            },
+            {
+              "name": "PR",
+              "count": 1
+            },
+            {
+              "name": "PSI-MI CV",
+              "count": 1
             }
           ],
           "count": 4
@@ -74,8 +446,20 @@
           "name": "Multi-Standard Applicable",
           "children": [
             {
-              "name": "undefined",
-              "count": 4
+              "name": "mzML",
+              "count": 1
+            },
+            {
+              "name": "mzTab",
+              "count": 1
+            },
+            {
+              "name": "PRIDE formats",
+              "count": 1
+            },
+            {
+              "name": "ProXI",
+              "count": 1
             }
           ],
           "count": 4
@@ -84,8 +468,72 @@
           "name": "Model/Format",
           "children": [
             {
-              "name": "undefined",
-              "count": 17
+              "name": "mzMLb ",
+              "count": 1
+            },
+            {
+              "name": "mzIdentML",
+              "count": 1
+            },
+            {
+              "name": "PEFF",
+              "count": 1
+            },
+            {
+              "name": "mzSpecLib",
+              "count": 1
+            },
+            {
+              "name": "SDRF",
+              "count": 1
+            },
+            {
+              "name": "mzQC",
+              "count": 1
+            },
+            {
+              "name": "ProForma 2.0",
+              "count": 1
+            },
+            {
+              "name": "mzPAF",
+              "count": 1
+            },
+            {
+              "name": "proBAM",
+              "count": 1
+            },
+            {
+              "name": "MGF",
+              "count": 1
+            },
+            {
+              "name": "FASTA",
+              "count": 1
+            },
+            {
+              "name": "Proprietary Formats",
+              "count": 1
+            },
+            {
+              "name": "RAW",
+              "count": 1
+            },
+            {
+              "name": "proBED",
+              "count": 1
+            },
+            {
+              "name": "TraML",
+              "count": 1
+            },
+            {
+              "name": "PRIDE-XML",
+              "count": 1
+            },
+            {
+              "name": "imzML",
+              "count": 1
             }
           ],
           "count": 17
@@ -94,8 +542,16 @@
           "name": "Identifier Schema",
           "children": [
             {
-              "name": "undefined",
-              "count": 3
+              "name": "USI",
+              "count": 1
+            },
+            {
+              "name": "UniProt ID",
+              "count": 1
+            },
+            {
+              "name": "PXD ID",
+              "count": 1
             }
           ],
           "count": 3
@@ -104,8 +560,68 @@
           "name": "Reporting Guideline",
           "children": [
             {
-              "name": "undefined",
-              "count": 16
+              "name": "MIAPE",
+              "count": 1
+            },
+            {
+              "name": "MIAPE-MS",
+              "count": 1
+            },
+            {
+              "name": "MIASSPE",
+              "count": 1
+            },
+            {
+              "name": "MIAPE-Quant",
+              "count": 1
+            },
+            {
+              "name": "MIAPE-MSI",
+              "count": 1
+            },
+            {
+              "name": "MIABE",
+              "count": 1
+            },
+            {
+              "name": "MIAPE-GI",
+              "count": 1
+            },
+            {
+              "name": "IM-MS/DIA-mzML",
+              "count": 1
+            },
+            {
+              "name": "MIADE",
+              "count": 1
+            },
+            {
+              "name": "MIAPAR",
+              "count": 1
+            },
+            {
+              "name": "HPP 3.0",
+              "count": 1
+            },
+            {
+              "name": "HPG",
+              "count": 1
+            },
+            {
+              "name": "MIAPE-GE",
+              "count": 1
+            },
+            {
+              "name": "MIAPE-CC",
+              "count": 1
+            },
+            {
+              "name": "MIAPE-CE",
+              "count": 1
+            },
+            {
+              "name": "MassIVE.Quant",
+              "count": 1
             }
           ],
           "count": 16
@@ -120,8 +636,40 @@
           "name": "Terminology Artefact",
           "children": [
             {
-              "name": "undefined",
-              "count": 9
+              "name": "MSIO",
+              "count": 1
+            },
+            {
+              "name": "OBI",
+              "count": 1
+            },
+            {
+              "name": "CHMO",
+              "count": 1
+            },
+            {
+              "name": "CHEMINF",
+              "count": 1
+            },
+            {
+              "name": "XLMOD",
+              "count": 1
+            },
+            {
+              "name": "PSI-MS CV",
+              "count": 1
+            },
+            {
+              "name": "nmrCV",
+              "count": 1
+            },
+            {
+              "name": "LION",
+              "count": 1
+            },
+            {
+              "name": "ChAMP",
+              "count": 1
             }
           ],
           "count": 9
@@ -130,8 +678,88 @@
           "name": "Model/Format",
           "children": [
             {
-              "name": "undefined",
-              "count": 21
+              "name": "mzTab-M",
+              "count": 1
+            },
+            {
+              "name": "SDF",
+              "count": 1
+            },
+            {
+              "name": "ISA-TAB",
+              "count": 1
+            },
+            {
+              "name": "MSP",
+              "count": 1
+            },
+            {
+              "name": "MGF",
+              "count": 1
+            },
+            {
+              "name": "PSI-MI XML",
+              "count": 1
+            },
+            {
+              "name": "CDX",
+              "count": 1
+            },
+            {
+              "name": "nmrML",
+              "count": 1
+            },
+            {
+              "name": "mzML",
+              "count": 1
+            },
+            {
+              "name": "MDL Molfile",
+              "count": 1
+            },
+            {
+              "name": "PDBx/mmCIF",
+              "count": 1
+            },
+            {
+              "name": "RAW",
+              "count": 1
+            },
+            {
+              "name": "ITA",
+              "count": 1
+            },
+            {
+              "name": "ITM",
+              "count": 1
+            },
+            {
+              "name": "DAT",
+              "count": 1
+            },
+            {
+              "name": "XYZ",
+              "count": 1
+            },
+            {
+              "name": "mwTab",
+              "count": 1
+            },
+            {
+              "name": "ISA-TAB-Nano",
+              "count": 1
+            },
+            {
+              "name": "ThermoML",
+              "count": 1
+            },
+            {
+              "name": "MI-TAB",
+              "count": 1
+            },
+            {
+              "name": "imzML",
+              "count": 1
             }
           ],
           "count": 21
@@ -140,8 +768,24 @@
           "name": "Multi-Standard Applicable",
           "children": [
             {
-              "name": "undefined",
-              "count": 5
+              "name": "ChEBI",
+              "count": 1
+            },
+            {
+              "name": "InChI",
+              "count": 1
+            },
+            {
+              "name": "LM ID",
+              "count": 1
+            },
+            {
+              "name": "SMILES",
+              "count": 1
+            },
+            {
+              "name": "InChIKey",
+              "count": 1
             }
           ],
           "count": 5
@@ -150,8 +794,44 @@
           "name": "Reporting Guideline",
           "children": [
             {
-              "name": "undefined",
-              "count": 10
+              "name": "MIMIx",
+              "count": 1
+            },
+            {
+              "name": "LSI",
+              "count": 1
+            },
+            {
+              "name": "SMART",
+              "count": 1
+            },
+            {
+              "name": "mzTab-L",
+              "count": 1
+            },
+            {
+              "name": "MFIF",
+              "count": 1
+            },
+            {
+              "name": "CIMR",
+              "count": 1
+            },
+            {
+              "name": "ANDI-MS",
+              "count": 1
+            },
+            {
+              "name": "MIABE",
+              "count": 1
+            },
+            {
+              "name": "IUPAC-InChI",
+              "count": 1
+            },
+            {
+              "name": "OORF-MRF",
+              "count": 1
             }
           ],
           "count": 10
@@ -160,8 +840,32 @@
           "name": "Identifier Schema",
           "children": [
             {
-              "name": "undefined",
-              "count": 7
+              "name": "CAS RN",
+              "count": 1
+            },
+            {
+              "name": "CID",
+              "count": 1
+            },
+            {
+              "name": "IUPAC",
+              "count": 1
+            },
+            {
+              "name": "HMDB ID",
+              "count": 1
+            },
+            {
+              "name": "USI",
+              "count": 1
+            },
+            {
+              "name": "RefMet",
+              "count": 1
+            },
+            {
+              "name": "SLM",
+              "count": 1
             }
           ],
           "count": 7
@@ -176,8 +880,32 @@
           "name": "Model/Format",
           "children": [
             {
-              "name": "undefined",
-              "count": 7
+              "name": "ISO 8601",
+              "count": 1
+            },
+            {
+              "name": "PIDINST v.1.0",
+              "count": 1
+            },
+            {
+              "name": "JSON",
+              "count": 1
+            },
+            {
+              "name": "JSON-LD",
+              "count": 1
+            },
+            {
+              "name": "Bioschemas",
+              "count": 1
+            },
+            {
+              "name": "OWL",
+              "count": 1
+            },
+            {
+              "name": "OBO",
+              "count": 1
             }
           ],
           "count": 7
@@ -186,18 +914,86 @@
           "name": "Identifier Schema",
           "children": [
             {
-              "name": "undefined",
-              "count": 11
+              "name": "DOI",
+              "count": 1
+            },
+            {
+              "name": "IGSN",
+              "count": 1
+            },
+            {
+              "name": "ORCID",
+              "count": 1
+            },
+            {
+              "name": "Identifiers.org",
+              "count": 1
+            },
+            {
+              "name": "ROR",
+              "count": 1
+            },
+            {
+              "name": "CURIE",
+              "count": 1
+            },
+            {
+              "name": "RRID",
+              "count": 1
+            },
+            {
+              "name": "hdl",
+              "count": 1
+            },
+            {
+              "name": "URI",
+              "count": 1
+            },
+            {
+              "name": "ISO/TS 22943:2022",
+              "count": 1
+            },
+            {
+              "name": "RAiD",
+              "count": 1
+            },
+            {
+              "name": "ISO 27729:2024",
+              "count": 1
+            },
+            {
+              "name": "FAIROS PIDs",
+              "count": 1
+            },
+            {
+              "name": "i4iOZ",
+              "count": 1
             }
           ],
-          "count": 11
+          "count": 14
         },
         {
           "name": "Multi-Standard Applicable",
           "children": [
             {
-              "name": "undefined",
-              "count": 5
+              "name": "ISA-TAB",
+              "count": 1
+            },
+            {
+              "name": "LinkML",
+              "count": 1
+            },
+            {
+              "name": "RO-Crate",
+              "count": 1
+            },
+            {
+              "name": "CRediT",
+              "count": 1
+            },
+            {
+              "name": "UUID/GUID",
+              "count": 1
             }
           ],
           "count": 5
@@ -206,8 +1002,20 @@
           "name": "Reporting Guideline",
           "children": [
             {
-              "name": "undefined",
-              "count": 4
+              "name": "ISO 20691",
+              "count": 1
+            },
+            {
+              "name": "RDaF 2.0",
+              "count": 1
+            },
+            {
+              "name": "PID Guidelines",
+              "count": 1
+            },
+            {
+              "name": "FORCE11 Data Principles",
+              "count": 1
             }
           ],
           "count": 4
@@ -216,25 +1024,145 @@
           "name": "Terminology Artefact",
           "children": [
             {
-              "name": "undefined",
-              "count": 29
+              "name": "OBO Foundary",
+              "count": 1
+            },
+            {
+              "name": "MONDO",
+              "count": 1
+            },
+            {
+              "name": "NCBITAXON",
+              "count": 1
+            },
+            {
+              "name": "CL",
+              "count": 1
+            },
+            {
+              "name": "BTO",
+              "count": 1
+            },
+            {
+              "name": "GO",
+              "count": 1
+            },
+            {
+              "name": "OBI",
+              "count": 1
+            },
+            {
+              "name": "EDAM",
+              "count": 1
+            },
+            {
+              "name": "HP",
+              "count": 1
+            },
+            {
+              "name": "SWO",
+              "count": 1
+            },
+            {
+              "name": "STATO",
+              "count": 1
+            },
+            {
+              "name": "BFO",
+              "count": 1
+            },
+            {
+              "name": "EFO",
+              "count": 1
+            },
+            {
+              "name": "UO",
+              "count": 1
+            },
+            {
+              "name": "PATO",
+              "count": 1
+            },
+            {
+              "name": "UBERON",
+              "count": 1
+            },
+            {
+              "name": "OMP",
+              "count": 1
+            },
+            {
+              "name": "RO",
+              "count": 1
+            },
+            {
+              "name": "NCBO BioPortal",
+              "count": 1
+            },
+            {
+              "name": "SIFR BioPortal",
+              "count": 1
+            },
+            {
+              "name": "AgroPortal",
+              "count": 1
+            },
+            {
+              "name": "BiodivPortal",
+              "count": 1
+            },
+            {
+              "name": "EarthPortal",
+              "count": 1
+            },
+            {
+              "name": "OntoBee",
+              "count": 1
+            },
+            {
+              "name": "PO",
+              "count": 1
+            },
+            {
+              "name": "DWC",
+              "count": 1
+            },
+            {
+              "name": "DCMI",
+              "count": 1
+            },
+            {
+              "name": "OLS",
+              "count": 1
+            },
+            {
+              "name": "uPheno",
+              "count": 1
+            },
+            {
+              "name": "T4FS",
+              "count": 1
             }
           ],
-          "count": 29
+          "count": 30
         },
         {
           "name": "Other (Community-Driven)",
           "children": [
             {
-              "name": "undefined",
-              "count": 2
+              "name": "CARE",
+              "count": 1
+            },
+            {
+              "name": "FAIR",
+              "count": 1
             }
           ],
           "count": 2
         }
       ],
-      "count": 58
+      "count": 62
     }
   ],
-  "count": 247
+  "count": 253
 }
