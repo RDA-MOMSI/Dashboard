@@ -18,7 +18,7 @@ The Research Data Management toolkit for Life Sciences (RDMkit)[^1] is just one 
 >  - Working group alignments aimed to enhance research data lifecycle standard-informed decision making and educational domain-aware materials supporting data stewardship and management best practices.
 
 
-[![doi: 10.5281/zenodo.11552128](./images/MOMSI_Research_Data_Lifecycle.png)](https://doi.org/10.5281/zenodo.11552128)
+[![doi: 10.5281/zenodo.11552128](./images/MOMSI_Research_Data_Lifecycle.jpg)](https://doi.org/10.5281/zenodo.11552128)
 *Figure 1. MOMSI WG curations expand on RDMkit plan, collect, process, and analyze stages for adding domain standard use-case context to generalist research data lifecycle frameworks.*
 
 ### MOMSI Subject Area Standard Implementations Research Data Lifecycle Journeys
