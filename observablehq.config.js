@@ -10,13 +10,13 @@ export default {
     {
       name: "Explore",
       pages: [
-        {name: "User Journeys", path: "/user-journeys"},
-        {name: "Cluster", path: "/example-cluster"},
-        {name: "Sunburst", path: "/example-sunburst"},
-        {name: "Circle packing", path: "/example-circle"},
-        {name: "Icicle", path: "/example-icicle"},
-        {name: "Glossary", path: "/glossary"},
-        {name: "Contributing", path: "/contributing"}
+        {name: "Contributing Guidance", path: "/contributing"},
+        {name: "User Journey Examples", path: "/user-journeys"},
+        {name: "Term Glossary", path: "/glossary"},
+        {name: "Standards by Omics Subject Area (C1)", path: "/example-circle"},
+        {name: "Standards by Application Technology (C2)", path: "/example-cluster"},
+        {name: "Standards by Lifecycle Stage (C3)", path: "/example-sunburst"},
+        {name: "Standards by Lifecycle Stage (C4)", path: "/example-icicle"}
       ]
     }
   ],
