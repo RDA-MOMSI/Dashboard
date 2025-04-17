@@ -14,7 +14,7 @@ export default {
         {name: "User Journey Examples", path: "/user-journeys"},
         {name: "MOMSI Terminology", path: "/glossary"},
         {name: "Standards by Subject Area (C1)", path: "/example-circle"},
-        {name: "Standards by Method Technology (C2)", path: "/example-cluster"},
+        {name: "Standards by Technology (C2)", path: "/example-cluster"},
         {name: "Standards by Lifecycle Stage (C3)", path: "/example-sunburst"},
         {name: "Standards by Lifecycle Stage (C4)", path: "/example-icicle"}
       ]
