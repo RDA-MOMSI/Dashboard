@@ -77,7 +77,7 @@ const dataFormat = {
 	"Reference Source Code (DOI or URL)": url => htl.html`<a href=${url} target=_blank>🔗</a>`,
 	"FAIRsharing Record (DOI or URL)": url => htl.html`<a href=${url} target=_blank>🔗</a>`,
 	"Reference Source Code (URL)": url => htl.html`<a href=${url} target=_blank>🔗</a>`,
-	"Identifier": id => htl.html`<a href=https://github.com/whythawk/momsi-tests/issues/new?template=${dataFormatTemplate[standardChoice.value]}&title=[${id}]+Update+submission target=_blank>🖋️ Update</a>`
+	"Identifier": id => htl.html`<a href=https://github.com/RDA-MOMSI/Dashboard/issues/new?template=${dataFormatTemplate[standardChoice.value]}&title=[${id}]+Update+submission target=_blank>🖋️ Update</a>`
 }
 
 function changeStandardChoice(value) {
