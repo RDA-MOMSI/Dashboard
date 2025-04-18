@@ -6,20 +6,23 @@ style: style.css
 
 # User Journeys
 
-MOMSI user journeys provide unique educational examples for assisting users with navigation and exploration between deliverables. Journeys explore curation activity themes covering MOMSI concepts curated in our landscape review expanding on the RDMkit research data lifecycle framework and subject domain research area terms linked to FAIRsharing standards types at our collection.
+MOMSI user journeys provide unique use-case examples and queries as educational material to assist users with navigation and exploration of our repository dashboard and FAIRsharing collection. Journeys explore curation activity themes covering subject area curations (centered around application technologies), standard types, and research data lifecycle stage examples.
+
+If you would like to provide feedback on our existing user journeys, please fill out this [form](https://forms.gle/uyovpTRTMpYbvoV57). If you would like to suggest a new user journey or collaborate, please submit a [blank issue request](https://github.com/RDA-MOMSI/Dashboard/issues).
+
 
 ---
 
 ## MOMSI Research Data Lifecycle Journeys
 
-The Research Data Management toolkit for Life Sciences (RDMkit)[^1] is just one of many global community resources supporting educational awareness around core data management concepts and best practices for proper handling of digital data at each stage of the research [data life cycle](https://rdmkit.elixir-europe.org/data_life_cycle). The MOMSI landscape review dashboard curation workflow includes leveraging key concepts from RDMkit (Figure 1) and expands on this work to capture how each domain or generalist standard aligns to the research data lifecycle (where applicable). Capturing domain use-case research data lifecycle curations, as part of our curation criteria, aims to provide expert level (domain-informed) recommendation resources for non-expert professionals tasked with data management planning and forecasting tasks.
+The Research Data Management toolkit for Life Sciences (RDMkit)[^1] is one of many global community resources supporting educational awareness around core data management concepts and best practices for proper handling of digital data at each stage of the research [data life cycle](https://rdmkit.elixir-europe.org/data_life_cycle). The MOMSI landscape review dashboard curation workflow includes leveraging key concepts from RDMkit (Figure 1) and expands on this work to capture how each domain or generalist standard aligns to the research data lifecycle (where applicable). Capturing domain use-case research data lifecycle curations, as part of our curation criteria, aims to provide expert level (domain-informed) recommendation resources for non-expert professionals tasked with data management planning and forecasting tasks.
 
 > <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg> Collaboration Highlight: RDA Life Science Data Infrastructures IG
 >  - Working group alignments aimed to enhance research data lifecycle standard-informed decision making and educational domain-aware materials supporting data stewardship and management best practices.
 
 
 [![doi: 10.5281/zenodo.11552128](./images/MOMSI_Research_Data_Lifecycle.jpg)](https://doi.org/10.5281/zenodo.11552128)
-*Figure 1. MOMSI WG curations expand on RDMkit plan, collect, process, and analyze stages for adding domain standard use-case context to generalist research data lifecycle frameworks.*
+*Figure 1. MOMSI WG curations expand on RDMkit plan, collect, process, and analyze stages for adding domain standard use-case context to generalist research data lifecycle frameworks and link to FAIRsharing standards types listed at our collection.*
 
 ### MOMSI Subject Area Standard Implementations Research Data Lifecycle Journeys
 Core concepts, terms, and curation activity examples incorporating RDMkit use-case considerations represent potential standard selections based on different data management [roles](https://rdmkit.elixir-europe.org/your_role) and [tasks](https://rdmkit.elixir-europe.org/your_tasks) performed at each stage of the research data lifecycle (Planning, Collecting, Processing, Analyzing, Preserving, Sharing, Reusing). 
