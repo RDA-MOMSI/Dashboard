@@ -21,6 +21,9 @@ const data = FileAttachment("data/cluster-chart.json").json();
 </header>
 
 ---
+To view standards by application technology type, click a node to expand or collapse the tree. This chart enables drill down views of standard records starting with the application technology of interest.
+
+_See an instrument relationship that is missing or needs to updated? Instrument focused standard relationships viewed in this chart can be updated directly from our [dashboard table](https://rda-momsi.github.io/Dashboard) by clicking on the unique identifier links provided at the end of each row. Updates will visually render once a request has been merged._
 
 <!-- Plot of launch vehicles -->
 
