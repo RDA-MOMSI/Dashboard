@@ -22,6 +22,11 @@ const data = FileAttachment("data/circle-packing-chart.json").json();
 
 ---
 
+To view grouped Omics subject area standards by Omics domain, click to zoom in or out. This chart enables drill down views of standard record types starting with the Omics domain subject area class first followed by standard type. Omics subclass standard records are represented under each main Omics class where relevant.
+
+_See an Omics subject area standard relationship that is missing or needs to be updated? Domain focused standard relationships viewed in this chart can be updated directly from our [dashboard table](https://rda-momsi.github.io/Dashboard) by clicking on the unique identifier links provided at the end of each row. Updates will visually render once a request has been merged._
+https://rda-momsi.github.io/Dashboard
+
 <!-- Cards with big numbers -->
 
 <div class="grid grid-cols-4">
