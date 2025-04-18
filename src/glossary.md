@@ -33,16 +33,14 @@ The MOMSI WG landscape review captures a set of curated community standard recor
  > - Models or Formats: represent structured data extensions or common formats that describe a specific experimental data type or resource infrastructure for which data and metadata information can be exchanged, enabling interoperability among infrastructure systems supporting preservation.
  > - Identifier Schemas: represent records that are intended to describe persistent and unique identifiers intended for sharing and reuse across multiple resources for reporting the location of where the data being described is stored.
 
-#### Term Identifiers
+#### Tagged Term Identifiers
 The MOMSI glossary leverages shared subject term identifiers from SRAO and EDAM in compatibility with tagged terms implemented by FAIRsharing for aligning semantics across the dashboard and collection advanced queries. Subject terms are used to describe standards listed in our glossary representative of our landscape review and are in alignment with the [FAIRsharing Subject Ontology (SRAO)](https://www.ebi.ac.uk/ols4/ontologies/srao) where applicable. SRAO imports terms from existing ontologies (DCTERMS, DC, NCIT, IAO, PO, OIO, EDAM, OMIT, OBI). SRAO hierarchy covers a broad range subject matter terms and where external vocabularies could not be found SRAO classes exist.  The [terms4FAIRskills (T4FS)](https://github.com/terms4fairskills/FAIRterminology/) identifiers were used for RDMkit and MOMSI research data lifecycle terms to support FAIR data stewardship. 
 
 ## RDMkit Research Data Lifecycle Classes
 Core concept terms, as defined by the RDMkit resource, are implemented in our issues requests and represent potential standard selections based on data management  [roles](https://rdmkit.elixir-europe.org/your_role) and [tasks](https://rdmkit.elixir-europe.org/your_tasks) performed at each stage (Planning, Collecting, Processing, Analyzing, Preserving, Sharing, Reusing). 
 
-## MOMSI Research Data Lifecycle Subclasses
+### MOMSI Research Data Lifecycle Subclasses
 Concept subclass terms, as defined by the MOMSI WG, for expanding on core RDMkit data lifecycle terms with use-case specific data management or stewardship tasks as they apply under each stage. 
-
-**Note:** MOMSI WG defined terms in the glossary have not been assigned an identifier. After WG output community review and feedback we will further refine these selection terms as needed and seek opportunities to add these terms to an existing maintained ontology collection within scope.
   
 
 ---
