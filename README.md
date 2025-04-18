@@ -10,11 +10,11 @@ Welcome to the [Multi-Omics Metadata Standards Integration (MOMSI) Working Grou
 
 This repository contains an iterative list of curated controlled vocabularies/ontologies, metadata reporting guidelines, data models/formats, and identifier schemas relevant to Omics application technologies and FAIR best practices. The [MOMSI WG Landscape Review Dashboard](https://rda-momsi.github.io/Dashboard) is designed to support continuous curation of Omics domain and generalist community-accepted standards in real time aiding next-generation Multi-Omics data integration platform system developments, refinements, and new implementations.
 
-### 📥 Usage
+### 👥 Usage
 
-This resource supports users interested in Multi-omics data and metadata standards integration across MOMSI subject areas in Genomics, Proteomics, Metabolomics, and Lipidomics domain class and subclasses corresponding to application technologies in sequencing and mass spectrometry.
+This resource supports users interested in Multi-omics data and metadata standards development, integration, and data platform system developments across MOMSI domain subject areas in Genomics, Proteomics, Metabolomics, and Lipidomics corresponding to application technologies in sequencing and mass spectrometry. Our live curation workflow aims to provide expert level (domain-informed) recommendation resources for non-expert professionals tasked with data management planning and forecasting tasks.
 
-**Target Users:**
+**Target Audience:**
  - Researchers (data and metadata generators/stewards)
  - Data Support Professionals (data managers/project managers)
  - Developers (data and metadata consumers/generators/standard creators)
@@ -72,8 +72,8 @@ The code in this repository is licensed under the [BSD-3-Clause License](https:
 > 📖 **Citation Policy**
 > 
 > _In efforts to enable discovery, sharing, and reuse of RDA WG deliverables, we kindly ask the MOMSI WG Landscape Review Dashboard Repository and provided supporting materials be referenced under the following citations._
-> 1. Dashboard source code citaion DOI is currently pending.
-> 2. FAIRsharing.org: MOMSI Collection; Multi-Omics Metadata Standards Integration Working Group Landscape Review Collection, FAIRsharing ID: https://fairsharing.org/5742, Last Edited: Thursday, April 17th 2025, 18:18, Last Editor: lnanderscience.
+> 1. Dashboard source code RDA DOI citaion currently pending.
+> 2. FAIRsharing.org: MOMSI Collection; Multi-Omics Metadata Standards Integration Working Group Landscape Review Collection. FAIRsharing ID: https://fairsharing.org/5742 (DOI currently pending)
 
 ### 🎁 Funding
 
