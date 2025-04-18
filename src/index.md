@@ -19,14 +19,16 @@ const bardata = FileAttachment("data/standards-bar-chart.json").json();
   </div>
 </header>
 
-🎉 Welcome to the [Multi-Omics Metadata Standards Integration (MOMSI) Working Group](https://www.rd-alliance.org/groups/multi-omics-metadata-standards-integration-momsi-wg) community-driven Multi-Omics standard landscape review curation workflow and interactive web-based dashboard tool! 
+🎉 Welcome to the [Multi-Omics Metadata Standards Integration (MOMSI) Working Group](https://www.rd-alliance.org/groups/multi-omics-metadata-standards-integration-momsi-wg) community-driven Multi-Omics standard landscape review curation workflow and interactive web-based dashboard tool! Explore >250 standards from our Omics Landscape Review repository containing various Multi-omics domain (genomics, proteomics, metabolomics, lipidomics, etc.) and universal (generalist and subject agnostic) standards curated by the MOMSI WG.
 
-**Note:** This dashboard supports query and discovery of Multi-omics standards listed within our repository as a visualization supporting live curation. This dashboard is not intended for advanced search and filter navigation nor it is our final recommendation resource. 
+
+**Note:** This dashboard supports exploration and discovery of Multi-omics standards listed within our repository with front-end visualization supporting live curation status updates. This dashboard is not intended for advanced search and filter navigation nor it is our final recommendation resource. To learn more about how standards listed at our repository are being implemented, please review our [Sustainability](https://github.com/RDA-MOMSI/Dashboard#%EF%B8%8F-sustainability) section.
 
 > <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg> Not sure where to begin?
-> - Visit our [Glossary](./glossary) page to browse curated concept and terminologies linked to filter tags listed at the dashboard and FAIRsharing Collection.
-> - Visit our [User Journeys](./user-journeys) page for themed use-case exploration of standard types, data lifecycle curation concepts, and core Omics subject areas.
-> - Toggle the Omics summary tables below. You can sort by column header and even make direct issue requests from unique identifier links provided. See [CONTRIBUTING](./contributing) for additional guidance.
+> - Toggle the Omics summary tables below to scroll and sort across standards. Create an issue request directly from dashboard table by clicking on the unique identifier links listed at the end of each row. See [CONTRIBUTING](./contributing) for additional guidance.
+> - Browse [User Journeys](./user-journeys) for themed use-case exploration examples of Omics standard types, research data lifecycle curations, and core Omics subject area classes/subclasses.
+> - Visit the [Glossary](./glossary) page to browse curated concepts and terms used to organize and filter the tags listed at the dashboard and at the [MOMSI FAIRsharing Collection](https://fairsharing.org/5742).
+
 
 ---
 
