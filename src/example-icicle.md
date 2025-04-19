@@ -22,6 +22,8 @@ const data = FileAttachment("data/sunburst-chart.json").json();
 
 ---
 
+This variant of an icicle diagram shows only three layers of the hierarchy at a time. Click a node to zoom in, or the left column to zoom out.
+
 <!-- Plot of launch vehicles -->
 
 ```js
