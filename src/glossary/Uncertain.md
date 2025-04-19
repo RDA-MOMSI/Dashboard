@@ -1,5 +1,9 @@
-term:: Uncertain
-definition:: Unclear how standards apply to this lifecycle stage (definition source: MOMSI WG).
-identifier:: N/A
-topic:: Planning, Collecting, Processing, Analyzing, Preserving, Sharing, Reusing
-related:: Research Data Lifecycle
+term: Uncertain
+
+definition: Information cannot be found or scope is unclear  **(definition source: MOMSI WG)**.
+
+identifier: ungrounded
+
+topic: Standard Status, Curation Criteria Selections
+
+related: Research Data Lifecycle

@@ -1,5 +1,9 @@
-term:: Not Applicable (N/A)
-definition:: Selections are out of scope or do not apply (definition source: MOMSI WG).
-identifier:: N/A
-topic:: Planning, Collecting, Processing, Analyzing, Preserving, Sharing, Reusing
-related:: Research Data Lifecycle
+term: Not Applicable
+
+definition: Selections do not apply (N/A) or are out of scope **(definition source: MOMSI WG)**.
+
+identifier: ungrounded
+
+topic: Curation Criteria Selections
+
+related: Research Data Lifecycle

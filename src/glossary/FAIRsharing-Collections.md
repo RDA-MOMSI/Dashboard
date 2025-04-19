@@ -1,5 +1,9 @@
-term:: FAIRsharing Collections
-definition:: Collections aggregate multiple records types including standards, databases, and policies based on a given set of recommendations by a project, initiative or infrastructure. Universal (generalist) examples may include "Subject Agnostic" collections like the [General Repository Comparison Collection](https://fairsharing.org/3541) or the [FAIR Maturity Indicators Collection](https://fairsharing.org/5685). _Universal collections relevant to "Omics" may include examples such as [ISO 20691](https://fairsharing.org/3533). Domain examples may include the [HUPOS Proteomics Standard Initiative Collection](https://fairsharing.org/3514), [Genomics Standard Consortium Collection](https://fairsharing.org/3528), etc._
-identifier:: pending
-topic:: FAIRsharing Record Types
-related:: MOMSI FAIRsharing Collection
+term: FAIRsharing Collections
+
+definition: FAIRsharing.org record type, resolving to designated homepage URL (or persistent DOI upon approved request), as an aggregation standalone source containing different FAIRsharing standards (terminology artefacts, models/formats, reporting guidelines, and identifier schemas), databases, and policy record types. Collections are created as methods to consolidate, educate, highlight, or share FAIR-related record recommendations or suggestions by a consortium or society, research project or group, sponsor organization, or institutional facility **(definition source: MOMSI WG, FAIRsharing)**.
+
+identifier: ungrounded
+
+topic: FAIRsharing Record Type
+
+related: Standards

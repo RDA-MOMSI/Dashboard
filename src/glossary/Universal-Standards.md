@@ -1,5 +1,9 @@
-term:: Universal Standards
-definition:: Standard resources that are considered universally applicable (generalist) across all subject areas or can be considered "Omics Relevant". Subject agnostic standard resources are applicable regardless of subject area investigation or expertise. However, this does not mean that it can or should be used for any type of data depending on the scope of the developments (definition source: MOMSI WG, SRAO).
-identifier:: [srao:0000401](https://bioregistry.io/srao:0000401)
-topic:: MOMSI Subject Area
-related:: Standards
+term: Universal Standards
+
+definition: MOMSI WG Universal (generalist or subject agnostic) community standard curations. These are common standards apply independently from Omics domain- focused requirements and broadly serve to improve Omics data and metadata standards harmonization for Multi-Omics integration, interoperability, and reusability **(definition source: MOMSI WG)**.
+
+identifier: ungrounded
+
+topic: Standards
+
+related: Data Integration
