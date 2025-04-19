@@ -15,7 +15,7 @@ If you would like to provide feedback on our existing user journeys, please fill
 
 ## MOMSI Research Data Lifecycle Journeys
 
-The Research Data Management toolkit for Life Sciences (RDMkit)[^1] is one of many global community resources supporting educational awareness around core data management concepts and best practices for proper handling of digital data at each stage of the research [data life cycle](https://rdmkit.elixir-europe.org/data_life_cycle). The MOMSI landscape review dashboard curation workflow includes leveraging key concepts from RDMkit (Figure 1) and expands on this work to capture how each domain or generalist standard aligns to the research data lifecycle (where applicable). Capturing domain use-case research data lifecycle curations, as part of our curation criteria, aims to provide expert level (domain-informed) recommendation resources for non-expert professionals tasked with data management planning and forecasting tasks.
+The Research Data Management toolkit for Life Sciences (RDMkit) is one of many global community resources supporting educational awareness around core data management concepts and best practices for proper handling of digital data at each stage of the research [data life cycle](https://rdmkit.elixir-europe.org/data_life_cycle). The MOMSI landscape review dashboard curation workflow includes leveraging key concepts from RDMkit (Figure 1) and expands on this work to capture how each domain or generalist standard aligns to the research data lifecycle (where applicable). Capturing domain use-case research data lifecycle curations, as part of our curation criteria, aims to provide expert level (domain-informed) recommendation resources for non-expert professionals tasked with data management planning and forecasting tasks.
 
 > <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg> Collaboration Highlight: RDA Life Science Data Infrastructures IG
 >  - Working group alignments aimed to enhance research data lifecycle standard-informed decision making and educational domain-aware materials supporting data stewardship and management best practices.
@@ -39,7 +39,7 @@ Core concepts, terms, and curation activity examples incorporating RDMkit use-ca
 
 ## MOMSI FAIRsharing Collection Journeys
 
-The [MOMSI Collection (Deliverable 1b)](https://fairsharing.org/5742) located at FAIRsharing[^2] is a refined and filtered down collection of domain specific and Omics relevant universal terminologies, metadata reporting guidelines, data models/formats, and identifier schemas. 
+The [MOMSI WG FAIRsharing Collection](https://fairsharing.org/5742) is a refined and filtered down list of Omics specific and domain relevant universal terminologies, metadata reporting guidelines, data models or formats, and identifier schemas. 
 
 New and existing standards listed in this collection have undergone an iterative in-depth landscape review process using the MOMSI curation dashboard sustainability workflow. This process involves evaluating the accuracy and completeness of each standard and the minimal information criteria required for curation. Our collection seeks to benefit and encourage continuous, open, and machine-actionable Multi-omics community standards curation, supporting evolving research data management and sharing best practices.
 
@@ -52,7 +52,7 @@ _Note: If you notice a standard is missing from the output results listed under 
 
 ### Beginner Journeys
 
-"Beginner" journeys introduce entry level core concepts curated at the dashboard and listed at our collection. See "FAIRsharing in a nutshell"[^3] and provided [education material](https://fairsharing.org/educational) (prepared by the FAIRsharing Community Champions) to learn more about how FAIRsharing record resources can support your research endeavors.
+"Beginner" journeys introduce entry level core concepts curated at the dashboard and listed at our collection. See "FAIRsharing in a nutshell" and provided [education material](https://fairsharing.org/educational) (prepared by the FAIRsharing Community Champions) to learn more about how FAIRsharing record resources can support your research endeavors.
 
 See example queries below for a few ways to browse MOMSI WG standards aligned to your interest from our collection.
 
@@ -67,6 +67,7 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
 - View [Proteomics Standards](https://fairsharing.org/5742?subjects=proteomics&page=1)
 - View [Metabolomics Standards](https://fairsharing.org/5742?subjects=metabolomics&page=1)
 - View Universal [Omics Standards](https://fairsharing.org/5742?q=Omics) and/or [Subject Agnostic Standards](https://fairsharing.org/5742?q=Subject%20Agnostic)
+- Explore [Standards by Subject Area (C1)](https://rda-momsi.github.io/Dashboard/example-circle) chart.
 
 3. **Browse Standards by MOMSI Subject Area Subclass**
 - View [Transcriptomics Standards](https://fairsharing.org/5742?subjects=transcriptomics&page=1) (Genomics subclass)
@@ -77,10 +78,11 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
 4. **Browse Standards by Domain Application Technology**
 - View Standards linked to [Sequencing](https://fairsharing.org/5742?q=Sequencing)
 - View Standards linked to [Mass spectrometry](https://fairsharing.org/5742?q=Mass%20Spectrometry)
+- Explore [Standards by Technology (C2)](https://rda-momsi.github.io/Dashboard/example-cluster) chart.
 
 ### Advanced Journeys
 
-"Advanced" journeys provide a more in-depth view of standards listed across multiple Omics domains and standard types curated at the dashboard and listed at our collection. See "FAIRsharing content: standards overview"[^4] and "FAIR Principles in a nutshell"[^5] to learn more about how combined Omics standards and Universal standards can support FAIR research developments.
+"Advanced" journeys provide a more in-depth view of standards listed across multiple Omics domains and standard types curated at the dashboard and listed at our collection. See "FAIRsharing content: standards overview" and "FAIR Principles in a nutshell" to learn more about how combined Omics standards and Universal standards can support FAIR research developments.
 
 1. **Browse MOMSI Curations by Domain vs. Universal Standard Types**
 
@@ -101,15 +103,12 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
    - View standards that are currently still [in development](https://fairsharing.org/5742?page=1&status=in_development).
    - View standards that are [recommended](https://fairsharing.org/5742?page=1&isRecommended=true) by a data policy from a journal, journal publisher or funder.
    - View the [MOMSI collection network graph](https://fairsharing.org/graph/5742) to explore how curation standards are interlinked to databases, standards, and policies.
+   - - Explore [Standards by Research Data Lifecycle Stage (C3)](https://rda-momsi.github.io/Dashboard/example-sunburst) chart.
 
 **References**
 
-[^1]: RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences URL: [https://rdmkit.elixir-europe.org](https://rdmkit.elixir-europe.org/) (Accessed 2025-04-12).
-
-[^2]: Sansone, SA., McQuilton, P., Rocca-Serra, P. _et al._ FAIRsharing as a community approach to standards, repositories and policies. _Nat Biotechnol_ 37, 358–367 (2019). https://doi.org/10.1038/s41587-019-0080-8
-
-[^3]: Allyson Lister, & Susanna-Assunta Sansone. (2023, July 28). FAIRsharing in a nutshell. Zenodo. https://doi.org/10.5281/zenodo.8191958
-
-[^4]: Malin Sandström, Allyson Lister, & Susanna-Assunta Sansone. (2023, July 26). FAIRsharing content: standards overview. Zenodo. https://doi.org/10.5281/zenodo.8186982
-
-[^5]: Lister, A., Sansone, S.-A., & Rocca-Serra, P. (2024, June 19). FAIR Principles in a nutshell. Zenodo. https://doi.org/10.5281/zenodo.12167786
+1. RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences URL: [https://rdmkit.elixir-europe.org](https://rdmkit.elixir-europe.org/) (Accessed 2025-04-12).
+2. Sansone, SA., McQuilton, P., Rocca-Serra, P. _et al._ FAIRsharing as a community approach to standards, repositories and policies. _Nat Biotechnol_ 37, 358–367 (2019). https://doi.org/10.1038/s41587-019-0080-8
+3. Allyson Lister, & Susanna-Assunta Sansone. (2023, July 28). FAIRsharing in a nutshell. Zenodo. https://doi.org/10.5281/zenodo.8191958
+4. Malin Sandström, Allyson Lister, & Susanna-Assunta Sansone. (2023, July 26). FAIRsharing content: standards overview. Zenodo. https://doi.org/10.5281/zenodo.8186982
+5. Lister, A., Sansone, S.-A., & Rocca-Serra, P. (2024, June 19). FAIR Principles in a nutshell. Zenodo. https://doi.org/10.5281/zenodo.12167786
