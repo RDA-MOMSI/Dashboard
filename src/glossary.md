@@ -24,8 +24,9 @@ let standardChoice = Mutable("glossary")
 let columnChoice = Mutable(dataColumns["glossary"])
 let dataChoice = Mutable(data["glossary"])
 const dataFormatTemplate = {
-	"glossary": "glossary.yml"
+	"glossary": "glossary.json"
 }
+
 function changeStandardChoice(value) {
 	standardChoice.value = value
 	columnChoice.value = dataColumns[value]
