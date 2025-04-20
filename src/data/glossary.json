@@ -30,8 +30,8 @@
         },
         {
             "Term": "Metabolomics",
-            "Definition": "text",
-            "Identifier": "[edam.topic:3391](https://identifiers.org/edam:topic_3391)",
+            "Definition": "The systematic study of metabolites, the chemical processes they are involved, and the chemical fingerprints of specific cellular processes in a whole cell, tissue, organ or organism (definition source: EDAM).",
+            "Identifier": "[edam.topic:3172](https://identifiers.org/edam:topic_3172)",
             "Topic": "Omics",
             "Related": "Subject Area Class"
         }
