@@ -1,0 +1,39 @@
+{
+    "Glossary": [
+        {
+            "Term": "Omics",
+            "Definition": "The collective characterization and quantification of pools of biological molecules that translate into the structure, function, and dynamics of an organism or organisms (definition source: EDAM).",
+            "Identifier": "[edam.topic:3391](https://identifiers.org/edam:topic_3391)",
+            "Topic": "Omics Data Analysis",
+            "Related": "Subject Area Superclass"
+        },
+        {
+            "Term": "Multi-Omics",
+            "Definition": "Merges multiple Omics data types (genomics, proteomics, metabolomics, etc.), leveraging more than one instrument technology or analytical method for quantification and characterization of complex pools of biological molecules. Multi-omics data integration provides a closer look into the complex functional interactions at the molecular level to better understand the biological dynamics of living organism(s) across the life sciences **(definition source: MOMSI WG)**.",
+            "Identifier": "[edam.topic:4021](https://identifiers.org/edam:topic_4021)",
+            "Topic": "Omics",
+            "Related": "Subject Area Class"
+        },
+        {
+            "Term": "Genomics",
+            "Definition": "Whole genomes of one or more organisms, or genomes in general, such as meta-information on genomes, genome projects, gene names etc. (definition source: EDAM).",
+            "Identifier": "[edam.topic:0622](https://identifiers.org/edam:topic_0622)",
+            "Topic": "Omics",
+            "Related": "Subject Area Class"
+        },
+        {
+            "Term": "Proteomics",
+            "Definition": "Protein and peptide identification, especially in the study of whole proteomes of organisms. Includes metaproteomics: proteomics analysis of an environmental sample. Proteomics includes any methods (especially high-throughput) that separate, characterize and identify expressed proteins such as mass spectrometry, two-dimensional gel electrophoresis and protein microarrays, as well as in-silico methods that perform proteolytic or mass calculations on a protein sequence and other analyses of protein production data, for example in different cells or tissues (definition source: EDAM).",
+            "Identifier": "[edam.topic:0121](https://identifiers.org/edam:topic_0121)",
+            "Topic": "Omics",
+            "Related": "Subject Area Class"
+        },
+        {
+            "Term": "Metabolomics",
+            "Definition": "text",
+            "Identifier": "[edam.topic:3391](https://identifiers.org/edam:topic_3391)",
+            "Topic": "Omics",
+            "Related": "Subject Area Class"
+        }
+    ]
+}
