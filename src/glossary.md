@@ -12,12 +12,38 @@ _Note: MOMSI WG defined terms in the glossary have not been assigned an identifi
 
 ## Glossary Table (pending)
 
+---
 
-| Term    | Definition                                                                                                                                                                                           | Identifier                                                 | Topic              | Related       |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------ | ------------- |
-| Omics | The collective characterization and quantification of pools of biological molecules that translate into the structure, function, and dynamics of an organism or organisms (definition source: EDAM). | [edam.topic:3391](https://identifiers.org/edam:topic_3391) | Omics Data Analysis | Subject Area Superclass |
-| Multi-Omics | Merges multiple Omics data types (genomics, proteomics, metabolomics, etc.), leveraging more than one instrument technology or analytical method for quantification and characterization of complex pools of biological molecules. Multi-omics data integration provides a closer look into the complex functional interactions at the molecular level to better understand the biological dynamics of living organism(s) across the life sciences **(definition source: MOMSI WG)**. |  [edam.topic:4021](https://identifiers.org/edam:topic_4021) | Omics | Subject Area Class |
-|          |                                                                                                                                                                                                      |                                                            |                    |               |
+```js
+import {Mutable} from "observablehq:stdlib";
+const data = await FileAttachment("data/glossary.json").json()
+const dataColumns = {
+	"glossary": ["Term", "Definition", "Identifier", "Topic", "Related"]
+}
+let standardChoice = Mutable("glossary")
+let columnChoice = Mutable(dataColumns["glossary"])
+let dataChoice = Mutable(data["glossary"])
+const dataFormatTemplate = {
+	"glossary": "01-glossary-terms.yml"
+}
+function changeStandardChoice(value) {
+	standardChoice.value = value
+	columnChoice.value = dataColumns[value]
+	return value
+}
+
+const choice = view(Inputs.button([
+  ["glossary", value => value = changeStandardChoice("glossary")],
+], {value: "glossary"}));
+const searchGInput = Inputs.search(data["glossary"], {placeholder: "Search glossary terms ..."});
+const searchG = Generators.input(searchGInput);
+```
+
+<div class="card" style="display: flex; flex-direction: column; gap: 0.5rem;">
+  ${ standardChoice === "glossary" ? searchGInput  : "" }
+  ${ standardChoice === "glossary" ? Inputs.table(searchG, {columns: columnChoice, format: dataFormat})
+	 : "" }
+</div>
 
 
 ---
