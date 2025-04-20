@@ -23,6 +23,8 @@ const dataColumns = {
 let standardChoice = Mutable("glossary")
 let columnChoice = Mutable(dataColumns["glossary"])
 let dataChoice = Mutable(data["glossary"])
+const dataFormatTemplate = {
+	"glossary": "glossary.json"
 }
 
 function changeStandardChoice(value) {
