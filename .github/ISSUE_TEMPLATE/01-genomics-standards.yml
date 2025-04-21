@@ -247,7 +247,7 @@ body:
     id: credit
     attributes:
       label: CRediT
-      description: Select the Contributor Role Taxonomy [CRediT](https://credit.niso.org/) options provided to describe your contributions.
+      description: Select from the Contributor Role Taxonomy ([CRediT](https://credit.niso.org/)) options provided to describe your contributions.
       options:
         - "Data curation; Writing - review & editing"
         - "Data curation; Writing - original draft"
