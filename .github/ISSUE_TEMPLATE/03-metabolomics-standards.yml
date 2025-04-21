@@ -215,7 +215,7 @@ body:
     attributes:
       label: Active Affiliation(s)
       description: What organisation is the standard affiliated to?
-      placeholder: e.g. RSC Ontologies
+      placeholder: e.g. International Union of Pure and Applied Chemistry (IUPAC) and National Institute of Standards and Technology (NIST)
     validations:
       required: true
   - type: input
@@ -230,31 +230,31 @@ body:
     id: reference-article-citation-doi
     attributes:
       label: Reference Article Citation (DOI)
-      description: Provide a DOI for any relevant journal article references?
+      description: Provide a DOI for any relevant journal article references.
       placeholder: e.g. https://doi.org/10.1186/s13321-015-0068-4
   - type: input
     id: reference-source-code-doi
     attributes:
       label: Reference Source Code (DOI or URL)
-      description: Provide a URL or DOI for relevant references?
+      description: Provide a URL or DOI for any relevant source code references.
       placeholder: e.g. https://github.com/IUPAC-InChI/InChI
   - type: input
     id: fairsharing-record-doi
     attributes:
       label: FAIRsharing Record (DOI or URL)
-      description: Provide a URL or DOI for relevant references?
+      description: Provide a URL or DOI for any relevant [FAIRsharing.org](https://fairsharing.org) record references.
       placeholder: e.g. https://doi.org/10.25504/FAIRsharing.ddk9t9
   - type: input
     id: contributor-name
     attributes:
       label: Contributor Name
-      description: Provide your name for attribution as a contributor
+      description: Provide your name for attribution as a contributor.
       placeholder: e.g. Symona Adaro
   - type: input
     id: contributor-orcid-id
     attributes:
       label: Contributor ORCID ID
-      description: Provide your ORCID ID?
+      description: Provide your ORCID ID.
       placeholder: e.g. 0000-0000-0000-0000
   - type: dropdown
     id: credit
