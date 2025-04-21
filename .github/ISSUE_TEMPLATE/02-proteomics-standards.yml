@@ -1,5 +1,5 @@
 name: Proteomics Standards
-description: Submit a new proteomics standard for review.
+description: Submit a new proteomics standard or update an existing standard for review.
 labels: ["proteomics", "review"]
 assignees:
   - turukawa
@@ -7,7 +7,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: Thanks for taking the time to contribute this new proteomics standard!
+      value: Thanks for taking the time to contribute to this MOMSI proteomics standard!
   - type: dropdown
     id: standard-type
     attributes:
@@ -39,7 +39,7 @@ body:
     id: country
     attributes:
       label: Country
-      description: What region or country is the organisation active in?
+      description: What region or country is the affiliated standard organisation active in?
       placeholder: e.g. Worldwide
     validations:
       required: true
@@ -47,7 +47,7 @@ body:
     id: domain-class-subclass
     attributes:
       label: Domain Class/Subclass
-      description: What is the domain class or -subclass of the standard?
+      description: What is the domain class or -subclass of the standard most aligned?
       multiple: true
       options:
         - Proteomics
@@ -60,7 +60,7 @@ body:
     id: application-technology
     attributes:
       label: Application Technology
-      description: What is the application technology of the standard?
+      description: What application technology applies to this standard?
       multiple: true
       options:
         - Mass Spectrometry (general)
@@ -105,7 +105,7 @@ body:
     id: planning
     attributes:
       label: Planning
-      description: What is the [data management plan](https://rdmkit.elixir-europe.org/planning)?
+      description: What activity best describes the standard relationship to the [planning]](https://github.com/RDA-MOMSI/Dashboard/blob/main/src/glossary/Planning.md) stage of the research data lifecyce?
       options:
         - Experimental Design
         - Computed Analysis Design
@@ -118,7 +118,7 @@ body:
     id: collection
     attributes:
       label: Collection
-      description: How are data [collected](https://rdmkit.elixir-europe.org/collecting)?
+      description: What activity best describes the standard relationship to the [collection](https://github.com/RDA-MOMSI/Dashboard/blob/main/src/glossary/Collection.md) stage of the research data lifecyce?
       options:
         - Sample Preparation
         - Data Acquisition
@@ -131,7 +131,7 @@ body:
     id: processing
     attributes:
       label: Processing
-      description: How are data [processed](https://rdmkit.elixir-europe.org/processing)?
+      description: What activity best describes the standard relationship to the [processing](https://github.com/RDA-MOMSI/Dashboard/blob/main/src/glossary/Processing.md) stage of the research data lifecyce?
       options:
         - Data Pre-Processing
         - Data Feature Detection/Identification
@@ -146,7 +146,7 @@ body:
     id: analysis
     attributes:
       label: Analysis
-      description: How are data [analysed](https://rdmkit.elixir-europe.org/analysing)?
+      description: What activity best describes the standard relationship to the [analysis](https://github.com/RDA-MOMSI/Dashboard/blob/main/src/glossary/Analysis.md) stage of the research data lifecyce?
       options:
         - Qualitative Analysis
         - Quantitative Analysis
@@ -163,7 +163,7 @@ body:
     id: preservation
     attributes:
       label: Preservation
-      description: How are data [preserved](https://rdmkit.elixir-europe.org/preserving)?
+      description: What activity best describes the standard relationship to the [preservation](https://github.com/RDA-MOMSI/Dashboard/blob/main/src/glossary/Preservation.md) stage of the research data lifecyce?
       options:
         - Data (raw, processed, generated) Storage
         - Metadata Storage
@@ -176,7 +176,7 @@ body:
     id: sharing
     attributes:
       label: Sharing
-      description: How are data [shared](https://rdmkit.elixir-europe.org/sharing)?
+      description: What activity best describes the standard relationship to the [sharing](https://github.com/RDA-MOMSI/Dashboard/blob/main/src/glossary/Sharing.md) stage of the research data lifecyce?
       options:
         - Article (human-readable)
         - Knowledgebase (machine-readable)
@@ -191,7 +191,7 @@ body:
     id: reuse
     attributes:
       label: Reuse
-      description: Are data available for [reuse](https://rdmkit.elixir-europe.org/reusing)?
+      description: What expert guidance best describes the standard relationship to the [reuse](https://github.com/RDA-MOMSI/Dashboard/blob/main/src/glossary/Reuse.md) stage of the research data lifecyce?
       options:
         - Required for Reuse
         - Recommended for Reuse
@@ -206,9 +206,9 @@ body:
     id: meets-criteria
     attributes:
       label: Meets Criteria
-      description: Standard meets discussed criteria to be selected for the [MOMSI Standards Collection at FAIRsharing](https://fairsharing.org/5742). 
+      description: Does this standard [meet criteria](https://github.com/RDA-MOMSI/Dashboard/blob/main/src/glossary/Meets-Criteria.md) for the MOMSI minimum level of required information to be selected for the [MOMSI Standards Collection](https://fairsharing.org/5742)? 
       options:
-        - label: Meets criteria for the Omics Standards Collection at FAIRsharing
+        - label: Meets criteria for the MOMSI Standards Collection at FAIRsharing
   - type: input
     id: active-affiliations
     attributes:
@@ -221,8 +221,8 @@ body:
     id: homepage
     attributes:
       label: Homepage
-      description: What is the organization's homepage URL?
-      placeholder: e.g. https://www.psidev.info/peff
+      description: What is the standard's homepage URL?
+      placeholder: e.g. https://www.psidev.info/mzspeclib
     validations:
       required: true
   - type: input
@@ -230,19 +230,19 @@ body:
     attributes:
       label: Reference Article Citation (DOI)
       description: Provide a DOI for relevant references?
-      placeholder: e.g. https://doi.org/10.12688/f1000research.12342.2
+      placeholder: e.g. https://doi.org/10.1021/acs.analchem.4c04091
   - type: input
     id: reference-source-code-doi
     attributes:
       label: Reference Source Code (DOI or URL)
       description: Provide a URL or DOI for relevant references?
-      placeholder: e.g. https://github.com/GenomicsStandardsConsortium/mixs
+      placeholder: e.g. https://github.com/HUPO-PSI/mzspeclib
   - type: input
     id: fairsharing-record-doi
     attributes:
       label: FAIRsharing Record (DOI or URL)
       description: Provide a URL or DOI for relevant references?
-      placeholder: e.g. https://fairsharing.org/5383
+      placeholder: e.g. https://fairsharing.org/5365
   - type: input
     id: contributor-name
     attributes:
@@ -259,7 +259,7 @@ body:
     id: credit
     attributes:
       label: CRediT
-      description: Taxonomy to describe types of contributions, [CRediT](https://credit.niso.org/).
+      description: Select the Contributor Role Taxonomy [CRediT](https://credit.niso.org/) options provided to describe your contributions.
       options:
         - "Data curation; Writing - review & editing"
         - "Data curation; Writing - original draft"
@@ -268,4 +268,4 @@ body:
     id: comments
     attributes:
       label: Comments
-      description: Any additional information?
+      description: If you have any additional comments or questions about this issue request you'd like to provide, not covered in the above required fields, please leave them here.
