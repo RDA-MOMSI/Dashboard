@@ -78,6 +78,7 @@ body:
         - MALDI-TOF
         - AP-MALDI
         - MALDI-FT-ICR
+        - SLIM-Orbitrap CryoIR-MS
         - Isotope-Ratio Mass Spectrometry (IRMS)
         - Inductively Coupled Plasma-Mass Spectrometry (ICP-MS)
         - Accelerator mass spectrometry (AMS)
