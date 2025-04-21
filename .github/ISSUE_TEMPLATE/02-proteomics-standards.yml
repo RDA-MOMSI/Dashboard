@@ -235,7 +235,7 @@ body:
     id: reference-source-code-doi
     attributes:
       label: Reference Source Code (DOI or URL)
-      description: Provide a URL or DOI for for any relevant source code references.
+      description: Provide a URL or DOI for any relevant source code references.
       placeholder: e.g. https://github.com/HUPO-PSI/mzspeclib
   - type: input
     id: fairsharing-record-doi
