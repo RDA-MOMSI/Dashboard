@@ -47,7 +47,7 @@ body:
     id: domain-class-subclass
     attributes:
       label: Domain Class/Subclass
-      description: What is the domain class or -subclass of the standard most aligned?
+      description: What domain class or -subclass is the standard most aligned?
       multiple: true
       options:
         - Proteomics
