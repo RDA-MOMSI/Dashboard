@@ -24,7 +24,7 @@ let standardChoice = Mutable("glossary")
 let columnChoice = Mutable(dataColumns["glossary"])
 let dataChoice = Mutable(data["glossary"])
 const dataFormatTemplate = {
-	"glossary": "glossary.json"
+	
 }
 
 function changeStandardChoice(value) {
@@ -33,16 +33,13 @@ function changeStandardChoice(value) {
 	return value
 }
 
-const choice = view(Inputs.button([
-  ["glossary", value => value = changeStandardChoice("glossary")],
-], {value: "glossary"}));
 const searchGInput = Inputs.search(data["glossary"], {placeholder: "Search glossary terms ..."});
 const searchG = Generators.input(searchGInput);
 ```
 
 <div class="card" style="display: flex; flex-direction: column; gap: 0.5rem;">
   ${ standardChoice === "glossary" ? searchGInput  : "" }
-  ${ standardChoice === "glossary" ? Inputs.table(searchG, {columns: columnChoice, format: dataFormat})
+  ${ standardChoice === "glossary" ? Inputs.table(searchG, {columns: columnChoice})
 	 : "" }
 </div>
 
