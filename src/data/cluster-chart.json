@@ -805,9 +805,31 @@
             }
           ],
           "count": 1
+        },
+        {
+          "name": "Proteomics",
+          "children": [
+            {
+              "name": "Proteomics",
+              "children": [
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "PDB ID",
+                      "count": 1
+                    }
+                  ],
+                  "count": 1
+                }
+              ],
+              "count": 1
+            }
+          ],
+          "count": 1
         }
       ],
-      "count": 1
+      "count": 2
     },
     {
       "name": "Mass Spectrometry (general)",
@@ -1602,5 +1624,5 @@
       "count": 2
     }
   ],
-  "count": 244
+  "count": 245
 }

@@ -522,9 +522,13 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 },
                 {
                   "name": "Reporting Guideline",
@@ -619,7 +623,7 @@
                   "count": 4
                 }
               ],
-              "count": 44
+              "count": 45
             },
             {
               "name": "Metabolomics",
@@ -1058,7 +1062,7 @@
               "count": 42
             }
           ],
-          "count": 231
+          "count": 232
         },
         {
           "name": "All of the above",
@@ -3316,12 +3320,16 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 }
               ],
-              "count": 3
+              "count": 4
             },
             {
               "name": "Metabolomics",
@@ -3638,7 +3646,7 @@
               "count": 51
             }
           ],
-          "count": 149
+          "count": 150
         },
         {
           "name": "Other",
@@ -3816,7 +3824,7 @@
           "count": 34
         }
       ],
-      "count": 832
+      "count": 834
     },
     {
       "name": "Collection",
@@ -6221,9 +6229,13 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 },
                 {
                   "name": "Reporting Guideline",
@@ -6296,7 +6308,7 @@
                   "count": 16
                 }
               ],
-              "count": 44
+              "count": 45
             },
             {
               "name": "Metabolomics",
@@ -6833,7 +6845,7 @@
               "count": 62
             }
           ],
-          "count": 253
+          "count": 254
         },
         {
           "name": "Sample Preparation",
@@ -7410,7 +7422,7 @@
           "count": 124
         }
       ],
-      "count": 783
+      "count": 784
     },
     {
       "name": "Processing",
@@ -9838,9 +9850,31 @@
                     }
                   ],
                   "count": 4
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "USI",
+                      "count": 1
+                    },
+                    {
+                      "name": "UniProt ID",
+                      "count": 1
+                    },
+                    {
+                      "name": "PXD ID",
+                      "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
+                    }
+                  ],
+                  "count": 4
                 }
               ],
-              "count": 21
+              "count": 25
             },
             {
               "name": "Metabolomics",
@@ -10092,7 +10126,7 @@
               "count": 0
             }
           ],
-          "count": 166
+          "count": 170
         },
         {
           "name": "Data Pre-Processing",
@@ -10897,9 +10931,13 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 },
                 {
                   "name": "Reporting Guideline",
@@ -10994,7 +11032,7 @@
                   "count": 4
                 }
               ],
-              "count": 44
+              "count": 45
             },
             {
               "name": "Metabolomics",
@@ -11357,10 +11395,10 @@
               "count": 57
             }
           ],
-          "count": 170
+          "count": 171
         }
       ],
-      "count": 865
+      "count": 870
     },
     {
       "name": "Analysis",
@@ -12666,9 +12704,31 @@
                     }
                   ],
                   "count": 16
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "USI",
+                      "count": 1
+                    },
+                    {
+                      "name": "UniProt ID",
+                      "count": 1
+                    },
+                    {
+                      "name": "PXD ID",
+                      "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
+                    }
+                  ],
+                  "count": 4
                 }
               ],
-              "count": 20
+              "count": 24
             },
             {
               "name": "Metabolomics",
@@ -13131,7 +13191,7 @@
               "count": 60
             }
           ],
-          "count": 196
+          "count": 200
         },
         {
           "name": "Interpretation Analysis",
@@ -13691,12 +13751,16 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 }
               ],
-              "count": 40
+              "count": 41
             },
             {
               "name": "Metabolomics",
@@ -14171,7 +14235,7 @@
               "count": 51
             }
           ],
-          "count": 230
+          "count": 231
         },
         {
           "name": "Quantitative Analysis",
@@ -15092,12 +15156,16 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 }
               ],
-              "count": 3
+              "count": 4
             },
             {
               "name": "Metabolomics",
@@ -15201,7 +15269,7 @@
               "count": 0
             }
           ],
-          "count": 72
+          "count": 73
         },
         {
           "name": "N/A",
@@ -15769,12 +15837,16 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 }
               ],
-              "count": 36
+              "count": 37
             },
             {
               "name": "Metabolomics",
@@ -16107,10 +16179,10 @@
               "count": 62
             }
           ],
-          "count": 198
+          "count": 199
         }
       ],
-      "count": 1040
+      "count": 1047
     },
     {
       "name": "Preservation",
@@ -16702,9 +16774,31 @@
                     }
                   ],
                   "count": 4
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "USI",
+                      "count": 1
+                    },
+                    {
+                      "name": "UniProt ID",
+                      "count": 1
+                    },
+                    {
+                      "name": "PXD ID",
+                      "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
+                    }
+                  ],
+                  "count": 4
                 }
               ],
-              "count": 37
+              "count": 41
             },
             {
               "name": "Metabolomics",
@@ -17241,7 +17335,7 @@
               "count": 62
             }
           ],
-          "count": 246
+          "count": 250
         },
         {
           "name": "Metadata Storage or Exchange",
@@ -17657,9 +17751,13 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 },
                 {
                   "name": "Model/Format",
@@ -17806,7 +17904,7 @@
                   "count": 16
                 }
               ],
-              "count": 40
+              "count": 41
             },
             {
               "name": "Metabolomics",
@@ -18307,7 +18405,7 @@
               "count": 56
             }
           ],
-          "count": 235
+          "count": 236
         },
         {
           "name": "Data (raw, processed, generated) Storage",
@@ -18729,12 +18827,16 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 }
               ],
-              "count": 40
+              "count": 41
             },
             {
               "name": "Metabolomics",
@@ -18907,7 +19009,7 @@
               "count": 4
             }
           ],
-          "count": 129
+          "count": 130
         },
         {
           "name": "N/A",
@@ -19196,7 +19298,7 @@
           "count": 58
         }
       ],
-      "count": 668
+      "count": 674
     },
     {
       "name": "Sharing",
@@ -19593,9 +19695,13 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 },
                 {
                   "name": "Terminology Artefact",
@@ -19690,7 +19796,7 @@
                   "count": 16
                 }
               ],
-              "count": 23
+              "count": 24
             },
             {
               "name": "Metabolomics",
@@ -20145,7 +20251,7 @@
               "count": 56
             }
           ],
-          "count": 208
+          "count": 209
         },
         {
           "name": "All of the above",
@@ -20629,12 +20735,16 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 }
               ],
-              "count": 24
+              "count": 25
             },
             {
               "name": "Metabolomics",
@@ -21095,7 +21205,7 @@
               "count": 62
             }
           ],
-          "count": 206
+          "count": 207
         },
         {
           "name": "Repository (machine-readable)",
@@ -21629,9 +21739,13 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 },
                 {
                   "name": "Reporting Guideline",
@@ -21704,7 +21818,7 @@
                   "count": 16
                 }
               ],
-              "count": 40
+              "count": 41
             },
             {
               "name": "Metabolomics",
@@ -22079,7 +22193,7 @@
               "count": 34
             }
           ],
-          "count": 216
+          "count": 217
         },
         {
           "name": "Article (human-readable)",
@@ -22681,7 +22795,7 @@
           "count": 21
         }
       ],
-      "count": 750
+      "count": 753
     },
     {
       "name": "Reuse",
@@ -23204,9 +23318,13 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 },
                 {
                   "name": "Reporting Guideline",
@@ -23279,7 +23397,7 @@
                   "count": 16
                 }
               ],
-              "count": 40
+              "count": 41
             },
             {
               "name": "Metabolomics",
@@ -23802,7 +23920,7 @@
               "count": 60
             }
           ],
-          "count": 245
+          "count": 246
         },
         {
           "name": "Uncertain",
@@ -26452,12 +26570,16 @@
                     {
                       "name": "PXD ID",
                       "count": 1
+                    },
+                    {
+                      "name": "PDB ID",
+                      "count": 1
                     }
                   ],
-                  "count": 3
+                  "count": 4
                 }
               ],
-              "count": 40
+              "count": 41
             },
             {
               "name": "Metabolomics",
@@ -26816,7 +26938,7 @@
               "count": 27
             }
           ],
-          "count": 201
+          "count": 202
         },
         {
           "name": "Other",
@@ -27225,8 +27347,8 @@
           "count": 18
         }
       ],
-      "count": 984
+      "count": 986
     }
   ],
-  "count": 5922
+  "count": 5948
 }

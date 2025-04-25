@@ -552,9 +552,13 @@
             {
               "name": "PXD ID",
               "count": 1
+            },
+            {
+              "name": "PDB ID",
+              "count": 1
             }
           ],
-          "count": 3
+          "count": 4
         },
         {
           "name": "Reporting Guideline",
@@ -627,7 +631,7 @@
           "count": 16
         }
       ],
-      "count": 44
+      "count": 45
     },
     {
       "name": "Metabolomics",
@@ -1164,5 +1168,5 @@
       "count": 62
     }
   ],
-  "count": 253
+  "count": 254
 }
