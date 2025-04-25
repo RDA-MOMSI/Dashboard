@@ -23,24 +23,20 @@ const dataColumns = {
 let standardChoice = Mutable("glossary")
 let columnChoice = Mutable(dataColumns["glossary"])
 let dataChoice = Mutable(data["glossary"])
-const dataFormatTemplate = {
-	
+// https://stackoverflow.com/a/70524047
+// https://talk.observablehq.com/t/display-hyperlinks-in-inputs-table/5947
+// (/\[([^\[]+)\](\(([^)]*))\)/gim, '<a href="$3">$1</a>')
+// htl.html`<a href=${url} target=_blank>🔗</a>`
+const dataFormat = {
+	Identifier: markdown => htl.html`<a href=${markdown.replace(/\[([^\[]+)\](\(([^)]*))\)/gim, "$3")} target=_blank>${markdown.replace(/\[([^\[]+)\](\(([^)]*))\)/gim, "$1")}</a>`
 }
-
-function changeStandardChoice(value) {
-	standardChoice.value = value
-	columnChoice.value = dataColumns[value]
-	return value
-}
-
 const searchGInput = Inputs.search(data["glossary"], {placeholder: "Search glossary terms ..."});
 const searchG = Generators.input(searchGInput);
 ```
 
 <div class="card" style="display: flex; flex-direction: column; gap: 0.5rem;">
-  ${ standardChoice === "glossary" ? searchGInput  : "" }
-  ${ standardChoice === "glossary" ? Inputs.table(searchG, {columns: columnChoice})
-	 : "" }
+  ${ searchGInput }
+  ${ Inputs.table(searchG, {columns: columnChoice, format: dataFormat}) }
 </div>
 
 
