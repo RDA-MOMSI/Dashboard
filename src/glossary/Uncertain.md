@@ -4,6 +4,6 @@ definition: Information cannot be found or scope is unclear  **(definition sourc
 
 identifier: ungrounded
 
-topic: Standard Status, Curation Criteria Selections
+topic: Standard Status, Research Data Lifecycle
 
-related: Research Data Lifecycle
+related: Curation Criteria Selections
