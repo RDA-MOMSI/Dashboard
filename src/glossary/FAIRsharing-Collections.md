@@ -6,4 +6,4 @@ identifier: ungrounded
 
 topic: FAIRsharing Record Type
 
-related: Standards
+related: FAIRsharing Standards
