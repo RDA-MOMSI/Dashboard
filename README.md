@@ -72,7 +72,7 @@ The code in this repository is licensed under the [BSD-3-Clause License](https:
 > 📖 **Citation Policy**
 > 
 > _In efforts to enable discovery, sharing, and reuse of RDA WG deliverables, we kindly ask the MOMSI WG Landscape Review Dashboard Repository and provided supporting materials be referenced under the following citations._
-> 1. Dashboard source code RDA DOI citaion currently pending.
+> 1. Dashboard source code RDA DOI citaion currently pending [community review](https://www.rd-alliance.org/groups/multi-omics-metadata-standards-integration-momsi-wg/outputs/?output=188206).
 > 2. FAIRsharing.org: MOMSI Collection; Multi-Omics Metadata Standards Integration Working Group Landscape Review Collection. FAIRsharing ID: https://fairsharing.org/5742 (DOI currently pending)
 
 ### 🎁 Funding
