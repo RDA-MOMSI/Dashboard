@@ -9,7 +9,7 @@
         },
         {
             "Term": "Multi-Omics",
-            "Definition": "Merges multiple Omics data types (genomics, proteomics, metabolomics, etc.), leveraging more than one instrument technology or analytical method for quantification and characterization of complex pools of biological molecules. Multi-omics data integration provides a closer look into the complex functional interactions at the molecular level to better understand the biological dynamics of living organism(s) across the life sciences **(definition source: MOMSI WG)**.",
+            "Definition": "Merges multiple Omics data types (genomics, proteomics, metabolomics, etc.), leveraging more than one instrument technology or analytical method for quantification and characterization of complex pools of biological molecules. Multi-omics data integration provides a closer look into the complex functional interactions at the molecular level to better understand the biological dynamics of living organism(s) across the life sciences (definition source: MOMSI WG).",
             "Identifier": "[edam.topic:4021](https://identifiers.org/edam:topic_4021)",
             "Topic": "Omics",
             "Related": "Subject Area Class"
@@ -31,9 +31,450 @@
         {
             "Term": "Metabolomics",
             "Definition": "The systematic study of metabolites, the chemical processes they are involved, and the chemical fingerprints of specific cellular processes in a whole cell, tissue, organ or organism (definition source: EDAM).",
-            "Identifier": "[edam.topic:3172](https://identifiers.org/edam:topic_3172)",
+            "Identifier": "([edam.topic:3172](https://identifiers.org/edam:topic_3172)",
             "Topic": "Omics",
             "Related": "Subject Area Class"
+        },
+        {
+            "Term": "Phenomics",
+            "Definition": "Phenomes, or the study of the change in phenotype (the physical and biochemical traits of organisms) in response to genetic and environmental factors (definition source: EDAM).",
+            "Identifier": "[edam.topic:3298](https://identifiers.org/edam:topic_3298)",
+            "Topic": "Omics",
+            "Related": "Subject Area Class"
+        },
+        {
+            "Term": "Lipidomics",
+            "Definition": "Lipidomics is the identification and characterization of cellular lipid molecular species, lipid derivatives, and downstream lipidome interaction networks within a cell, tissue, organism, or ecosystem (definition source: MOMSI WG). Lipidomics is the study of the structure and function of the complete set of lipids (the lipidome) produced in a given cell or organism as well as their interactions with other lipids, proteins and metabolites (definition source: EDAM).",
+            "Identifier": "[edam.topic:0153](https://identifiers.org/edam:topic_0153)",
+            "Topic": "Metabolomics",
+            "Related": "Subject Area Subclass"
+        },
+        {
+            "Term": "Metaproteomics",
+            "Definition": "Metaproteomics refers to the large-scale characterization of the entire protein complement of environmental or clinical samples at a given point in time. The method indiscriminately identifies proteins from the microbiota and the host/environments (metagenome). Computational analyses afford assignments of these proteins to their biological origins. It is often performed using liquid-chromatography-based separation coupled to mass spectrometry for peptide identification (definition source: SRAO).",
+            "Identifier": "[srao:0000404](https://bioregistry.io/srao:0000404)",
+            "Topic": "Proteomics",
+            "Related": "Subject Area Subclass"
+        },
+        {
+            "Term": "Epigenomics",
+            "Definition": "The study of the epigenetic modifications of a whole cell, tissue, organism etc. Epigenetics concerns the heritable changes in gene expression owing to mechanisms other than DNA sequence variation (definition source: EDAM).",
+            "Identifier": "[edam.topic:3173](https://identifiers.org/edam:topic_3173)",
+            "Topic": "Genomics",
+            "Related": "Subject Area Subclass"
+        },
+        {
+            "Term": "Transcriptomics",
+            "Definition": "definition",
+            "Identifier": "[edam.topic:3308](https://identifiers.org/edam:topic_3308)",
+            "Topic": "Genomics",
+            "Related": "Subject Area Subclass"
+        },
+        {
+            "Term": "Standards",
+            "Definition": "Set of agreed-upon and documented guidelines, specifications, accepted practices, technical requirements, or terminologies that have been prepared by a standards developing organization or group, and published in accordance with established procedures. These can be mandatory or voluntary and are distinct from acts, regulations, and codes, although standards can be referenced in those legal instruments (definition source: terms4FAIRskills).",
+            "Identifier": "[t4fs:0000381](https://bioregistry.io/t4fs:0000381)",
+            "Topic": "FAIR",
+            "Related": "FAIRsharing Standards"
+        },
+        {
+            "Term": "FAIRsharing Standards",
+            "Definition": "FAIRsharing.org record type, resolving to designated homepage URL or persistent DOI, providing curated information representing terminology artefacts, models/formats, reporting guidelines, and identifier schemas. FAIRsharing standard records are interconnected to other standards, databases, and policy record types (definition source: MOMSI WG, FAIRsharing).",
+            "Identifier": "ungrounded",
+            "Topic": "FAIRsharing Record Type",
+            "Related": "Standards"
+        },
+        {
+            "Term": "Terminology Artefacts",
+            "Definition": "Controlled vocabularies (CVs) or ontologies that describe the terms and/or semantics of data and metadata. Terminology artefacts provide a method of annotating data using structured text linked to persistent identifiers for that is useful for humans (human-readable) and compatible with computer systems (machine-readable) to allow for improved collation and searching of the data (definition source: FAIRsharing).",
+            "Identifier": "[edam.topic:0089](https://identifiers.org/edam:topic_0089)",
+            "Topic": "Standards",
+            "Related": "FAIRsharing Record Type"
+        },
+        {
+            "Term": "Reporting Guidelines",
+            "Definition": "Checklists providing the minimal descriptive information required to evaluate, interpret, and disseminate experimental data. Reporting guidelines define a common set of general or domain metadata to guide researchers in reporting the scientific context submitted to data repositories, required by journals, funders, or community accepted data standards. Often reporting guidelines do not have a literal checklist, rather presented as documentation stating the required and/or optional attributes describing the reported results (definition source: FAIRsharing).",
+            "Identifier": "[t4fs:0000078](https://bioregistry.io/t4fs:0000078)",
+            "Topic": "Standards",
+            "Related": "FAIRsharing Record Type"
+        },
+        {
+            "Term": "Models or Formats",
+            "Definition": "Data extensions that describe a common structure for data of a given experimental type and/or resource infrastructure. Models/Formats provide a structured representation of data and metadata information using a conceptual model or schema, enabling (syntactic) interoperability among infrastructure systems (definition source: FAIRsharing).",
+            "Identifier": "[t4fs:0000379](https://bioregistry.io/t4fs:0000379), [t4fs:0000098](https://bioregistry.io/t4fs:0000098)",
+            "Topic": "Standards",
+            "Related": "FAIRsharing Record Type"
+        },
+        {
+            "Term": "Identifier Schemas",
+            "Definition": "Describe publicly-available identifiers assigned by a generalist or domain central registry service provider. Identifier schema records are intended to describe persistent and unique identifiers that can be used and shared across multiple resources for reporting the location of where the data being described is stored. Domain identifiers are usually intended to be minted for a single repository or resource service provider, but can also be generally assigned based on the product type being shared (definition source: FAIRsharing).",
+            "Identifier": "[t4fs:0000529](https://bioregistry.io/t4fs:0000529)",
+            "Topic": "Standards",
+            "Related": "FAIRsharing Record Type"
+        },
+        {
+            "Term": "FAIRsharing Collections",
+            "Definition": "FAIRsharing.org record type, resolving to designated homepage URL (or persistent DOI upon approved request), as an aggregation standalone source containing different FAIRsharing standards (terminology artefacts, models/formats, reporting guidelines, and identifier schemas), databases, and policy record types. Collections are created as methods to consolidate, educate, highlight, or share FAIR-related record recommendations or suggestions by a consortium or society, research project or group, sponsor organization, or institutional facility (definition source: MOMSI WG, FAIRsharing).",
+            "Identifier": "ungrounded",
+            "Topic": "FAIRsharing Record Type",
+            "Related": "FAIRsharing Standards"
+        },
+        {
+            "Term": "Established",
+            "Definition": "Standards have been publicly established but is _not being maintained_ by a representative individual or organizational body or it is unclear who took part in its creation for enabling updates to the record over time (definition source: MOMSI WG.",
+            "Identifier": "ungrounded",
+            "Topic": "Standard Status",
+            "Related": "Curation Criteria Selections"
+        },
+        {
+            "Term": "Established and Maintained",
+            "Definition": "Standards have been publicly established and is _consistently maintained_ by a representative individual or organizational body who took part in its creation, enabling current and future updates to the record over time (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Standard Status",
+            "Related": "Curation Criteria Selections"
+        },
+        {
+            "Term": "In Development",
+            "Definition": "Standards are planned for development, in the process of development, or refining final recommendation review processes (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Standard Status",
+            "Related": "Curation Criteria Selections"
+        },
+        {
+            "Term": "Uncertain",
+            "Definition": "Information cannot be found or scope is unclear (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Standard Status, Research Data Lifecycle",
+            "Related": "Curation Criteria Selections"
+        },
+        {
+            "Term": "Obsolete",
+            "Definition": "Standard has been deprecated and is no longer recommended by creators or developers, is no longer publicly available, no longer allowable due to technical issues, or is no longer being maintained and does not have the ability to be updated (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Standard Status",
+            "Related": "Curation Criteria Selections"
+        },
+        {
+            "Term": "Depreciated",
+            "Definition": "Standard is no longer recommended for use by the original creators or developers due to newly revised alternative that supersedes it, persistent issues have been identified rendering the record unusable, or is planned to become obsolete (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Standard Status",
+            "Related": "Curation Criteria Selections"
+        },
+        {
+            "Term": "Research Data Lifecycle",
+            "Definition": "Entire period of time that research data exists. This lifecycle describes the flow of research data starting from planning, collecting, processing, analysing, preserving, sharing and finally reusing the research data. Research data often have a longer lifespan than the research project (definition source: terms4FAIRskills).",
+            "Identifier": "[t4fs:0000213](https://bioregistry.io/t4fs:0000213)",
+            "Topic": "Data Stewardship Technical Concept",
+            "Related": "Curation Criteria Selections"
+        },
+        {
+            "Term": "Planning",
+            "Definition": "Data management planning consists of defining a strategy in advance for how to to handle data in a structured, organized, and well documented manner to ensure its quality, integrity, and long-term usability past the project-funded lifetime (definition source: [RDMkit Planning](https://rdmkit.elixir-europe.org/planning)).",
+            "Identifier": "[t4fs:0000141](https://bioregistry.io/t4fs:0000141)",
+            "Topic": "Research Data Lifecycle",
+            "Related": "Data Management Activity"
+        },
+        {
+            "Term": "Collection",
+            "Definition": "Data collection (data acquisition) is the process where information is gathered about specific variables of interest either using instrumentation or other methods. While data collection methods depend on the field and research subject, it is important to ensure data quality. Note: data information and supporting materials that are collected, observed, generated, or used during the research process can take on various forms. These forms can include experimental metadata, numerical results data, text documents, images, source code, etc. (definition source: [RDMkit Collecting](https://rdmkit.elixir-europe.org/collecting)).",
+            "Identifier": "ungrounded",
+            "Topic": "Research Data Lifecycle",
+            "Related": "Data Stewardship Activity"
+        },
+        {
+            "Term": "Processing",
+            "Definition": "Data processing is the phase in the project where data is converted into a desirable format post acquisition and prepared for further analysis. When raw measurement data has been freshly collected, data processing includes some automated steps in a workflow using open or proprietary software to perform format conversion, run quality checks, and other preprocessing steps following a standardized protocol (definition source: [RDMkit Processing](https://rdmkit.elixir-europe.org/processing)).",
+            "Identifier": "[t4fs:0000044](https://bioregistry.io/t4fs:0000044)",
+            "Topic": "Research Data Lifecycle",
+            "Related": "Data Stewardship Activity"
+        },
+        {
+            "Term": "Analysis",
+            "Definition": "Techniques that produce synthesized knowledge from organized information. Process of inspecting, cleaning, transforming, and modeling data with the goal of highlighting useful information suggesting conclusions, and supporting decision making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, in different scientific domains (definition source: terms4FAIRskills; related source: [RDMkit Analyzing ](https://rdmkit.elixir-europe.org/analysing)).",
+            "Identifier": "[t4fs:0000352](https://bioregistry.io/t4fs:0000352)",
+            "Topic": "Research Data Lifecycle",
+            "Related": "Data Stewardship Activity"
+        },
+        {
+            "Term": "Preservation",
+            "Definition": "Data preservation consists of a series of activities necessary to ensure safety, integrity and accessibility of data for as long as necessary, even decades. Data preservation is indeed more than just data storage and backup, since data can be stored and backed up without being preserved. Data preservation prevents data from becoming unavailable and unusable over time through appropriate steps (definition source: [RDMkit Preserving](https://rdmkit.elixir-europe.org/preserving)).",
+            "Identifier": "[t4fs:0000328](https://bioregistry.io/t4fs:0000328)",
+            "Topic": "Research Data Lifecycle",
+            "Related": "Data Stewardship Activity"
+        },
+        {
+            "Term": "Sharing",
+            "Definition": "Sharing data means making your data known to other people. Data sharing can be done at any time during the research data life cycle but, at the latest, data should be made available at the time of publication of articles that use the data to make scientific conclusions (definition source: [RDMkit Sharing](https://rdmkit.elixir-europe.org/sharing)).",
+            "Identifier": "[t4fs:0000482](https://bioregistry.io/t4fs:0000482)",
+            "Topic": "Research Data Lifecycle",
+            "Related": "Data Stewardship Activity"
+        },
+        {
+            "Term": "Reuse",
+            "Definition": "Data reuse means using data for other purposes than it was originally collected for. Reuse of data is particularly important in science, as it allows different researchers to analyze and publish findings based on the same data independently of one another. Reusability is one key component of the FAIR principles (definition source: [RDMkit Reusing](https://rdmkit.elixir-europe.org/reusing)).",
+            "Identifier": "[t4fs:0000170](https://bioregistry.io/t4fs:0000170)",
+            "Topic": "Research Data Lifecycle",
+            "Related": "Data Stewardship Activity"
+        },
+        {
+            "Term": "Experimental Design",
+            "Definition": "Standards supporting planning specifications used to define or describe an experimental study approaches (a set of methods and procedures with detailed metadata) that have been developed or applied to produce data and enhance related metadata (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Planning Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Computed Analysis Design",
+            "Definition": "Standards supporting planning specifications used to define or describe the utilization of computer programs or computational methods used to collect, process, or analyze data from experimental studies and enhance computed analysis metadata (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Planning Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Sample Preparation",
+            "Definition": "Standards supporting laboratory bench-top or field collection techniques, as part of an experimental design or standard operating procedure, in preparing a limited quantity of some specimen (sample) intended for data acquisition and downstream analysis (definition source: MOMSI WG).",
+            "Identifier": "[ms:1000831](https://identifiers.org/MS:1000831)",
+            "Topic": "Collection Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Data Acquisition",
+            "Definition": "Standards supporting laboratory data capture techniques used for collecting data from a system source, instrument, or device to acquire signals from data corresponding to an experimental sample using defined sampling system preparation methods (definition source: MOMSI WG).",
+            "Identifier": "[t4fs:0000231](https://bioregistry.io/t4fs:0000231)",
+            "Topic": "Collection Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Data Pre-Processing",
+            "Definition": "Standards supporting raw measurement data preparatory processing (data cleaning or quality assurance data transformations) for additional downstream processing or analysis (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Processing Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Data Feature Detection or Identification",
+            "Definition": "Standards supporting data feature detection processing and assignment of persistent data feature identifiers, accessions, and/or common names (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Processing Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Data Normalization",
+            "Definition": "Standards supporting statistical data processing and adjustment to a common scale for additional comparative and interpretive analyses (definition source: MOMSI WG).",
+            "Identifier": "[t4fs:0000224](https://bioregistry.io/t4fs:0000224)",
+            "Topic": "Processing Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Metadata Collection",
+            "Definition": "Standards supporting metadata information processing where technical information is systematically gathered to define or describe a defined set of characteristics about the data (raw or processed) (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Processing Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Qualitative Analysis",
+            "Definition": "Standards supporting data analysis approaches for evaluating the presence or absence of an experimental biological substance in a sample using raw numerical measurement data from high-throughput instrument techniques (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Analysis Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Quantitative Analysis",
+            "Definition": "Standards supporting data analysis approaches for evaluating the absolute concentration or relative abundance of an experimental biological substance in a sample using raw numerical measurement data from high-throughput instrument techniques (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Analysis Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Interpretation Analysis",
+            "Definition": "Standards supporting interpretation analysis approaches using various computational techniques for evaluating the applied attributes or biological context supporting the statistical results to corroborate the accuracy of the conclusions being drawn from the derived data being reported (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Analysis Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Software Specific Analysis",
+            "Definition": "Standards supporting specific data analysis approaches with defined inputs and outputs using domain supported open-source code or proprietary instrument system software (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Analysis Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Statistical Analysis",
+            "Definition": "Standards supporting data analysis approaches for systematically applying statistical method techniques for evaluating features, trends, and relationships extracted from raw data supporting downstream interpretation, insight discovery, and informed decision making (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Analysis Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Data Storage (raw, processed, generated)",
+            "Definition": "Standards supporting storage solutions aimed to enable accessibility, interoperability, and long-term preservation of raw measurement data files, processed data files, or computationally derived data files designed for sharing and reuse (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Preservation Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Metadata Storage or Exchange",
+            "Definition": "Standards supporting metadata documentation for data storage aimed to enhance data provenance, sharing, and reuse of experimental measurement data (raw or processed) design information. These standards typically support metadata storage related to data in a repositories or metadata exchanged about data between knowledgebases and repositories (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Preservation Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Article (human-readable)",
+            "Definition": "Standards supporting journal article data and metadata sharing for publication in structured or unstructured text that is defined as a human-readable format (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Sharing Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Knowledgebase (machine-readable)",
+            "Definition": "Standards supporting data storage and metadata sharing using unstructured human-readable text formats and structured machine-readable formats aimed to enhance knowledgebase exploration (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Sharing Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Repository (machine-readable)",
+            "Definition": "Standards supporting data storage and sharing of minimal metadata unstructured text and structured machine-readable formats aimed to enhance repository preservation (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Sharing Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Required for Reuse",
+            "Definition": "Required by data sharing and/or publication policies enabling researchers to reuse, reproduce, or integrate published findings based on the same data independently of one another (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Reuse Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Recommended for Reuse",
+            "Definition": "Not required by database and/or journal data sharing publication policies, but recommended by domain experts to further support transparency, interoperability, and reuse (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Reuse Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Not required for Reuse",
+            "Definition": "Not required by data sharing and/or publication policies for enabling researcher reuse, reproduction, or integration of published findings (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Reuse Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Conditional Based on Linked Standards",
+            "Definition": "May be required based on the inclusion as part of another required standard component. For example, if a specific ontology is used in a required reporting guideline standard, then that ontology becomes a standard requirement based on this linkage to an existing standard requirement (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Reuse Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Not Applicable",
+            "Definition": "Selections do not apply (N/A) or are out of scope (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "All of the Above",
+            "Definition": "Flexibly supports more than one selection (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Other",
+            "Definition": "Selection not listed (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Application Technology",
+            "Definition": "Application technologies are data acquisition method techniques using defined instruments, data sources, or devices for generating experimental measurement data from experimental sample collections (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Data Acquisition",
+            "Related": "Collection"
+        },
+        {
+            "Term": "Mass Spectrometry",
+            "Definition": "Mass spectrometry is an analytical technique that is used to measure the mass-to-charge ratio of ions. The results are presented as a [mass spectrum](https://identifiers.org/MS:1000294), a plot of intensity as a function of the mass-to-charge ratio. Mass spectrometry is used in many different fields and is applied to pure samples as well as complex mixtures (definition source: Wikipedia, PSI-MS CV).",
+            "Identifier": "ungrounded",
+            "Topic": "Application Technology",
+            "Related": "Curation Criteria Selections"
+        },
+        {
+            "Term": "Sequencing",
+            "Definition": "The determination of complete (typically nucleotide) sequences, including those of genomes (full genome sequencing, de novo sequencing and re-sequencing), amplicons and transcriptomes (definition source: EDAM).",
+            "Identifier": "[edam.topic:3168](https://identifiers.org/edam:topic_3168)",
+            "Topic": "Application Technology",
+            "Related": "Curation Criteria Selections"
+        },
+        {
+            "Term": "Universal",
+            "Definition": "Standards that are considered universally applicable (or generalist) to all subject areas and are considered to be Omics relevant and/or subject agnostic (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Omics, Subject Agnostic",
+            "Related": "Subject Area Class"
+        },
+        {
+            "Term": "Subject Agnostic",
+            "Definition": "Subject Agnostic provides a way of describing research and resources that are applicable across all subject areas. Please note that this term does not, by default, mean that an object tagged with it is completely generic. An example, such as JPEG is considered Subject Agnostic, meaning that the resource is applicable regardless of subject area, but it does not mean that it can or should be used for any type of data (definition source: MOMSI WG, SRAO).",
+            "Identifier": "[srao:0000401](https://bioregistry.io/srao:0000401)",
+            "Topic": "Universal",
+            "Related": "Subject Area Subclass"
+        },
+        {
+            "Term": "Data Integration",
+            "Definition": "Combining diverse datasets from disparate sources into one unified dataset or database. Data are accessed and extracted, moved, validated, cleaned, transformed and loaded (definition source: terms4FAIRskills).",
+            "Identifier": "[t4fs:0000487](https://bioregistry.io/t4fs:0000487)",
+            "Topic": "Multi-Omics",
+            "Related": "FAIRsharing Collection"
+        },
+        {
+            "Term": "Multi-omics Applicable",
+            "Definition": "Domain-focused standards that apply to more than one Omics subject area class or subclass within the same application technology (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Domain Curation Criteria Selections",
+            "Related": "Research Data Lifecycle"
+        },
+        {
+            "Term": "Multi-Standard Applicable",
+            "Definition": "Standard record types that represent more than one type of record based on the construction of the standard and the different dependencies that may not be fully represented when combined. For example, a reporting guideline that contains a specific set of ontologies/controlled vocabularies or identifier schemas. Or a data model schema format that represents specific standard reporting guideline as part of its requirements. Multi-Standard Applicable record representations can be captured in FAIRsharing using the different standard record relationship types (profiles, extends, related to, etc.) for associating these unique dependencies (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Standards",
+            "Related": "FAIRsharing Record Type"
+        },
+        {
+            "Term": "Genomics Standards",
+            "Definition": "Genomics domain focused community standard curation requirements for maintaining interoperability and reusability of genomics data. These standards are inclusive of all related subclasses (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Standards",
+            "Related": "Data Integration"
+        },
+        {
+            "Term": "Proteomics Standards",
+            "Definition": "Proteomics domain focused community standard curation requirements for maintaining interoperability and reusability of proteomics data. These standards are inclusive of all related subclasses (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Standards",
+            "Related": "Data Integration"
+        },
+        {
+            "Term": "Metabolomics Standards",
+            "Definition": "Metabolomics domain focused community standard curation requirements for maintaining interoperability and reusability of metabolomics data. These standards are inclusive of all related subclasses (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Standards",
+            "Related": "Data Integration"
+        },
+        {
+            "Term": "Universal Standards",
+            "Definition": "Universal (generalist or subject agnostic) community standard curations. These are common standards apply independently from Omics domain- focused requirements and broadly serve to improve Omics data and metadata standards harmonization for Multi-Omics integration, interoperability, and reusability (definition source: MOMSI WG).",
+            "Identifier": "ungrounded",
+            "Topic": "Standards",
+            "Related": "Data Integration"
         }
     ]
 }
