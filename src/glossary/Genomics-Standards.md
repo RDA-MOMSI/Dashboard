@@ -1,6 +1,6 @@
 term: Genomics Standards
 
-definition: MOMSI WG Genomics domain focused community standard curation requirements for maintaining interoperability and reusability genomics data. These standards are inclusive of all related subclasses **(definition source: MOMSI WG)**.
+definition: Genomics domain focused community standard curation requirements for maintaining interoperability and reusability of genomics data. These standards are inclusive of all related subclasses **(definition source: MOMSI WG)**.
 
 identifier: ungrounded
 
