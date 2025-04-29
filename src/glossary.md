@@ -10,7 +10,7 @@ MOMSI WG terms and concepts are organized and grouped by scoped curation activit
 
 _Note: MOMSI WG defined terms in the glossary have not been assigned an identifier and are labeled as "ungrounded". After WG output community review and feedback we will further refine these selection terms as needed and seek opportunities to add these terms to an existing maintained ontology collection within scope._
 
-## Glossary Table (pending)
+## Glossary Table
 
 ---
 
