@@ -121,14 +121,14 @@
         },
         {
             "Term": "Established",
-            "Definition": "Standards have been publicly established but is _not being maintained_ by a representative individual or organizational body or it is unclear who took part in its creation for enabling updates to the record over time (definition source: MOMSI WG.",
+            "Definition": "Standards have been publicly established but is not being maintained by a representative individual or organizational body or it is unclear who took part in its creation for enabling updates to the record over time (definition source: MOMSI WG.",
             "Identifier": "ungrounded",
             "Topic": "Standard Status",
             "Related": "Curation Criteria Selections"
         },
         {
             "Term": "Established and Maintained",
-            "Definition": "Standards have been publicly established and is _consistently maintained_ by a representative individual or organizational body who took part in its creation, enabling current and future updates to the record over time (definition source: MOMSI WG).",
+            "Definition": "Standards have been publicly established and is consistently maintained by a representative individual or organizational body who took part in its creation, enabling current and future updates to the record over time (definition source: MOMSI WG).",
             "Identifier": "ungrounded",
             "Topic": "Standard Status",
             "Related": "Curation Criteria Selections"
@@ -170,7 +170,7 @@
         },
         {
             "Term": "Planning",
-            "Definition": "Data management planning consists of defining a strategy in advance for how to to handle data in a structured, organized, and well documented manner to ensure its quality, integrity, and long-term usability past the project-funded lifetime (definition source: [RDMkit Planning](https://rdmkit.elixir-europe.org/planning)).",
+            "Definition": "Data management planning consists of defining a strategy in advance for how to to handle data in a structured, organized, and well documented manner to ensure its quality, integrity, and long-term usability past the project-funded lifetime (definition source: [RDMkit Planning](https://rdmkit.elixir-europe.org/planning).",
             "Identifier": "[t4fs:0000141](https://bioregistry.io/t4fs:0000141)",
             "Topic": "Research Data Lifecycle",
             "Related": "Data Management Activity"
