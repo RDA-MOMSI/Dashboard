@@ -2,8 +2,8 @@ name: Universal Standards
 description: Submit a new universal standard or update an existing standard for review.
 labels: ["universal", "review"]
 assignees:
-  - turukawa
   - lnanderson
+  - tivdnbos
 body:
   - type: markdown
     attributes:
