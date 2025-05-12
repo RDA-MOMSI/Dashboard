@@ -170,49 +170,49 @@
         },
         {
             "Term": "Planning",
-            "Definition": "Data management planning consists of defining a strategy in advance for how to to handle data in a structured, organized, and well documented manner to ensure its quality, integrity, and long-term usability past the project-funded lifetime (definition source: [RDMkit Planning](https://rdmkit.elixir-europe.org/planning).",
+            "Definition": "Data management planning consists of defining a strategy in advance for how to to handle data in a structured, organized, and well documented manner to ensure its quality, integrity, and long-term usability past the project-funded lifetime (definition source: https://rdmkit.elixir-europe.org/planning).",
             "Identifier": "[t4fs:0000141](https://bioregistry.io/t4fs:0000141)",
             "Topic": "Research Data Lifecycle",
             "Related": "Data Management Activity"
         },
         {
             "Term": "Collection",
-            "Definition": "Data collection (data acquisition) is the process where information is gathered about specific variables of interest either using instrumentation or other methods. While data collection methods depend on the field and research subject, it is important to ensure data quality. Note: data information and supporting materials that are collected, observed, generated, or used during the research process can take on various forms. These forms can include experimental metadata, numerical results data, text documents, images, source code, etc. (definition source: [RDMkit Collecting](https://rdmkit.elixir-europe.org/collecting)).",
+            "Definition": "Data collection (data acquisition) is the process where information is gathered about specific variables of interest either using instrumentation or other methods. While data collection methods depend on the field and research subject, it is important to ensure data quality. Note: data information and supporting materials that are collected, observed, generated, or used during the research process can take on various forms. These forms can include experimental metadata, numerical results data, text documents, images, source code, etc. (definition source: https://rdmkit.elixir-europe.org/collecting).",
             "Identifier": "ungrounded",
             "Topic": "Research Data Lifecycle",
             "Related": "Data Stewardship Activity"
         },
         {
             "Term": "Processing",
-            "Definition": "Data processing is the phase in the project where data is converted into a desirable format post acquisition and prepared for further analysis. When raw measurement data has been freshly collected, data processing includes some automated steps in a workflow using open or proprietary software to perform format conversion, run quality checks, and other preprocessing steps following a standardized protocol (definition source: [RDMkit Processing](https://rdmkit.elixir-europe.org/processing)).",
+            "Definition": "Data processing is the phase in the project where data is converted into a desirable format post acquisition and prepared for further analysis. When raw measurement data has been freshly collected, data processing includes some automated steps in a workflow using open or proprietary software to perform format conversion, run quality checks, and other preprocessing steps following a standardized protocol (definition source: https://rdmkit.elixir-europe.org/processing).",
             "Identifier": "[t4fs:0000044](https://bioregistry.io/t4fs:0000044)",
             "Topic": "Research Data Lifecycle",
             "Related": "Data Stewardship Activity"
         },
         {
             "Term": "Analysis",
-            "Definition": "Techniques that produce synthesized knowledge from organized information. Process of inspecting, cleaning, transforming, and modeling data with the goal of highlighting useful information suggesting conclusions, and supporting decision making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, in different scientific domains (definition source: terms4FAIRskills; related source: [RDMkit Analyzing ](https://rdmkit.elixir-europe.org/analysing)).",
+            "Definition": "Techniques that produce synthesized knowledge from organized information. Process of inspecting, cleaning, transforming, and modeling data with the goal of highlighting useful information suggesting conclusions, and supporting decision making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, in different scientific domains (definition source: terms4FAIRskills; related source: https://rdmkit.elixir-europe.org/analysing).",
             "Identifier": "[t4fs:0000352](https://bioregistry.io/t4fs:0000352)",
             "Topic": "Research Data Lifecycle",
             "Related": "Data Stewardship Activity"
         },
         {
             "Term": "Preservation",
-            "Definition": "Data preservation consists of a series of activities necessary to ensure safety, integrity and accessibility of data for as long as necessary, even decades. Data preservation is indeed more than just data storage and backup, since data can be stored and backed up without being preserved. Data preservation prevents data from becoming unavailable and unusable over time through appropriate steps (definition source: [RDMkit Preserving](https://rdmkit.elixir-europe.org/preserving)).",
+            "Definition": "Data preservation consists of a series of activities necessary to ensure safety, integrity and accessibility of data for as long as necessary, even decades. Data preservation is indeed more than just data storage and backup, since data can be stored and backed up without being preserved. Data preservation prevents data from becoming unavailable and unusable over time through appropriate steps (definition source: https://rdmkit.elixir-europe.org/preserving).",
             "Identifier": "[t4fs:0000328](https://bioregistry.io/t4fs:0000328)",
             "Topic": "Research Data Lifecycle",
             "Related": "Data Stewardship Activity"
         },
         {
             "Term": "Sharing",
-            "Definition": "Sharing data means making your data known to other people. Data sharing can be done at any time during the research data life cycle but, at the latest, data should be made available at the time of publication of articles that use the data to make scientific conclusions (definition source: [RDMkit Sharing](https://rdmkit.elixir-europe.org/sharing)).",
+            "Definition": "Sharing data means making your data known to other people. Data sharing can be done at any time during the research data life cycle but, at the latest, data should be made available at the time of publication of articles that use the data to make scientific conclusions (definition source: https://rdmkit.elixir-europe.org/sharing).",
             "Identifier": "[t4fs:0000482](https://bioregistry.io/t4fs:0000482)",
             "Topic": "Research Data Lifecycle",
             "Related": "Data Stewardship Activity"
         },
         {
             "Term": "Reuse",
-            "Definition": "Data reuse means using data for other purposes than it was originally collected for. Reuse of data is particularly important in science, as it allows different researchers to analyze and publish findings based on the same data independently of one another. Reusability is one key component of the FAIR principles (definition source: [RDMkit Reusing](https://rdmkit.elixir-europe.org/reusing)).",
+            "Definition": "Data reuse means using data for other purposes than it was originally collected for. Reuse of data is particularly important in science, as it allows different researchers to analyze and publish findings based on the same data independently of one another. Reusability is one key component of the FAIR principles (definition source: https://rdmkit.elixir-europe.org/reusing).",
             "Identifier": "[t4fs:0000170](https://bioregistry.io/t4fs:0000170)",
             "Topic": "Research Data Lifecycle",
             "Related": "Data Stewardship Activity"
