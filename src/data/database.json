@@ -6847,6 +6847,34 @@
       "Standard Name": "Identifiers for Instruments in Australasia Community of Practice",
       "Standard Type": "Identifier Schema",
       "Status": "Established/Maintained"
+    },
+    {
+      "Standard Type": "Identifier Schema",
+      "Status": "Established/Maintained",
+      "Country": "United States",
+      "Domain Class/Subclass": "General Best Practices",
+      "Standard Name": "PubMed Central Identifier",
+      "Acronym/Short Name": "PMCID",
+      "Planning": "All of the above",
+      "Collection": "N/A",
+      "Processing": "Metadata Collection",
+      "Analysis": "Interpretation Analysis",
+      "Preservation": "All of the above",
+      "Sharing": "All of the above",
+      "Reuse": "Required for Reuse",
+      "Meets Criteria": [
+        "Meets criteria for the MOMSI Standards Collection at FAIRsharing"
+      ],
+      "Active Affiliation(s)": "National Institutes of Health, National Library of Medicine",
+      "Homepage": "https://www.nihms.nih.gov/help/glossary/#pmcid",
+      "Reference Article Citation (DOI)": "",
+      "Reference Source Code (DOI or URL)": "",
+      "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.2b4316",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_U:00062"
     }
   ]
 }
