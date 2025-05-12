@@ -2,8 +2,8 @@ name: Metabolomics Standards
 description: Submit a new metabolomics standard or update an existing standard for review.
 labels: ["metabolomics", "review"]
 assignees:
-  - turukawa
   - lnanderson
+  - tivdnbos
 body:
   - type: markdown
     attributes:
