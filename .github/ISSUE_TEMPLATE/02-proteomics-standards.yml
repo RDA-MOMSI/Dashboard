@@ -2,8 +2,8 @@ name: Proteomics Standards
 description: Submit a new proteomics standard or update an existing standard for review.
 labels: ["proteomics", "review"]
 assignees:
-  - turukawa
   - lnanderson
+  - tivdnbos
 body:
   - type: markdown
     attributes:
