@@ -2,8 +2,8 @@ name: Genomics Standards
 description: Submit a new genomics standard or update an existing standard for review.
 labels: ["genomics", "review"]
 assignees:
-  - turukawa
   - lnanderson
+  - tivdnbos
 body:
   - type: markdown
     attributes:
