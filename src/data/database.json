@@ -6875,6 +6875,34 @@
       "CRediT": "Data curation; Writing - original draft",
       "Contributor": "lnanderson",
       "Identifier": "MOMSI_U:00062"
+    },
+    {
+      "Standard Type": "Identifier Schema",
+      "Status": "Established/Maintained",
+      "Country": "United States",
+      "Domain Class/Subclass": "General Best Practices",
+      "Standard Name": "PubMed Unique Identifier",
+      "Acronym/Short Name": "PMID",
+      "Planning": "All of the above",
+      "Collection": "N/A",
+      "Processing": "Metadata Collection",
+      "Analysis": "Interpretation Analysis",
+      "Preservation": "All of the above",
+      "Sharing": "All of the above",
+      "Reuse": "Required for Reuse",
+      "Meets Criteria": [
+        "Meets criteria for the MOMSI Standards Collection at FAIRsharing"
+      ],
+      "Active Affiliation(s)": "National Institutes of Health, National Library of Medicine",
+      "Homepage": "https://www.nihms.nih.gov/help/glossary/#pmid",
+      "Reference Article Citation (DOI)": "",
+      "Reference Source Code (DOI or URL)": "",
+      "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.2b9b61",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_U:00063"
     }
   ]
 }
