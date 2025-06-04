@@ -30,6 +30,7 @@ body:
         - Established
         - Established/Maintained
         - Depreciated
+        - Deprecated
         - In Development
         - Obsolete
         - Uncertain
