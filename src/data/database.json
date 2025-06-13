@@ -6903,6 +6903,32 @@
       "CRediT": "Data curation; Writing - original draft",
       "Contributor": "lnanderson",
       "Identifier": "MOMSI_U:00063"
+    },
+    {
+      "Standard Type": "Model/Format",
+      "Status": "Established",
+      "Country": "Worldwide",
+      "Domain Class/Subclass": "Omics Applicable",
+      "Standard Name": "Biological Expression Language",
+      "Acronym/Short Name": "BEL",
+      "Planning": "Computed Analysis Design",
+      "Collection": "N/A",
+      "Processing": "N/A",
+      "Analysis": "Interpretation Analysis",
+      "Preservation": "Metadata Storage",
+      "Sharing": "All of the above",
+      "Reuse": "Conditional based on linked standards",
+      "Meets Criteria": [],
+      "Active Affiliation(s)": "BEL Bio Consortium",
+      "Homepage": "https://language.bel.bio; https://biological-expression-language.github.io",
+      "Reference Article Citation (DOI)": "https://doi.org/10.1016/j.drudis.2013.12.011; https://dx.doi.org/10.1093/bioinformatics/btx660",
+      "Reference Source Code (DOI or URL)": "https://github.com/belbio; https://doi.org/10.5281/zenodo.6045116",
+      "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.dp0jvd",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_U:00064"
     }
   ]
 }
