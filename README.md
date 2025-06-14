@@ -1,8 +1,13 @@
+<!-- badges: start -->
+[![DOI](https://zenodo.org/badge/DOI/10.15497/RDA00133.svg)](https://doi.org/10.15497/RDA00133)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.rd-alliance.org%2Fgroups%2Fmulti-omics-metadata-standards-integration-momsi-wg%2Fmembers&up_message=RDA%20MOMSI%20WG&down_message=MOMSI)](https://www.rd-alliance.org/groups/multi-omics-metadata-standards-integration-momsi-wg)
+<!-- badges: end -->
+
 <p align="center">
   <img src="https://github.com/RDA-MOMSI/Dashboard/blob/main/src/images/MOMSI_WG_Logo.jpg" height="350">
 </p>
 
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 Welcome to the [Multi-Omics Metadata Standards Integration (MOMSI) Working Group](https://www.rd-alliance.org/groups/multi-omics-metadata-standards-integration-momsi-wg) community-driven Multi-Omics standard landscape review curation workflow and interactive web-based dashboard tool. Explore >250 standards from our Omics Landscape Review (Deliverable 1a) repository containing Multi-omics domain (genomics, proteomics, metabolomics, lipidomics, etc.) and universal (generalist) standards curated by the MOMSI WG. 
 
@@ -72,8 +77,8 @@ The code in this repository is licensed under the [BSD-3-Clause License](https:
 > 📖 **Citation Policy**
 > 
 > _In efforts to enable discovery, sharing, and reuse of RDA WG deliverables, we kindly ask the MOMSI WG Landscape Review Dashboard Repository and provided supporting materials be referenced under the following citations._
-> 1. Dashboard source code RDA DOI citaion currently pending [community review](https://www.rd-alliance.org/groups/multi-omics-metadata-standards-integration-momsi-wg/outputs/?output=188206).
-> 2. FAIRsharing.org: MOMSI Collection; Multi-Omics Metadata Standards Integration Working Group Landscape Review Collection. FAIRsharing ID: https://fairsharing.org/5742 (DOI currently pending)
+> 1. Anderson, L. N., Van Den Bossche, T., & Multi-Omics Metadata Standards Integration (MOMSI) Working Group. (2025). MOMSI WG Multi-Omics Standard Landscape Review Curation Workflow & Interactive Web-based Dashboard Tool. Zenodo. https://doi.org/10.15497/RDA00133
+> 2. FAIRsharing.org: MOMSI Collection; Multi-Omics Metadata Standards Integration Working Group Landscape Review Collection, FAIRsharing ID: https://fairsharing.org/5742, Last Edited: Monday, June 9th 2025. (DOI currently pending)
 
 ### 🎁 Funding
 
