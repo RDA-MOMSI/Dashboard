@@ -910,9 +910,13 @@
             {
               "name": "OBO",
               "count": 1
+            },
+            {
+              "name": "BEL",
+              "count": 1
             }
           ],
-          "count": 7
+          "count": 8
         },
         {
           "name": "Identifier Schema",
@@ -1173,8 +1177,8 @@
           "count": 2
         }
       ],
-      "count": 64
+      "count": 65
     }
   ],
-  "count": 256
+  "count": 257
 }
