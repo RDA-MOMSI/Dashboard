@@ -6433,8 +6433,8 @@
       "Status": "Established/Maintained"
     },
     {
-      "Acronym/Short Name": "NCBO BioPortal",
-      "Active Affiliation(s)": "Standford's BMIR and OntoPortal Virtual Appliance ",
+      "Acronym/Short Name": "BioPortal",
+      "Active Affiliation(s)": "Standford's BMIR and OntoPortal Virtual Appliance",
       "Analysis": "Interpretation Analysis",
       "CRediT": null,
       "Collection": "All of the above",
@@ -6450,7 +6450,7 @@
       "Planning": "All of the above",
       "Preservation": "Metadata Storage or Exchange",
       "Processing": "N/A",
-      "Reference Article Citation (DOI)": "https://doi.org/10.1093/nar/gkr469",
+      "Reference Article Citation (DOI)": "https://doi.org/10.1093/nar/gkaf402",
       "Reference Source Code (DOI or URL)": "https://github.com/ncbo",
       "Reuse": "Uncertain",
       "Sharing": "All of the above",
