@@ -476,9 +476,13 @@
                     {
                       "name": "ENA MIxS",
                       "count": 1
+                    },
+                    {
+                      "name": "MIAPPE",
+                      "count": 1
                     }
                   ],
-                  "count": 4
+                  "count": 5
                 },
                 {
                   "name": "Terminology Artefact",
@@ -503,7 +507,7 @@
                   "count": 4
                 }
               ],
-              "count": 15
+              "count": 16
             },
             {
               "name": "Epigenomics",
@@ -570,10 +574,10 @@
               "count": 10
             }
           ],
-          "count": 109
+          "count": 110
         }
       ],
-      "count": 109
+      "count": 110
     },
     {
       "name": "Array Sequencing",
@@ -1624,5 +1628,5 @@
       "count": 2
     }
   ],
-  "count": 245
+  "count": 246
 }

@@ -366,9 +366,13 @@
             {
               "name": "MIMARKS-SP/MIMARKS-C",
               "count": 1
+            },
+            {
+              "name": "MIAPPE",
+              "count": 1
             }
           ],
-          "count": 28
+          "count": 29
         },
         {
           "name": "Multi-Standard Applicable",
@@ -415,7 +419,7 @@
           "count": 6
         }
       ],
-      "count": 95
+      "count": 96
     },
     {
       "name": "Proteomics",
@@ -1180,5 +1184,5 @@
       "count": 65
     }
   ],
-  "count": 257
+  "count": 258
 }
