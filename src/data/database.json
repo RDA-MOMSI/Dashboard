@@ -5260,6 +5260,33 @@
       "CRediT": "Data curation; Writing - original draft",
       "Contributor": "lnanderson",
       "Identifier": "MOMSI_P:00044"
+    },
+    {
+      "Standard Type": "Model/Format",
+      "Status": "Established/Maintained",
+      "Country": "United States",
+      "Domain Class/Subclass": "Multi-omics Applicable",
+      "Application Technology": "Mass Spectrometry (general)",
+      "Standard Name": "The Mass Spec Query Langauge",
+      "Acronym/Short Name": "MassQL",
+      "Planning": "Computed Analysis Design",
+      "Collection": "Data Acquisition",
+      "Processing": "Data Feature Detection/Identification",
+      "Analysis": "Other",
+      "Preservation": "All of the above",
+      "Sharing": "Knowledgebase (machine-readable)",
+      "Reuse": "Conditional based on linked standards",
+      "Meets Criteria": [],
+      "Active Affiliation(s)": "Global Natural Products Social Molecular Networking (GNPS)",
+      "Homepage": "https://github.com/mwang87/MassQueryLanguage",
+      "Reference Article Citation (DOI)": "https://doi.org/10.1038/s41592-025-02660-z",
+      "Reference Source Code (DOI or URL)": "https://mwang87.github.io/MassQueryLanguage_Documentation",
+      "FAIRsharing Record (DOI or URL)": "",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_P:00045"
     }
   ],
   "universal": [
