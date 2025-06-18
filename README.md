@@ -1,6 +1,6 @@
 <!-- badges: start -->
 [![DOI](https://zenodo.org/badge/DOI/10.15497/RDA00133.svg)](https://doi.org/10.15497/RDA00133)
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.rd-alliance.org%2Fgroups%2Fmulti-omics-metadata-standards-integration-momsi-wg%2Fmembers&up_message=RDA%20MOMSI%20WG&down_message=MOMSI)](https://www.rd-alliance.org/groups/multi-omics-metadata-standards-integration-momsi-wg)
 <!-- badges: end -->
 
