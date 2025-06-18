@@ -2564,6 +2564,33 @@
       "Standard Name": "Minimal Information about a Marker Sequence: specimen for marker gene sequences from cultured or voucher-identifiable specimens",
       "Standard Type": "Reporting Guideline",
       "Status": "Established/Maintained"
+    },
+    {
+      "Standard Type": "Reporting Guideline",
+      "Status": "Established/Maintained",
+      "Country": "European Union",
+      "Domain Class/Subclass": "Multi-omics Applicable",
+      "Application Technology": "Sequencing (general)",
+      "Standard Name": "Minimum Information About Plant Phenotyping Experiments",
+      "Acronym/Short Name": "MIAPPE",
+      "Planning": "Experimental Design",
+      "Collection": "Sample Preparation",
+      "Processing": "Metadata Collection",
+      "Analysis": "Interpretation Analysis",
+      "Preservation": "All of the above",
+      "Sharing": "Knowledgebase (machine-readable)",
+      "Reuse": "Required for Reuse",
+      "Meets Criteria": [],
+      "Active Affiliation(s)": "The European Plant Phenotyping Network, ELIXIR-EXCELERATE Projects",
+      "Homepage": "https://www.miappe.org",
+      "Reference Article Citation (DOI)": "https://doi.org/10.1093/jxb/erv271",
+      "Reference Source Code (DOI or URL)": "https://github.com/MIAPPE/MIAPPE",
+      "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.nd9ce9",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_G:00095"
     }
   ],
   "metabolomics": [
