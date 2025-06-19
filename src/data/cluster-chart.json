@@ -876,9 +876,13 @@
                     {
                       "name": "imzML",
                       "count": 1
+                    },
+                    {
+                      "name": "MassQL",
+                      "count": 1
                     }
                   ],
-                  "count": 2
+                  "count": 3
                 },
                 {
                   "name": "Reporting Guideline",
@@ -903,7 +907,7 @@
                   "count": 4
                 }
               ],
-              "count": 10
+              "count": 11
             },
             {
               "name": "Proteomics",
@@ -1148,7 +1152,7 @@
               "count": 15
             }
           ],
-          "count": 57
+          "count": 58
         },
         {
           "name": "Metabolomics",
@@ -1489,7 +1493,7 @@
           "count": 56
         }
       ],
-      "count": 113
+      "count": 114
     },
     {
       "name": "Ion Mobility Mass Spectrometry (IM-MS)",
@@ -1628,5 +1632,5 @@
       "count": 2
     }
   ],
-  "count": 246
+  "count": 247
 }

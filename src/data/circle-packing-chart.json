@@ -538,9 +538,13 @@
             {
               "name": "imzML",
               "count": 1
+            },
+            {
+              "name": "MassQL",
+              "count": 1
             }
           ],
-          "count": 17
+          "count": 18
         },
         {
           "name": "Identifier Schema",
@@ -635,7 +639,7 @@
           "count": 16
         }
       ],
-      "count": 45
+      "count": 46
     },
     {
       "name": "Metabolomics",
@@ -1184,5 +1188,5 @@
       "count": 65
     }
   ],
-  "count": 258
+  "count": 259
 }
