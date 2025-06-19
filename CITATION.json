@@ -1,0 +1,192 @@
+{
+  "contributors": [
+    {
+      "affiliation": [
+        {
+          "name": "@whythawk"
+        }
+      ],
+      "contributorType": "Other",
+      "familyName": "Chait",
+      "givenName": "Gavin",
+      "name": "Chait, Gavin",
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0003-3733-6299",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "nameType": "Personal"
+    }
+  ],
+  "creators": [
+    {
+      "affiliation": [
+        {
+          "name": "Pacific Northwest National Laboratory"
+        },
+        {
+          "name": "Multi-Omics Metadata Standards Integration (MOMSI) Working Group"
+        }
+      ],
+      "familyName": "Anderson",
+      "givenName": "Lindsey N.",
+      "name": "Anderson, Lindsey N.",
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0002-8741-7823",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "nameType": "Personal"
+    },
+    {
+      "affiliation": [
+        {
+          "affiliationIdentifier": "https://ror.org/04hbttm44",
+          "affiliationIdentifierScheme": "ROR",
+          "name": "VIB-UGent Center for Medical Biotechnology"
+        },
+        {
+          "name": "Multi-Omics Metadata Standards Integration (MOMSI) Working Group"
+        }
+      ],
+      "familyName": "Van Den Bossche",
+      "givenName": "Tim",
+      "name": "Van Den Bossche, Tim",
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0002-5916-2587",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "nameType": "Personal"
+    }
+  ],
+  "dates": [
+    {
+      "date": "2025-06-18",
+      "dateType": "Issued"
+    },
+    {
+      "date": "2025-06-18",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "This documentation represents the MOMSI Working Group's Multi-Omics Standard Landscape Review Curation Workflow & Interactive Web-based Dashboard Tool (Deliverable 1a), located at the RDA-MOMSI GitHub repository, providing in-depth exploration of Multi-omics standards (genomics, proteomics, metabolomics, etc.) and Universal standards (generalist or subject agnostic) supporting final recommendations. MOMSI WG supporting outputs, as part of their sustainability and long-term maintenance plan, are aimed to enhance curation method transparency for sharing expert-level Multi-Omics standard recommendations with non-expert users for adoption and reuse.\n\nExpert curated Multi-Omics standards, originally captured in a Google Sheet, are now available as machine-actionable outputs in a semi-automated and version-controlled environment designed to capture iterative updates by the scientific community as future standards evolve. This repository serves as the first step in our sustainability workflow process for leveraging downstream standard selections included at our Multi-Omics Standards FAIRsharing Collection (Deliverable 1b). Curated standards captured at the MOMSI dashboard and FAIRsharing collection include controlled vocabularies/ontologies, metadata reporting guidelines, data models/formats, and identifier schemas representative of Omics domain application technologies and FAIR best practices.\n\nKey Features\n\n\n\nLearn how to Contribute and Get CRediT for submitting new standards or updating existing standards using our curation workflow Omics issue templates.\n\nBrowse User Journeys for themed use-case exploration of Omics standard types, research data lifecycle curations, and relevant Omics subject area classes/subclasses.\n\nExplore MOMSI Terminology representing curated concepts and terms used to organize and filter standard tags listed at the dashboard and MOMSI FAIRsharing Collection (Deliverable 1b).\n\n\nUsage Note: This dashboard supports exploration and discovery of Multi-omics standards listed within our repository using front-end visualizations to support live curation status updates. This dashboard is not intended for advanced search and filter navigation, nor it is our final recommendation resource. Learn more about out how standards listed at our repository are being implemented under Sustainability.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "identifiers": [
+    {
+      "identifier": "https://zenodo.org/records/15692852",
+      "identifierType": "URL"
+    },
+    {
+      "identifier": "10.5281/zenodo.15692852",
+      "identifierType": "DOI"
+    },
+    {
+      "identifier": "oai:zenodo.org:15692852",
+      "identifierType": "oai"
+    }
+  ],
+  "language": "eng",
+  "publicationYear": "2025",
+  "publisher": "Zenodo",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.15497/RDA00133",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsSupplementTo",
+      "resourceTypeGeneral": "Text"
+    },
+    {
+      "relatedIdentifier": "https://rda-momsi.github.io/Dashboard",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart",
+      "resourceTypeGeneral": "Text"
+    },
+    {
+      "relatedIdentifier": "https://fairsharing.org/5742",
+      "relatedIdentifierType": "URL",
+      "relationType": "IsContinuedBy",
+      "resourceTypeGeneral": "Text"
+    },
+    {
+      "relatedIdentifier": "10.5281/zenodo.15692698",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsVersionOf"
+    },
+    {
+      "relatedIdentifier": "https://archive.softwareheritage.org/swh:1:dir:594dadc2c7c3b939c44a6c8cc38e408a7813a5bb;origin=https://doi.org/10.5281/zenodo.15692698;visit=swh:1:snp:ad6959a0c089afd540d2ccec9a2ae11c1e232694;anchor=swh:1:rel:6b06c16ce8cabe6e462c96a792d96124e99cb9f9;path=RDA-MOMSI-Dashboard-e5bfe2f",
+      "relatedIdentifierType": "URL",
+      "relationType": "IsIdenticalTo"
+    }
+  ],
+  "rightsList": [
+    {
+      "rights": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "rightsIdentifier": "bsd-3-clause",
+      "rightsIdentifierScheme": "spdx",
+      "rightsUri": "https://opensource.org/licenses/BSD-3-Clause"
+    },
+    {
+      "rights": "Creative Commons Attribution 4.0 International",
+      "rightsIdentifier": "cc-by-4.0",
+      "rightsIdentifierScheme": "spdx",
+      "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    },
+    {
+      "rights": "Copyright 2023-2025 Multi-Omics Metadata Standards Integration (MOMSI) Working Group",
+      "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+    }
+  ],
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "subjects": [
+    {
+      "subject": "Multiomics",
+      "subjectScheme": "MeSH"
+    },
+    {
+      "subject": "Multiomics/standards",
+      "subjectScheme": "MeSH"
+    },
+    {
+      "subject": "Genomics/standards",
+      "subjectScheme": "MeSH"
+    },
+    {
+      "subject": "Proteomics/standards",
+      "subjectScheme": "MeSH"
+    },
+    {
+      "subject": "Metabolomics/standards",
+      "subjectScheme": "MeSH"
+    },
+    {
+      "subject": "Data Curation",
+      "subjectScheme": "MeSH"
+    },
+    {
+      "subject": "Data Management/standards",
+      "subjectScheme": "MeSH"
+    },
+    {
+      "subject": "Metadata/standards",
+      "subjectScheme": "MeSH"
+    }
+  ],
+  "titles": [
+    {
+      "title": "MOMSI WG Multi-Omics Standard Landscape Review Curation Workflow & Interactive Web-based Dashboard Tool (Initial Release)"
+    }
+  ],
+  "types": {
+    "resourceType": "",
+    "resourceTypeGeneral": "Software"
+  },
+  "version": "v1.0.0"
+}
