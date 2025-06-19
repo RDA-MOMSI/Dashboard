@@ -1,7 +1,8 @@
 <!-- badges: start -->
-[![DOI](https://zenodo.org/badge/DOI/10.15497/RDA00133.svg)](https://doi.org/10.15497/RDA00133)
+[![DOI](https://zenodo.org/badge/DOI/10.15497/RDA00133.svg)](https://doi.org/10.5281/zenodo.15692852)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.rd-alliance.org%2Fgroups%2Fmulti-omics-metadata-standards-integration-momsi-wg%2Fmembers&up_message=RDA%20MOMSI%20WG&down_message=MOMSI)](https://www.rd-alliance.org/groups/multi-omics-metadata-standards-integration-momsi-wg)
+[![Code of Conduct](https://img.shields.io/badge/_code_of_conduct-yellow.svg?style=flat)](https://www.rd-alliance.org/about/code-of-conduct)
 <!-- badges: end -->
 
 <p align="center">
@@ -79,6 +80,22 @@ The code in this repository is licensed under the [BSD-3-Clause License](https:
 > _In efforts to enable discovery, sharing, and reuse of RDA WG deliverables, we kindly ask the MOMSI WG Landscape Review Dashboard Repository and provided supporting materials be referenced under the following citations._
 > 1. Anderson, L. N., Van Den Bossche, T., & Multi-Omics Metadata Standards Integration (MOMSI) Working Group. (2025). MOMSI WG Multi-Omics Standard Landscape Review Curation Workflow & Interactive Web-based Dashboard Tool. Zenodo. https://doi.org/10.15497/RDA00133
 > 2. FAIRsharing.org: MOMSI Collection; Multi-Omics Metadata Standards Integration Working Group Landscape Review Collection, FAIRsharing ID: https://fairsharing.org/5742, Last Edited: Monday, June 9th 2025. (DOI currently pending)
+>
+
+For reuse and citation of all code releases contained at this repository, please use the following:
+```bibtex
+@software{anderson_2025_15692852,
+ author = {Anderson, Lindsey N. and Van Den Bossche, Tim},
+ title = {MOMSI WG Multi-Omics Standard Landscape Review Curation Workflow \& Interactive Web-based Dashboard Tool},
+ month = {06},
+ year = {2025},
+ publisher = {Zenodo},
+ versio = {v1.0.0},
+ doi = {10.5281/zenodo.15692852},
+ url = {https://doi.org/10.5281/zenodo.15692852},
+ swhid = {swh:1:dir:594dadc2c7c3b939c44a6c8cc38e408a7813a5bb;origin=https://doi.org/10.5281/zenodo.15692698;visit=swh:1:snp:ad6959a0c089afd540d2ccec9a2ae11c1e232694;anchor=swh:1:rel:6b06c16ce8cabe6e462c96a792d96124e99cb9f9;path=RDA-MOMSI-Dashboard-e5bfe2f},
+}
+```
 
 ### 🎁 Funding
 
