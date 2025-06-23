@@ -82,11 +82,11 @@ The code in this repository is licensed under the [BSD-3-Clause License](https:
 > 2. FAIRsharing.org: MOMSI Collection; Multi-Omics Metadata Standards Integration Working Group Landscape Review Collection, FAIRsharing ID: https://fairsharing.org/5742, Last Edited: Monday, June 9th 2025. (DOI currently pending)
 >
 
-For reuse and citation of all code releases contained at this repository, please use the following:
+For reuse and citation of all code releases contained at this repository, please see reference below.
 ```bibtex
 @software{anderson_2025_15692852,
  author = {Anderson, Lindsey N. and Van Den Bossche, Tim},
- title = {MOMSI WG Multi-Omics Standard Landscape Review Curation Workflow \& Interactive Web-based Dashboard Tool},
+ title = {MOMSI WG Multi-Omics Standard Landscape Review Curation Workflow & Interactive Web-based Dashboard Tool},
  month = {06},
  year = {2025},
  publisher = {Zenodo},
