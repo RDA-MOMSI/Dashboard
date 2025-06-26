@@ -73,6 +73,8 @@ body:
         - Methylation Sequencing
         - Long-Read Sequencing
         - Array Sequencing
+        - Amplicon Sequencing (16S rRNA/18S rRNA)
+        - Amplicon Sequencing (ITS1/ITS2)
         - Other
     validations:
       required: true
