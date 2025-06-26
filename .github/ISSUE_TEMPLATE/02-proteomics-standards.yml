@@ -73,16 +73,16 @@ body:
         - Thermal Ionization Mass Spectrometry (TIMS)
         - Time-of-Flight Mass Spectrometer (TOF)
         - Single Particle Mass Spectrometry (SPMS)
-        - Fourier-Transform Ion Cyclotron Resonance-Mass Spectrometry (FT-ICR-MS)
-        - Ion Mobility Spectrometry Time-of-Flight Mass Spectrometry (IMS-TOF MS)
+        - Fourier-Transform Ion Cyclotron Resonance (FT-ICR) Mass Spectrometry
+        - Ion Mobility Spectrometry Time-of-Flight (IMS-TOF) Mass Spectrometry
         - Matrix-Assisted Laser Desorption/Ionization (MALDI) Mass Spectrometry
-        - MALDI-TOF
-        - AP-MALDI
-        - MALDI-FT-ICR
-        - SLIM-Orbitrap CryoIR-MS
+        - Matrix-Assisted Laser Desorption/Ionization Time-of-Flight (MALDI-TOF) Mass Spectrometry
+        - Atmospheric Pressure-Matrix-Assisted Laser Desorption/Ionization (AP-MALDI)
+        - Matrix-Assisted Laser Desorption/Ionization Fourier Transform Ion Cyclotron Resonance (MALDI-FTICR) Mass Spectrometry
+        - SLIM-Orbitrap Cryogenic Ion Mobility-Mass Spectrometry (CryoIR-MS)
         - Isotope-Ratio Mass Spectrometry (IRMS)
         - Inductively Coupled Plasma-Mass Spectrometry (ICP-MS)
-        - Accelerator mass spectrometry (AMS)
+        - Accelerator Mass Spectrometry (AMS)
         - Spark Source Mass Spectrometry (SSMS)
         - Tandem Mass Spectrometry
         - Secondary Ion Mass Spectrometry (SIMS)
