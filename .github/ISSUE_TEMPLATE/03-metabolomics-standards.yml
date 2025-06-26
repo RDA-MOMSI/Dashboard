@@ -80,6 +80,7 @@ body:
         - Matrix-Assisted Laser Desorption/Ionization Fourier Transform Ion Cyclotron Resonance (MALDI-FTICR) Mass Spectrometry
         - Isotope-Ratio Mass Spectrometry (IRMS)
         - Inductively Coupled Plasma-Mass Spectrometry (ICP-MS)
+        - Cryogenic Orbitrap Secondary Ion Mass Spectrometry (Cryo-OrbiSIMS)
         - Accelerator Mass Spectrometry (AMS)
         - Spark Source Mass Spectrometry (SSMS)
         - Tandem Mass Spectrometry
