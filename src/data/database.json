@@ -4394,7 +4394,7 @@
     },
     {
       "Acronym/Short Name": "MIASSPE",
-      "Active Affiliation(s)": "CSIC/UAB Proteomics Laboratory, Spanish National Research Council",
+      "Active Affiliation(s)": "HUPO-PSI, MIBBI, CSIC/UAB Proteomics Laboratory, Spanish National Research Council",
       "Analysis": "N/A",
       "Application Technology": "Mass Spectrometry (general)",
       "CRediT": null,
@@ -4418,7 +4418,7 @@
       "Sharing": "Article (human-readable)",
       "Standard Name": "Minimum Information About Sample Preparation for a Phosphoproteomics Experiment",
       "Standard Type": "Reporting Guideline",
-      "Status": "Established/Maintained"
+      "Status": "Deprecated"
     },
     {
       "Acronym/Short Name": "MIAPE-Quant",
