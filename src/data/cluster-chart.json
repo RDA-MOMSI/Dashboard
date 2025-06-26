@@ -1230,10 +1230,6 @@
                       "count": 1
                     },
                     {
-                      "name": "SMART",
-                      "count": 1
-                    },
-                    {
                       "name": "CIMR",
                       "count": 1
                     },
@@ -1242,7 +1238,7 @@
                       "count": 1
                     }
                   ],
-                  "count": 4
+                  "count": 3
                 },
                 {
                   "name": "Identifier Schema",
@@ -1271,7 +1267,7 @@
                   "count": 5
                 }
               ],
-              "count": 20
+              "count": 19
             },
             {
               "name": "Multi-omics Applicable",
@@ -1490,10 +1486,10 @@
               "count": 14
             }
           ],
-          "count": 56
+          "count": 55
         }
       ],
-      "count": 114
+      "count": 113
     },
     {
       "name": "Ion Mobility Mass Spectrometry (IM-MS)",
@@ -1598,6 +1594,34 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "Mass Spectrometry Imaging (MSI)",
+      "children": [
+        {
+          "name": "Metabolomics",
+          "children": [
+            {
+              "name": "Metabolomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "SMART",
+                      "count": 1
+                    }
+                  ],
+                  "count": 1
+                }
+              ],
+              "count": 1
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "count": 1
     },
     {
       "name": "Time-of-Flight Mass Spectrometer (TOF)",
