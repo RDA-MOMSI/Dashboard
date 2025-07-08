@@ -7039,6 +7039,34 @@
       "CRediT": "Data curation; Writing - original draft",
       "Contributor": "lnanderson",
       "Identifier": "MOMSI_U:00066"
+    },
+    {
+      "Standard Type": "Model/Format",
+      "Status": "Established/Maintained",
+      "Country": "Worldwide",
+      "Domain Class/Subclass": "Omics Applicable",
+      "Standard Name": "Investigation Study Assay JSON",
+      "Acronym/Short Name": "ISA-JSON",
+      "Planning": "Computed Analysis Design",
+      "Collection": "All of the above",
+      "Processing": "Metadata Collection",
+      "Analysis": "Other",
+      "Preservation": "Metadata Storage",
+      "Sharing": "Knowledgebase (machine-readable)",
+      "Reuse": "Conditional based on linked standards",
+      "Meets Criteria": [
+        "Meets criteria for the MOMSI Standards Collection at FAIRsharing"
+      ],
+      "Active Affiliation(s)": "ELIXIR, Oxford e-Research Centre, Department of Engineering Science, University of Oxford, ISA-Tools Consortium",
+      "Homepage": "https://isa-specs.readthedocs.io/en/latest/isajson.html#isa-json-format",
+      "Reference Article Citation (DOI)": "",
+      "Reference Source Code (DOI or URL)": "https://github.com/ISA-tools/ISAdatasets/tree/master/json",
+      "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.yhLgTV",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_U:00067"
     }
   ]
 }
