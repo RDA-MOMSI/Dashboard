@@ -922,9 +922,17 @@
             {
               "name": "BEL",
               "count": 1
+            },
+            {
+              "name": "SKOS",
+              "count": 3
+            },
+            {
+              "name": "ISA-JSON",
+              "count": 1
             }
           ],
-          "count": 8
+          "count": 12
         },
         {
           "name": "Identifier Schema",
@@ -1185,8 +1193,8 @@
           "count": 2
         }
       ],
-      "count": 65
+      "count": 69
     }
   ],
-  "count": 259
+  "count": 263
 }

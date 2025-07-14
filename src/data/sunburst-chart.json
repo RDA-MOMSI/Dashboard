@@ -940,9 +940,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Terminology Artefact",
@@ -1071,10 +1079,10 @@
                   "count": 30
                 }
               ],
-              "count": 43
+              "count": 47
             }
           ],
-          "count": 235
+          "count": 239
         },
         {
           "name": "All of the above",
@@ -1922,9 +1930,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Identifier Schema",
@@ -2185,10 +2201,10 @@
                   "count": 2
                 }
               ],
-              "count": 65
+              "count": 69
             }
           ],
-          "count": 244
+          "count": 248
         },
         {
           "name": "Experimental Design",
@@ -2876,9 +2892,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Terminology Artefact",
@@ -3007,10 +3031,10 @@
                   "count": 30
                 }
               ],
-              "count": 54
+              "count": 58
             }
           ],
-          "count": 183
+          "count": 187
         },
         {
           "name": "N/A",
@@ -3576,9 +3600,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Terminology Artefact",
@@ -3707,10 +3739,10 @@
                   "count": 30
                 }
               ],
-              "count": 54
+              "count": 58
             }
           ],
-          "count": 154
+          "count": 158
         },
         {
           "name": "Other",
@@ -3888,7 +3920,7 @@
           "count": 34
         }
       ],
-      "count": 850
+      "count": 866
     },
     {
       "name": "Collection",
@@ -4699,9 +4731,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -4800,10 +4840,10 @@
                   "count": 16
                 }
               ],
-              "count": 33
+              "count": 37
             }
           ],
-          "count": 201
+          "count": 205
         },
         {
           "name": "All of the above",
@@ -5521,9 +5561,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -5770,10 +5818,10 @@
                   "count": 30
                 }
               ],
-              "count": 63
+              "count": 67
             }
           ],
-          "count": 214
+          "count": 218
         },
         {
           "name": "N/A",
@@ -6921,9 +6969,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Other (Community-Driven)",
@@ -6962,10 +7018,10 @@
                   "count": 4
                 }
               ],
-              "count": 65
+              "count": 69
             }
           ],
-          "count": 259
+          "count": 263
         },
         {
           "name": "Sample Preparation",
@@ -7554,7 +7610,7 @@
           "count": 127
         }
       ],
-      "count": 801
+      "count": 813
     },
     {
       "name": "Processing",
@@ -8273,9 +8329,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Terminology Artefact",
@@ -8404,10 +8468,10 @@
                   "count": 30
                 }
               ],
-              "count": 42
+              "count": 46
             }
           ],
-          "count": 187
+          "count": 191
         },
         {
           "name": "Metadata Collection",
@@ -9275,9 +9339,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Identifier Schema",
@@ -9502,10 +9574,10 @@
                   "count": 30
                 }
               ],
-              "count": 59
+              "count": 63
             }
           ],
-          "count": 243
+          "count": 247
         },
         {
           "name": "Data Feature Detection/Identification",
@@ -11435,9 +11507,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Terminology Artefact",
@@ -11580,13 +11660,13 @@
                   "count": 2
                 }
               ],
-              "count": 60
+              "count": 64
             }
           ],
-          "count": 175
+          "count": 179
         }
       ],
-      "count": 884
+      "count": 896
     },
     {
       "name": "Analysis",
@@ -13347,9 +13427,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Terminology Artefact",
@@ -13478,10 +13566,10 @@
                   "count": 30
                 }
               ],
-              "count": 63
+              "count": 67
             }
           ],
-          "count": 222
+          "count": 226
         },
         {
           "name": "Interpretation Analysis",
@@ -14537,15 +14625,23 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 }
               ],
-              "count": 54
+              "count": 58
             }
           ],
-          "count": 236
+          "count": 240
         },
         {
           "name": "Quantitative Analysis",
@@ -16255,9 +16351,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Identifier Schema",
@@ -16518,13 +16622,13 @@
                   "count": 30
                 }
               ],
-              "count": 65
+              "count": 69
             }
           ],
-          "count": 204
+          "count": 208
         }
       ],
-      "count": 1084
+      "count": 1096
     },
     {
       "name": "Preservation",
@@ -17431,9 +17535,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Identifier Schema",
@@ -17694,10 +17806,10 @@
                   "count": 30
                 }
               ],
-              "count": 65
+              "count": 69
             }
           ],
-          "count": 255
+          "count": 259
         },
         {
           "name": "Metadata Storage or Exchange",
@@ -18583,9 +18695,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Terminology Artefact",
@@ -18784,10 +18904,10 @@
                   "count": 16
                 }
               ],
-              "count": 59
+              "count": 63
             }
           ],
-          "count": 241
+          "count": 245
         },
         {
           "name": "Data (raw, processed, generated) Storage",
@@ -19746,18 +19866,26 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 }
               ],
-              "count": 8
+              "count": 12
             }
           ],
-          "count": 8
+          "count": 12
         }
       ],
-      "count": 695
+      "count": 707
     },
     {
       "name": "Sharing",
@@ -20670,9 +20798,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Terminology Artefact",
@@ -20801,10 +20937,10 @@
                   "count": 30
                 }
               ],
-              "count": 59
+              "count": 63
             }
           ],
-          "count": 231
+          "count": 235
         },
         {
           "name": "All of the above",
@@ -21512,9 +21648,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Identifier Schema",
@@ -21775,10 +21919,10 @@
                   "count": 2
                 }
               ],
-              "count": 65
+              "count": 69
             }
           ],
-          "count": 212
+          "count": 216
         },
         {
           "name": "Repository (machine-readable)",
@@ -23388,7 +23532,7 @@
           "count": 21
         }
       ],
-      "count": 785
+      "count": 793
     },
     {
       "name": "Reuse",
@@ -24281,9 +24425,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Identifier Schema",
@@ -24530,10 +24682,10 @@
                   "count": 30
                 }
               ],
-              "count": 63
+              "count": 67
             }
           ],
-          "count": 251
+          "count": 255
         },
         {
           "name": "Uncertain",
@@ -27489,9 +27641,17 @@
                     {
                       "name": "BEL",
                       "count": 1
+                    },
+                    {
+                      "name": "SKOS",
+                      "count": 3
+                    },
+                    {
+                      "name": "ISA-JSON",
+                      "count": 1
                     }
                   ],
-                  "count": 8
+                  "count": 12
                 },
                 {
                   "name": "Other (Community-Driven)",
@@ -27600,10 +27760,10 @@
                   "count": 16
                 }
               ],
-              "count": 30
+              "count": 34
             }
           ],
-          "count": 207
+          "count": 211
         },
         {
           "name": "Other",
@@ -28020,8 +28180,8 @@
           "count": 20
         }
       ],
-      "count": 1006
+      "count": 1014
     }
   ],
-  "count": 6105
+  "count": 6185
 }
