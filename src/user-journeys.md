@@ -20,8 +20,7 @@ The Research Data Management toolkit for Life Sciences (RDMkit) is one of many g
 > <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg> Collaboration Highlight: RDA Life Science Data Infrastructures IG
 >  - Working group alignments aimed to enhance research data lifecycle standard-informed decision making and educational domain-aware materials supporting data stewardship and management best practices.
 
-
-[![doi: 10.5281/zenodo.11552128](./images/MOMSI_Research_Data_Lifecycle.jpg)](https://doi.org/10.5281/zenodo.11552128)
+<img width="5313" height="4200" alt="image" src="https://github.com/user-attachments/assets/f6e3374b-0409-4f4a-9e1c-bc7ecad996f5" />
 *Figure 1. MOMSI WG curations expand on RDMkit plan, collect, process, and analyze stages for adding domain standard use-case context to generalist research data lifecycle frameworks and link to FAIRsharing standards types listed at our collection.*
 
 ### MOMSI Subject Area Standard Implementations Research Data Lifecycle Journeys
@@ -108,7 +107,8 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
 **References**
 
 1. RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences URL: [https://rdmkit.elixir-europe.org](https://rdmkit.elixir-europe.org/) (Accessed 2025-04-12).
-2. Sansone, SA., McQuilton, P., Rocca-Serra, P. _et al._ FAIRsharing as a community approach to standards, repositories and policies. _Nat Biotechnol_ 37, 358–367 (2019). https://doi.org/10.1038/s41587-019-0080-8
-3. Allyson Lister, & Susanna-Assunta Sansone. (2023, July 28). FAIRsharing in a nutshell. Zenodo. https://doi.org/10.5281/zenodo.8191958
-4. Malin Sandström, Allyson Lister, & Susanna-Assunta Sansone. (2023, July 26). FAIRsharing content: standards overview. Zenodo. https://doi.org/10.5281/zenodo.8186982
-5. Lister, A., Sansone, S.-A., & Rocca-Serra, P. (2024, June 19). FAIR Principles in a nutshell. Zenodo. https://doi.org/10.5281/zenodo.12167786
+2. Anderson, L., Van Den Bossche, T., & Papadopoulou, A. (2024, November 14). Evaluating Multi-Omics Data Standard Integration Challenges and Building Solutions. The Research Data Alliance's 23rd Plenary Meeting (RDA P23), San José, Costa Rica. Zenodo. https://doi.org/10.5281/zenodo.14187653
+3. Sansone, SA., McQuilton, P., Rocca-Serra, P. _et al._ FAIRsharing as a community approach to standards, repositories and policies. _Nat Biotechnol_ 37, 358–367 (2019). https://doi.org/10.1038/s41587-019-0080-8
+4. Allyson Lister, & Susanna-Assunta Sansone. (2023, July 28). FAIRsharing in a nutshell. Zenodo. https://doi.org/10.5281/zenodo.8191958
+5. Malin Sandström, Allyson Lister, & Susanna-Assunta Sansone. (2023, July 26). FAIRsharing content: standards overview. Zenodo. https://doi.org/10.5281/zenodo.8186982
+6. Lister, A., Sansone, S.-A., & Rocca-Serra, P. (2024, June 19). FAIR Principles in a nutshell. Zenodo. https://doi.org/10.5281/zenodo.12167786
