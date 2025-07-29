@@ -943,14 +943,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Terminology Artefact",
@@ -1079,10 +1079,10 @@
                   "count": 30
                 }
               ],
-              "count": 47
+              "count": 45
             }
           ],
-          "count": 239
+          "count": 237
         },
         {
           "name": "All of the above",
@@ -1933,14 +1933,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Identifier Schema",
@@ -2201,10 +2201,10 @@
                   "count": 2
                 }
               ],
-              "count": 69
+              "count": 67
             }
           ],
-          "count": 248
+          "count": 246
         },
         {
           "name": "Experimental Design",
@@ -2895,14 +2895,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Terminology Artefact",
@@ -3031,10 +3031,10 @@
                   "count": 30
                 }
               ],
-              "count": 58
+              "count": 56
             }
           ],
-          "count": 187
+          "count": 185
         },
         {
           "name": "N/A",
@@ -3603,14 +3603,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Terminology Artefact",
@@ -3739,10 +3739,10 @@
                   "count": 30
                 }
               ],
-              "count": 58
+              "count": 56
             }
           ],
-          "count": 158
+          "count": 156
         },
         {
           "name": "Other",
@@ -3920,7 +3920,7 @@
           "count": 34
         }
       ],
-      "count": 866
+      "count": 858
     },
     {
       "name": "Collection",
@@ -4734,14 +4734,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -4840,10 +4840,10 @@
                   "count": 16
                 }
               ],
-              "count": 37
+              "count": 35
             }
           ],
-          "count": 205
+          "count": 203
         },
         {
           "name": "All of the above",
@@ -5564,14 +5564,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -5818,10 +5818,10 @@
                   "count": 30
                 }
               ],
-              "count": 67
+              "count": 65
             }
           ],
-          "count": 218
+          "count": 216
         },
         {
           "name": "N/A",
@@ -6972,14 +6972,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Other (Community-Driven)",
@@ -7018,10 +7018,10 @@
                   "count": 4
                 }
               ],
-              "count": 69
+              "count": 67
             }
           ],
-          "count": 263
+          "count": 261
         },
         {
           "name": "Sample Preparation",
@@ -7610,7 +7610,7 @@
           "count": 127
         }
       ],
-      "count": 813
+      "count": 807
     },
     {
       "name": "Processing",
@@ -8332,14 +8332,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Terminology Artefact",
@@ -8468,10 +8468,10 @@
                   "count": 30
                 }
               ],
-              "count": 46
+              "count": 44
             }
           ],
-          "count": 191
+          "count": 189
         },
         {
           "name": "Metadata Collection",
@@ -9342,14 +9342,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Identifier Schema",
@@ -9574,10 +9574,10 @@
                   "count": 30
                 }
               ],
-              "count": 63
+              "count": 61
             }
           ],
-          "count": 247
+          "count": 245
         },
         {
           "name": "Data Feature Detection/Identification",
@@ -11510,14 +11510,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Terminology Artefact",
@@ -11660,13 +11660,13 @@
                   "count": 2
                 }
               ],
-              "count": 64
+              "count": 62
             }
           ],
-          "count": 179
+          "count": 177
         }
       ],
-      "count": 896
+      "count": 890
     },
     {
       "name": "Analysis",
@@ -13430,14 +13430,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Terminology Artefact",
@@ -13566,10 +13566,10 @@
                   "count": 30
                 }
               ],
-              "count": 67
+              "count": 65
             }
           ],
-          "count": 226
+          "count": 224
         },
         {
           "name": "Interpretation Analysis",
@@ -14628,20 +14628,20 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 }
               ],
-              "count": 58
+              "count": 56
             }
           ],
-          "count": 240
+          "count": 238
         },
         {
           "name": "Quantitative Analysis",
@@ -16354,14 +16354,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Identifier Schema",
@@ -16622,13 +16622,13 @@
                   "count": 30
                 }
               ],
-              "count": 69
+              "count": 67
             }
           ],
-          "count": 208
+          "count": 206
         }
       ],
-      "count": 1096
+      "count": 1090
     },
     {
       "name": "Preservation",
@@ -17538,14 +17538,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Identifier Schema",
@@ -17806,10 +17806,10 @@
                   "count": 30
                 }
               ],
-              "count": 69
+              "count": 67
             }
           ],
-          "count": 259
+          "count": 257
         },
         {
           "name": "Metadata Storage or Exchange",
@@ -18698,14 +18698,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Terminology Artefact",
@@ -18904,10 +18904,10 @@
                   "count": 16
                 }
               ],
-              "count": 63
+              "count": 61
             }
           ],
-          "count": 245
+          "count": 243
         },
         {
           "name": "Data (raw, processed, generated) Storage",
@@ -19869,23 +19869,23 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 }
               ],
-              "count": 12
+              "count": 10
             }
           ],
-          "count": 12
+          "count": 10
         }
       ],
-      "count": 707
+      "count": 701
     },
     {
       "name": "Sharing",
@@ -20801,14 +20801,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Terminology Artefact",
@@ -20937,10 +20937,10 @@
                   "count": 30
                 }
               ],
-              "count": 63
+              "count": 61
             }
           ],
-          "count": 235
+          "count": 233
         },
         {
           "name": "All of the above",
@@ -21651,14 +21651,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Identifier Schema",
@@ -21919,10 +21919,10 @@
                   "count": 2
                 }
               ],
-              "count": 69
+              "count": 67
             }
           ],
-          "count": 216
+          "count": 214
         },
         {
           "name": "Repository (machine-readable)",
@@ -23532,7 +23532,7 @@
           "count": 21
         }
       ],
-      "count": 793
+      "count": 789
     },
     {
       "name": "Reuse",
@@ -24428,14 +24428,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Identifier Schema",
@@ -24682,10 +24682,10 @@
                   "count": 30
                 }
               ],
-              "count": 67
+              "count": 65
             }
           ],
-          "count": 255
+          "count": 253
         },
         {
           "name": "Uncertain",
@@ -27644,14 +27644,14 @@
                     },
                     {
                       "name": "SKOS",
-                      "count": 3
+                      "count": 1
                     },
                     {
                       "name": "ISA-JSON",
                       "count": 1
                     }
                   ],
-                  "count": 12
+                  "count": 10
                 },
                 {
                   "name": "Other (Community-Driven)",
@@ -27760,10 +27760,10 @@
                   "count": 16
                 }
               ],
-              "count": 34
+              "count": 32
             }
           ],
-          "count": 211
+          "count": 209
         },
         {
           "name": "Other",
@@ -28180,8 +28180,8 @@
           "count": 20
         }
       ],
-      "count": 1014
+      "count": 1010
     }
   ],
-  "count": 6185
+  "count": 6145
 }

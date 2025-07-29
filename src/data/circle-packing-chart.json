@@ -925,14 +925,14 @@
             },
             {
               "name": "SKOS",
-              "count": 3
+              "count": 1
             },
             {
               "name": "ISA-JSON",
               "count": 1
             }
           ],
-          "count": 12
+          "count": 10
         },
         {
           "name": "Identifier Schema",
@@ -1193,8 +1193,8 @@
           "count": 2
         }
       ],
-      "count": 69
+      "count": 67
     }
   ],
-  "count": 263
+  "count": 261
 }
