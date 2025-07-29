@@ -52,7 +52,7 @@ This repository is maintained by the MOMSI WG co-chairs. Co-chair duties include
 
 ### ♻️ Sustainability
 
-As part of our sustainability workflow and long-term maintenance plan this repository was established to provide a transparent method for sharing expert-level information with non-expert users. Expert curated Multi-Omics standards, originally captured in a Google Sheet, now available in a machine-actionable and version controlled environment, enables open-access to live curated WG deliverables for continuous update by the scientific community as future standards evolve. This repository serves as the first step in our sustainability workflow process for downstream inclusion at our [MOMSI FAIRsharing Standards Collection (Deliverable 1b)](https://fairsharing.org/5742), in collaboration with the RDA FAIRsharing WG.
+As part of our sustainability workflow and long-term maintenance plan this repository was established to provide a transparent method for sharing expert-level information with non-expert users. Expert curated Multi-Omics standards, originally captured in a Google Sheet, now available in a machine-actionable and version controlled environment, enables open-access to live curated WG deliverables for continuous update by the scientific community as future standards evolve. This repository serves as the first step in our sustainability workflow process for downstream inclusion at our [MOMSI FAIRsharing Standards Collection (Deliverable 1b)](https://doi.org/10.25504/FAIRsharing.2fa4fb), in collaboration with the RDA FAIRsharing WG.
 
 <p align="center">
   <img src="https://github.com/RDA-MOMSI/Dashboard/blob/main/src/images/Deliverables_Workflow.jpg" height="500">
@@ -78,8 +78,8 @@ The code in this repository is licensed under the [BSD-3-Clause License](https:
 > 📖 **Citation Policy**
 > 
 > _In efforts to enable discovery, sharing, and reuse of RDA WG deliverables, we kindly ask the MOMSI WG Landscape Review Dashboard Repository and provided supporting materials be referenced under the following citations._
-> 1. Anderson, L. N., Van Den Bossche, T., & Multi-Omics Metadata Standards Integration (MOMSI) Working Group. (2025). MOMSI WG Multi-Omics Standard Landscape Review Curation Workflow & Interactive Web-based Dashboard Tool. Zenodo. https://doi.org/10.15497/RDA00133
-> 2. FAIRsharing.org: MOMSI Collection; Multi-Omics Metadata Standards Integration Working Group Landscape Review Collection, FAIRsharing ID: https://fairsharing.org/5742, Last Edited: Monday, June 9th 2025. (DOI currently pending)
+> 1. Anderson, L. N., Van Den Bossche, T., & Multi-Omics Metadata Standards Integration (MOMSI) Working Group. (2025). MOMSI WG Multi-Omics Standard Landscape Review Curation Workflow & Interactive Web-based Dashboard Tool. Zenodo. DOI: [10.15497/RDA00133](https://doi.org/10.15497/RDA00133)
+> 2. FAIRsharing.org: MOMSI; Multi-Omics Metadata Standards Integration Working Group Landscape Review Collection. (2025). FAIRsharing.org. DOI: [10.25504/FAIRsharing.2fa4fb](https://doi.org/10.25504/FAIRsharing.2fa4fb) [see record page for an up-to-date timestamp for all edits and reviews]
 >
 
 For reuse and citation of all code releases contained at this repository, please see reference below.
