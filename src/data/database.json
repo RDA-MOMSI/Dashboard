@@ -7039,6 +7039,34 @@
       "CRediT": "Data curation; Writing - original draft",
       "Contributor": "lnanderson",
       "Identifier": "MOMSI_U:00066"
+    },
+    {
+      "Standard Type": "Model/Format",
+      "Status": "Established/Maintained",
+      "Country": "United States, Worldwide",
+      "Domain Class/Subclass": "General Best Practices",
+      "Standard Name": "The System Package Data Exchange (SPDX) Specification",
+      "Acronym/Short Name": "ISO/IEC 5962:2021",
+      "Planning": "Experimental Design",
+      "Collection": "All of the above",
+      "Processing": "Metadata Collection",
+      "Analysis": "Interpretation Analysis",
+      "Preservation": "All of the above",
+      "Sharing": "Knowledgebase (machine-readable)",
+      "Reuse": "Conditional based on linked standards",
+      "Meets Criteria": [
+        "Meets criteria for the MOMSI Standards Collection at FAIRsharing"
+      ],
+      "Active Affiliation(s)": "The LINUX Foundation",
+      "Homepage": "https://spdx.github.io/spdx-spec/v3.0.1",
+      "Reference Article Citation (DOI)": "https://doi.org/10.70828/rned4427",
+      "Reference Source Code (DOI or URL)": "https://github.com/spdx/spdx-spec",
+      "FAIRsharing Record (DOI or URL)": "https://fairsharing.org/6573",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_U:00067"
     }
   ]
 }
