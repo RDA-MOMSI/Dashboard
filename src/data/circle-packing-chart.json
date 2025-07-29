@@ -930,9 +930,13 @@
             {
               "name": "ISA-JSON",
               "count": 1
+            },
+            {
+              "name": "ISO/IEC 5962:2021",
+              "count": 1
             }
           ],
-          "count": 10
+          "count": 11
         },
         {
           "name": "Identifier Schema",
@@ -1193,8 +1197,8 @@
           "count": 2
         }
       ],
-      "count": 67
+      "count": 68
     }
   ],
-  "count": 261
+  "count": 262
 }

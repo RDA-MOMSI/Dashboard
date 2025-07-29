@@ -948,9 +948,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Terminology Artefact",
@@ -1079,10 +1083,10 @@
                   "count": 30
                 }
               ],
-              "count": 45
+              "count": 46
             }
           ],
-          "count": 237
+          "count": 238
         },
         {
           "name": "All of the above",
@@ -1938,9 +1942,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Identifier Schema",
@@ -2201,10 +2209,10 @@
                   "count": 2
                 }
               ],
-              "count": 67
+              "count": 68
             }
           ],
-          "count": 246
+          "count": 247
         },
         {
           "name": "Experimental Design",
@@ -2900,9 +2908,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Terminology Artefact",
@@ -3031,10 +3043,10 @@
                   "count": 30
                 }
               ],
-              "count": 56
+              "count": 57
             }
           ],
-          "count": 185
+          "count": 186
         },
         {
           "name": "N/A",
@@ -3608,9 +3620,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Terminology Artefact",
@@ -3739,10 +3755,10 @@
                   "count": 30
                 }
               ],
-              "count": 56
+              "count": 57
             }
           ],
-          "count": 156
+          "count": 157
         },
         {
           "name": "Other",
@@ -3920,7 +3936,7 @@
           "count": 34
         }
       ],
-      "count": 858
+      "count": 862
     },
     {
       "name": "Collection",
@@ -4739,9 +4755,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -4840,10 +4860,10 @@
                   "count": 16
                 }
               ],
-              "count": 35
+              "count": 36
             }
           ],
-          "count": 203
+          "count": 204
         },
         {
           "name": "All of the above",
@@ -5569,9 +5589,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -5818,10 +5842,10 @@
                   "count": 30
                 }
               ],
-              "count": 65
+              "count": 66
             }
           ],
-          "count": 216
+          "count": 217
         },
         {
           "name": "N/A",
@@ -6977,9 +7001,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Other (Community-Driven)",
@@ -7018,10 +7046,10 @@
                   "count": 4
                 }
               ],
-              "count": 67
+              "count": 68
             }
           ],
-          "count": 261
+          "count": 262
         },
         {
           "name": "Sample Preparation",
@@ -7610,7 +7638,7 @@
           "count": 127
         }
       ],
-      "count": 807
+      "count": 810
     },
     {
       "name": "Processing",
@@ -8337,9 +8365,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Terminology Artefact",
@@ -8468,10 +8500,10 @@
                   "count": 30
                 }
               ],
-              "count": 44
+              "count": 45
             }
           ],
-          "count": 189
+          "count": 190
         },
         {
           "name": "Metadata Collection",
@@ -9347,9 +9379,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Identifier Schema",
@@ -9574,10 +9610,10 @@
                   "count": 30
                 }
               ],
-              "count": 61
+              "count": 62
             }
           ],
-          "count": 245
+          "count": 246
         },
         {
           "name": "Data Feature Detection/Identification",
@@ -11515,9 +11551,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Terminology Artefact",
@@ -11660,13 +11700,13 @@
                   "count": 2
                 }
               ],
-              "count": 62
+              "count": 63
             }
           ],
-          "count": 177
+          "count": 178
         }
       ],
-      "count": 890
+      "count": 893
     },
     {
       "name": "Analysis",
@@ -13435,9 +13475,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Terminology Artefact",
@@ -13566,10 +13610,10 @@
                   "count": 30
                 }
               ],
-              "count": 65
+              "count": 66
             }
           ],
-          "count": 224
+          "count": 225
         },
         {
           "name": "Interpretation Analysis",
@@ -14633,15 +14677,19 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 }
               ],
-              "count": 56
+              "count": 57
             }
           ],
-          "count": 238
+          "count": 239
         },
         {
           "name": "Quantitative Analysis",
@@ -16359,9 +16407,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Identifier Schema",
@@ -16622,13 +16674,13 @@
                   "count": 30
                 }
               ],
-              "count": 67
+              "count": 68
             }
           ],
-          "count": 206
+          "count": 207
         }
       ],
-      "count": 1090
+      "count": 1093
     },
     {
       "name": "Preservation",
@@ -17543,9 +17595,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Identifier Schema",
@@ -17806,10 +17862,10 @@
                   "count": 30
                 }
               ],
-              "count": 67
+              "count": 68
             }
           ],
-          "count": 257
+          "count": 258
         },
         {
           "name": "Metadata Storage or Exchange",
@@ -18703,9 +18759,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Terminology Artefact",
@@ -18904,10 +18964,10 @@
                   "count": 16
                 }
               ],
-              "count": 61
+              "count": 62
             }
           ],
-          "count": 243
+          "count": 244
         },
         {
           "name": "Data (raw, processed, generated) Storage",
@@ -19874,18 +19934,22 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 }
               ],
-              "count": 10
+              "count": 11
             }
           ],
-          "count": 10
+          "count": 11
         }
       ],
-      "count": 701
+      "count": 704
     },
     {
       "name": "Sharing",
@@ -20806,9 +20870,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Terminology Artefact",
@@ -20937,10 +21005,10 @@
                   "count": 30
                 }
               ],
-              "count": 61
+              "count": 62
             }
           ],
-          "count": 233
+          "count": 234
         },
         {
           "name": "All of the above",
@@ -21656,9 +21724,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Identifier Schema",
@@ -21919,10 +21991,10 @@
                   "count": 2
                 }
               ],
-              "count": 67
+              "count": 68
             }
           ],
-          "count": 214
+          "count": 215
         },
         {
           "name": "Repository (machine-readable)",
@@ -23532,7 +23604,7 @@
           "count": 21
         }
       ],
-      "count": 789
+      "count": 791
     },
     {
       "name": "Reuse",
@@ -24433,9 +24505,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Identifier Schema",
@@ -24682,10 +24758,10 @@
                   "count": 30
                 }
               ],
-              "count": 65
+              "count": 66
             }
           ],
-          "count": 253
+          "count": 254
         },
         {
           "name": "Uncertain",
@@ -27649,9 +27725,13 @@
                     {
                       "name": "ISA-JSON",
                       "count": 1
+                    },
+                    {
+                      "name": "ISO/IEC 5962:2021",
+                      "count": 1
                     }
                   ],
-                  "count": 10
+                  "count": 11
                 },
                 {
                   "name": "Other (Community-Driven)",
@@ -27760,10 +27840,10 @@
                   "count": 16
                 }
               ],
-              "count": 32
+              "count": 33
             }
           ],
-          "count": 209
+          "count": 210
         },
         {
           "name": "Other",
@@ -28180,8 +28260,8 @@
           "count": 20
         }
       ],
-      "count": 1010
+      "count": 1012
     }
   ],
-  "count": 6145
+  "count": 6165
 }
