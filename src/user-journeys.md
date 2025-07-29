@@ -39,7 +39,7 @@ Core concepts, terms, and curation activity examples incorporating RDMkit use-ca
 
 ## MOMSI FAIRsharing Collection Journeys
 
-The [MOMSI WG FAIRsharing Collection](https://fairsharing.org/5742) is a refined and filtered down list of Omics specific and domain relevant universal terminologies, metadata reporting guidelines, data models or formats, and identifier schemas. 
+The [MOMSI WG FAIRsharing Collection](https://doi.org/10.25504/FAIRsharing.2fa4fb) is a refined and filtered down list of Omics specific and domain relevant universal terminologies, metadata reporting guidelines, data models or formats, and identifier schemas. 
 
 New and existing standards listed in this collection have undergone an iterative in-depth landscape review process using the MOMSI curation dashboard sustainability workflow. This process involves evaluating the accuracy and completeness of each standard and the minimal information criteria required for curation. Our collection seeks to benefit and encourage continuous, open, and machine-actionable Multi-omics community standards curation, supporting evolving research data management and sharing best practices.
 
