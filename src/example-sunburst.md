@@ -21,8 +21,9 @@ const data = FileAttachment("data/sunburst-chart.json").json();
 </header>
 
 ---
+To view detailed data management and stewardship activities listed under each data lifecycle stage (Planning, Collection, Processing, Analysis, Preservation, Sharing, and Reuse), click a node to zoom in, or the center of the sunburst to zoom out. This chart only displays two layers of the hierarchy at a time, enabling drill down views of specific activities of interest first followed by Omics class (where applicable), standard type, and standard acronym. Redundant standard records may appear under more than one class where relevant.
 
-This variant of a sunburst diagram shows only two layers of the hierarchy at a time. Click a node to zoom in, or the center to zoom out.
+_See a lifecycle relationship that is missing or needs to be updated? Data lifecycle curations viewed in this chart can be updated directly from our [dashboard table](https://rda-momsi.github.io/Dashboard) by clicking on the unique identifier links provided at the end of each row. Updates will visually render once a request has been merged._
 
 <!-- Plot of launch vehicles -->
 
