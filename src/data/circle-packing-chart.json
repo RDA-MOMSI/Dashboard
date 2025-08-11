@@ -162,6 +162,10 @@
               "count": 1
             },
             {
+              "name": "ADC API",
+              "count": 1
+            },
+            {
               "name": "bedMethyl",
               "count": 1
             },
@@ -250,7 +254,7 @@
               "count": 1
             }
           ],
-          "count": 48
+          "count": 49
         },
         {
           "name": "Reporting Guideline",
@@ -380,13 +384,9 @@
             {
               "name": "WGS",
               "count": 1
-            },
-            {
-              "name": "ADC API",
-              "count": 1
             }
           ],
-          "count": 2
+          "count": 1
         },
         {
           "name": "Identifier Schema",

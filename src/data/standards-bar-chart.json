@@ -42,7 +42,7 @@
   {
     "type": "Model/Format",
     "standard": "Genomics",
-    "count": 48
+    "count": 49
   },
   {
     "type": "Model/Format",
@@ -82,7 +82,7 @@
   {
     "type": "Multi-Standard Applicable",
     "standard": "Genomics",
-    "count": 2
+    "count": 1
   },
   {
     "type": "Multi-Standard Applicable",
