@@ -450,10 +450,6 @@
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "name": "MiAIRR",
-                      "count": 1
-                    },
-                    {
                       "name": "CDE",
                       "count": 1
                     },
@@ -470,7 +466,7 @@
                       "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 4
                 },
                 {
                   "name": "Terminology Artefact",
@@ -495,7 +491,7 @@
                   "count": 4
                 }
               ],
-              "count": 16
+              "count": 15
             },
             {
               "name": "Epigenomics",
@@ -562,10 +558,10 @@
               "count": 10
             }
           ],
-          "count": 110
+          "count": 109
         }
       ],
-      "count": 110
+      "count": 109
     },
     {
       "name": "Array Sequencing",
@@ -690,6 +686,50 @@
       "count": 6
     },
     {
+      "name": "RNA Sequencing",
+      "children": [
+        {
+          "name": "Genomics",
+          "children": [
+            {
+              "name": "Transcriptomics",
+              "children": [
+                {
+                  "name": "Reporting Guideline",
+                  "children": [
+                    {
+                      "name": "MiAIRR",
+                      "count": 1
+                    }
+                  ],
+                  "count": 1
+                }
+              ],
+              "count": 1
+            },
+            {
+              "name": "Genomics",
+              "children": [
+                {
+                  "name": "Model/Format",
+                  "children": [
+                    {
+                      "name": "ISO/TS 22690:2021",
+                      "count": 1
+                    }
+                  ],
+                  "count": 1
+                }
+              ],
+              "count": 1
+            }
+          ],
+          "count": 2
+        }
+      ],
+      "count": 2
+    },
+    {
       "name": "DNA Sequencing",
       "children": [
         {
@@ -744,34 +784,6 @@
         }
       ],
       "count": 5
-    },
-    {
-      "name": "RNA Sequencing",
-      "children": [
-        {
-          "name": "Genomics",
-          "children": [
-            {
-              "name": "Genomics",
-              "children": [
-                {
-                  "name": "Model/Format",
-                  "children": [
-                    {
-                      "name": "ISO/TS 22690:2021",
-                      "count": 1
-                    }
-                  ],
-                  "count": 1
-                }
-              ],
-              "count": 1
-            }
-          ],
-          "count": 1
-        }
-      ],
-      "count": 1
     },
     {
       "name": "Other",
