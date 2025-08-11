@@ -112,6 +112,10 @@
                       "count": 1
                     },
                     {
+                      "name": "ADC API",
+                      "count": 1
+                    },
+                    {
                       "name": "bigBed",
                       "count": 1
                     },
@@ -168,7 +172,7 @@
                       "count": 1
                     }
                   ],
-                  "count": 33
+                  "count": 34
                 },
                 {
                   "name": "Reporting Guideline",
@@ -235,16 +239,6 @@
                     }
                   ],
                   "count": 15
-                },
-                {
-                  "name": "Multi-Standard Applicable",
-                  "children": [
-                    {
-                      "name": "ADC API",
-                      "count": 1
-                    }
-                  ],
-                  "count": 1
                 },
                 {
                   "name": "Identifier Schema",
@@ -332,6 +326,10 @@
                       "count": 1
                     },
                     {
+                      "name": "ADC API",
+                      "count": 1
+                    },
+                    {
                       "name": "bigBed",
                       "count": 1
                     },
@@ -368,17 +366,7 @@
                       "count": 1
                     }
                   ],
-                  "count": 15
-                },
-                {
-                  "name": "Multi-Standard Applicable",
-                  "children": [
-                    {
-                      "name": "ADC API",
-                      "count": 1
-                    }
-                  ],
-                  "count": 1
+                  "count": 16
                 },
                 {
                   "name": "Terminology Artefact",
