@@ -5551,8 +5551,8 @@
       "Status": "Established/Maintained"
     },
     {
-      "Acronym/Short Name": "OBO Foundary",
-      "Active Affiliation(s)": "OBO Foundry Operations Committee",
+      "Acronym/Short Name": "OBO Library",
+      "Active Affiliation(s)": "The Open Biological and Biomedical Ontology Foundry Operations Committee",
       "Analysis": "Interpretation Analysis",
       "CRediT": null,
       "Collection": "All of the above",
@@ -5572,7 +5572,7 @@
       "Reference Source Code (DOI or URL)": "https://github.com/OBOFoundry",
       "Reuse": "Conditional based on linked standards",
       "Sharing": "All of the above",
-      "Standard Name": "OBO Foundary Ontology Collection",
+      "Standard Name": "The Open Biological and Biomedical Ontology Foundry Library",
       "Standard Type": "Terminology Artefact",
       "Status": "Established/Maintained"
     },
