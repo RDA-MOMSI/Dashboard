@@ -7067,6 +7067,34 @@
       "CRediT": "Data curation; Writing - original draft",
       "Contributor": "lnanderson",
       "Identifier": "MOMSI_U:00067"
+    },
+    {
+      "Standard Type": "Multi-Standard Applicable",
+      "Status": "Established/Maintained",
+      "Country": "Worldwide",
+      "Domain Class/Subclass": "General Best Practices",
+      "Standard Name": "The OBO Foundry Principles",
+      "Acronym/Short Name": "OBO Principles",
+      "Planning": "N/A",
+      "Collection": "N/A",
+      "Processing": "N/A",
+      "Analysis": "N/A",
+      "Preservation": "Metadata Storage",
+      "Sharing": "Repository (machine-readable)",
+      "Reuse": "Conditional based on linked standards",
+      "Meets Criteria": [
+        "Meets criteria for the MOMSI Standards Collection at FAIRsharing"
+      ],
+      "Active Affiliation(s)": "The Open Biological and Biomedical Ontologies (OBO) Foundry",
+      "Homepage": "https://obofoundry.org/principles/fp-000-summary.html",
+      "Reference Article Citation (DOI)": "https://doi.org/10.1093/database/baab069",
+      "Reference Source Code (DOI or URL)": "https://github.com/OBOFoundry/OBOFoundry.github.io/tree/master/principles",
+      "FAIRsharing Record (DOI or URL)": "https://fairsharing.org/6508",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_U:00068"
     }
   ]
 }
