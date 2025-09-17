@@ -1030,9 +1030,13 @@
             {
               "name": "UUID/GUID",
               "count": 1
+            },
+            {
+              "name": "OBO Principles",
+              "count": 1
             }
           ],
-          "count": 5
+          "count": 6
         },
         {
           "name": "Reporting Guideline",
@@ -1197,8 +1201,8 @@
           "count": 2
         }
       ],
-      "count": 68
+      "count": 69
     }
   ],
-  "count": 262
+  "count": 263
 }

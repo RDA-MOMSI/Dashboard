@@ -906,9 +906,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Model/Format",
@@ -1087,10 +1091,10 @@
                   "count": 30
                 }
               ],
-              "count": 46
+              "count": 47
             }
           ],
-          "count": 239
+          "count": 240
         },
         {
           "name": "All of the above",
@@ -2194,9 +2198,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Other (Community-Driven)",
@@ -2213,10 +2221,10 @@
                   "count": 2
                 }
               ],
-              "count": 68
+              "count": 69
             }
           ],
-          "count": 247
+          "count": 248
         },
         {
           "name": "Experimental Design",
@@ -3751,12 +3759,42 @@
                     }
                   ],
                   "count": 30
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "ISA-TAB",
+                      "count": 1
+                    },
+                    {
+                      "name": "LinkML",
+                      "count": 1
+                    },
+                    {
+                      "name": "RO-Crate",
+                      "count": 1
+                    },
+                    {
+                      "name": "CRediT",
+                      "count": 1
+                    },
+                    {
+                      "name": "UUID/GUID",
+                      "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
+                    }
+                  ],
+                  "count": 6
                 }
               ],
-              "count": 57
+              "count": 63
             }
           ],
-          "count": 156
+          "count": 162
         },
         {
           "name": "Other",
@@ -3934,7 +3972,7 @@
           "count": 34
         }
       ],
-      "count": 863
+      "count": 871
     },
     {
       "name": "Collection",
@@ -4787,9 +4825,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Identifier Schema",
@@ -4862,10 +4904,10 @@
                   "count": 16
                 }
               ],
-              "count": 36
+              "count": 37
             }
           ],
-          "count": 205
+          "count": 206
         },
         {
           "name": "All of the above",
@@ -5621,9 +5663,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Identifier Schema",
@@ -5844,10 +5890,10 @@
                   "count": 30
                 }
               ],
-              "count": 66
+              "count": 67
             }
           ],
-          "count": 217
+          "count": 218
         },
         {
           "name": "N/A",
@@ -6821,9 +6867,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Terminology Artefact",
@@ -7038,10 +7088,10 @@
                   "count": 4
                 }
               ],
-              "count": 68
+              "count": 69
             }
           ],
-          "count": 261
+          "count": 262
         },
         {
           "name": "Sample Preparation",
@@ -7630,7 +7680,7 @@
           "count": 127
         }
       ],
-      "count": 810
+      "count": 813
     },
     {
       "name": "Processing",
@@ -9475,9 +9525,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Terminology Artefact",
@@ -9606,10 +9660,10 @@
                   "count": 30
                 }
               ],
-              "count": 62
+              "count": 63
             }
           ],
-          "count": 247
+          "count": 248
         },
         {
           "name": "Data Feature Detection/Identification",
@@ -11706,15 +11760,45 @@
                     }
                   ],
                   "count": 2
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "ISA-TAB",
+                      "count": 1
+                    },
+                    {
+                      "name": "LinkML",
+                      "count": 1
+                    },
+                    {
+                      "name": "RO-Crate",
+                      "count": 1
+                    },
+                    {
+                      "name": "CRediT",
+                      "count": 1
+                    },
+                    {
+                      "name": "UUID/GUID",
+                      "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
+                    }
+                  ],
+                  "count": 6
                 }
               ],
-              "count": 63
+              "count": 69
             }
           ],
-          "count": 179
+          "count": 185
         }
       ],
-      "count": 897
+      "count": 904
     },
     {
       "name": "Analysis",
@@ -13349,9 +13433,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Identifier Schema",
@@ -13622,10 +13710,10 @@
                   "count": 30
                 }
               ],
-              "count": 66
+              "count": 67
             }
           ],
-          "count": 226
+          "count": 227
         },
         {
           "name": "Interpretation Analysis",
@@ -16557,9 +16645,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Other (Community-Driven)",
@@ -16702,13 +16794,13 @@
                   "count": 30
                 }
               ],
-              "count": 68
+              "count": 69
             }
           ],
-          "count": 208
+          "count": 209
         }
       ],
-      "count": 1098
+      "count": 1100
     },
     {
       "name": "Preservation",
@@ -17759,9 +17851,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Terminology Artefact",
@@ -17890,10 +17986,10 @@
                   "count": 30
                 }
               ],
-              "count": 68
+              "count": 69
             }
           ],
-          "count": 258
+          "count": 259
         },
         {
           "name": "Metadata Storage or Exchange",
@@ -18745,9 +18841,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Model/Format",
@@ -18996,10 +19096,10 @@
                   "count": 16
                 }
               ],
-              "count": 62
+              "count": 63
             }
           ],
-          "count": 245
+          "count": 246
         },
         {
           "name": "Data (raw, processed, generated) Storage",
@@ -19977,15 +20077,45 @@
                     }
                   ],
                   "count": 11
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "ISA-TAB",
+                      "count": 1
+                    },
+                    {
+                      "name": "LinkML",
+                      "count": 1
+                    },
+                    {
+                      "name": "RO-Crate",
+                      "count": 1
+                    },
+                    {
+                      "name": "CRediT",
+                      "count": 1
+                    },
+                    {
+                      "name": "UUID/GUID",
+                      "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
+                    }
+                  ],
+                  "count": 6
                 }
               ],
-              "count": 11
+              "count": 17
             }
           ],
-          "count": 11
+          "count": 17
         }
       ],
-      "count": 706
+      "count": 714
     },
     {
       "name": "Sharing",
@@ -20864,9 +20994,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Model/Format",
@@ -21045,10 +21179,10 @@
                   "count": 30
                 }
               ],
-              "count": 62
+              "count": 63
             }
           ],
-          "count": 235
+          "count": 236
         },
         {
           "name": "All of the above",
@@ -22012,9 +22146,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Other (Community-Driven)",
@@ -22031,10 +22169,10 @@
                   "count": 2
                 }
               ],
-              "count": 68
+              "count": 69
             }
           ],
-          "count": 215
+          "count": 216
         },
         {
           "name": "Repository (machine-readable)",
@@ -23015,12 +23153,42 @@
                     }
                   ],
                   "count": 30
+                },
+                {
+                  "name": "Multi-Standard Applicable",
+                  "children": [
+                    {
+                      "name": "ISA-TAB",
+                      "count": 1
+                    },
+                    {
+                      "name": "LinkML",
+                      "count": 1
+                    },
+                    {
+                      "name": "RO-Crate",
+                      "count": 1
+                    },
+                    {
+                      "name": "CRediT",
+                      "count": 1
+                    },
+                    {
+                      "name": "UUID/GUID",
+                      "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
+                    }
+                  ],
+                  "count": 6
                 }
               ],
-              "count": 34
+              "count": 40
             }
           ],
-          "count": 218
+          "count": 224
         },
         {
           "name": "Article (human-readable)",
@@ -23634,7 +23802,7 @@
           "count": 21
         }
       ],
-      "count": 791
+      "count": 799
     },
     {
       "name": "Reuse",
@@ -24639,9 +24807,13 @@
                     {
                       "name": "UUID/GUID",
                       "count": 1
+                    },
+                    {
+                      "name": "OBO Principles",
+                      "count": 1
                     }
                   ],
-                  "count": 5
+                  "count": 6
                 },
                 {
                   "name": "Reporting Guideline",
@@ -24792,10 +24964,10 @@
                   "count": 30
                 }
               ],
-              "count": 66
+              "count": 67
             }
           ],
-          "count": 255
+          "count": 256
         },
         {
           "name": "Uncertain",
@@ -28310,8 +28482,8 @@
           "count": 20
         }
       ],
-      "count": 1017
+      "count": 1018
     }
   ],
-  "count": 6182
+  "count": 6219
 }
