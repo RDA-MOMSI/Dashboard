@@ -67,12 +67,17 @@ body:
       multiple: true
       options:
         - Sequencing (general)
-        - High-Throughput Sequencing
+        - High-Throughput Sequencing (HTS)
+        - Next-Generation Sequencing (NGS)
+        - Long-Read Sequencing
+        - Short-Read Sequencing
         - DNA Sequencing
         - RNA Sequencing
+        - Nanopore and Single-Molecule Real-Time (SMRT) Sequencing
         - Methylation Sequencing
-        - Long-Read Sequencing
+        - Whole Genome Sequencing (WGS)
         - Array Sequencing
+        - Microarray
         - Amplicon Sequencing (16S rRNA/18S rRNA)
         - Amplicon Sequencing (ITS1/ITS2)
         - Other
