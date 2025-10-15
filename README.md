@@ -9,7 +9,7 @@
   <img src="https://github.com/RDA-MOMSI/Dashboard/blob/main/src/images/MOMSI_WG_Logo.jpg" height="350">
 </p>
 
-
+**New Updates Comin Soon!!**
 Welcome to the [Multi-Omics Metadata Standards Integration (MOMSI) Working Group](https://www.rd-alliance.org/groups/multi-omics-metadata-standards-integration-momsi-wg) community-driven Multi-Omics standard landscape review curation workflow and interactive web-based dashboard tool. Explore >250 standards from our Omics Landscape Review (Deliverable 1a) repository containing Multi-omics domain (genomics, proteomics, metabolomics, lipidomics, etc.) and universal (generalist) standards curated by the MOMSI WG. 
 
 ### 🎯 Scope
