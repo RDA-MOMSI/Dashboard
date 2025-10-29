@@ -101,7 +101,7 @@ body:
     id: planning
     attributes:
       label: Planning
-      description: What activity best describes the standard relationship to the [planning]](https://github.com/RDA-MOMSI/Dashboard/blob/main/src/glossary/Planning.md) stage of the research data lifecyce?
+      description: What activity best describes the standard relationship to the [planning](https://github.com/RDA-MOMSI/Dashboard/blob/main/src/glossary/Planning.md) stage of the research data lifecyce?
       options:
         - Experimental Design
         - Computed Analysis Design
