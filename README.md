@@ -30,8 +30,8 @@ This resource supports users interested in Multi-omics data and metadata standar
 
 > [!TIP]
 > **Not sure where to begin?**
-> - Explore [User Journeys](https://rda-momsi.github.io/Dashboard/user-journeys) provided at the dashboard for themed use-cases organized by standard type, research data lifecycle stage, technology application, and/or research subject area classes/subclasses.
-> - Browse [MOMSI Terminology](https://github.com/RDA-MOMSI/Dashboard/tree/main/src/glossary) provided at the dashboard ([search list here](https://rda-momsi.github.io/Dashboard/glossary)) to better understand how terms are defined and applied across curated concepts and data lifecycle categories. MOMSI terms can be used to search standards listed at the dashboard summary table and sorting/filtering standards at our FAIRsharing Collection (see sustainability section below).
+> - Explore [User Journeys](https://rda-momsi.github.io/Dashboard/user-journeys) provided at the dashboard for themed use-cases organized by standard type, research data lifecycle stage, technology application, and/or research subject area classes/subclasses. Themed use-cases link out to supporting FAIRsharing record resources and educational materials at the RDMkit.
+> - Browse [MOMSI Terminology](https://github.com/RDA-MOMSI/Dashboard/tree/main/src/glossary) provided at the dashboard ([search list here](https://rda-momsi.github.io/Dashboard/glossary)) to better understand how terms are defined and applied across curated concepts and data lifecycle categories. MOMSI terms can be used to search standards listed at the dashboard summary table. A portion of these terms can be used for sorting and filtering tagged standards listed at the MOMSI FAIRsharing Collection (see sustainability section below) for targeted subject/domain search and discovery.
 
 
 ## Contributing
