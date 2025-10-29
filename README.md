@@ -31,7 +31,7 @@ This resource supports users interested in Multi-omics data and metadata standar
 > [!TIP]
 > **Not sure where to begin?**
 > - Browse [User Journeys](https://rda-momsi.github.io/Dashboard/user-journeys) linked at the dashboard homepage for themed use-case exploration of Omics standard types, research data lifecycle curations, and core Omics subject area classes/subclasses.
-> - Visit our [MOMSI Terminology](https://rda-momsi.github.io/Dashboard/glossary) linked at the dashboard homepage for curated concepts and terms used to organize and filter the tags listed at the dashboard and at the MOMSI FAIRsharing Collection (see sustainability section below).
+> - Visit our [MOMSI Terminology](https://github.com/RDA-MOMSI/Dashboard/tree/main/src/glossary) linked at the dashboard homepage ([here](https://rda-momsi.github.io/Dashboard/glossary))for curated concepts and terms used to organize and filter the tags listed at the dashboard and at the MOMSI FAIRsharing Collection (see sustainability section below).
 
 
 ## Contributing
