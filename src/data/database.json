@@ -3997,6 +3997,35 @@
       "Standard Name": "Imaging Mass Spectrometry Markup Language",
       "Standard Type": "Model/Format",
       "Status": "Established/Maintained"
+    },
+    {
+      "Standard Type": "Model/Format",
+      "Status": "Established/Maintained",
+      "Country": "Worldwide",
+      "Domain Class/Subclass": "Metabolomics/Lipidomics",
+      "Application Technology": "Mass Spectrometry Imaging (MSI)",
+      "Standard Name": "GeoJSON File Format",
+      "Acronym/Short Name": "RFC 7946",
+      "Planning": "Computed Analysis Design",
+      "Collection": "Data Acquisition",
+      "Processing": "Data Feature Detection/Identification",
+      "Analysis": "Interpretation Analysis",
+      "Preservation": "Metadata Storage",
+      "Sharing": "Repository (machine-readable)",
+      "Reuse": "Conditional based on linked standards",
+      "Meets Criteria": [
+        "Meets criteria for the MOMSI Standards Collection at FAIRsharing"
+      ],
+      "Active Affiliation(s)": "Internet Engineering Task Force (IETF), GeoJSON Working Group",
+      "Homepage": "https://tools.ietf.org/html/rfc7946",
+      "Reference Article Citation (DOI)": "https://doi.org/10.17487/RFC7946",
+      "Reference Source Code (DOI or URL)": "https://github.com/geojson",
+      "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.4d969b",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_M:00052"
     }
   ],
   "proteomics": [
