@@ -772,9 +772,13 @@
             {
               "name": "imzML",
               "count": 1
+            },
+            {
+              "name": "RFC 7946",
+              "count": 1
             }
           ],
-          "count": 21
+          "count": 22
         },
         {
           "name": "Multi-Standard Applicable",
@@ -883,7 +887,7 @@
           "count": 7
         }
       ],
-      "count": 52
+      "count": 53
     },
     {
       "name": "Universal",
@@ -1204,5 +1208,5 @@
       "count": 69
     }
   ],
-  "count": 263
+  "count": 264
 }
