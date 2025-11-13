@@ -2634,7 +2634,7 @@
       "Country": "Worldwide",
       "Domain Class/Subclass": "Metabolomics",
       "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.207caf",
-      "Homepage": "https://hupo-psi.github.io/mzTab/2_0-metabolomics-release/mzTab_format_specification_2_0-M_release.html",
+      "Homepage": "https://github.com/HUPO-PSI/mzTab-M",
       "Identifier": "MOMSI_M:00001",
       "Meets Criteria": "True",
       "Planning": "All of the above",
