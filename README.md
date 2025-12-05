@@ -19,7 +19,7 @@ This repository contains an iterative list of curated controlled vocabularies/on
 
 ### 👥 Usage
 
-This resource supports users interested in Multi-omics data and metadata standards development, integration, and data platform system developments across MOMSI domain subject areas in Genomics, Proteomics, Metabolomics, and Lipidomics corresponding to application technologies in sequencing and mass spectrometry. Our live curation workflow aims to provide expert level (domain-informed) recommendation resources for non-expert professionals tasked with data management planning and forecasting tasks.
+This resource supports users interested in Multi-omics data and metadata standards development, integration, and data platform system developments across MOMSI domain subject areas in Genomics, Proteomics, Metabolomics, Lipidomics, and Phenomics corresponding to application technologies in sequencing, mass spectrometry, and bioimaging. Our live curation workflow aims to provide expert level (domain-informed) recommendation resources for non-expert professionals tasked with data management planning and forecasting tasks.
 
 **Target Audience:**
  - Researchers (data and metadata generators/stewards)
