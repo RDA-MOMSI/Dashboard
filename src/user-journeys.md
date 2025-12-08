@@ -67,7 +67,7 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
 - View [Proteomics Standards](https://fairsharing.org/5742?subjects=proteomics&page=1)
 - View [Metabolomics Standards](https://fairsharing.org/5742?subjects=metabolomics&page=1)
 - View Universal [Omics Standards](https://fairsharing.org/5742?q=Omics) and/or [Subject Agnostic Standards](https://fairsharing.org/5742?q=Subject%20Agnostic)
-- Explore [Standards by Subject Area (C1)](https://rda-momsi.github.io/Dashboard/example-circle) chart.
+- Explore [Standards by Subject Area (C1)](https://rda-momsi.github.io/Dashboard/c1-subject-area) chart.
 
 3. **Browse Standards by MOMSI Subject Area Subclass**
 - View [Transcriptomics Standards](https://fairsharing.org/5742?subjects=transcriptomics&page=1) (Genomics subclass)
@@ -78,7 +78,7 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
 4. **Browse Standards by Domain Application Technology**
 - View Standards linked to [Sequencing](https://fairsharing.org/5742?q=Sequencing)
 - View Standards linked to [Mass spectrometry](https://fairsharing.org/5742?q=Mass%20Spectrometry)
-- Explore [Standards by Technology (C2)](https://rda-momsi.github.io/Dashboard/example-cluster) chart.
+- Explore [Standards by Technology (C2)](https://rda-momsi.github.io/Dashboard/c2-technology) chart.
 
 ### Advanced Journeys
 
@@ -103,7 +103,7 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
    - View standards that are currently still [in development](https://fairsharing.org/5742?page=1&status=in_development).
    - View standards that are [recommended](https://fairsharing.org/5742?page=1&isRecommended=true) by a data policy from a journal, journal publisher or funder.
    - View the [MOMSI collection network graph](https://fairsharing.org/graph/5742) to explore how curation standards are interlinked to databases, standards, and policies.
-   - Explore [Standards by Research Data Lifecycle Stage (C3)](https://rda-momsi.github.io/Dashboard/example-sunburst) chart.
+   - Explore [Standards by Research Data Lifecycle Stage (C3)](https://rda-momsi.github.io/Dashboard/c3-lifecycle-stage) chart.
 
 **References**
 

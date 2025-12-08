@@ -17,7 +17,22 @@ const STANDARDS_AGGREGATION = {
     "count": 0
 }
 
+const UNIPEPT_STANDARDS_AGGREGATION = {
+	"id": 1,
+    "name": "Standards",
+    "children": [],
+    "count": 1,
+	"selfCount": 0,
+	"extra": {
+		"rank": "no rank"
+	}
+}
+
 // FUNCTIONS
+
+function getRandomInt(max = 10000) {
+  return Math.floor(Math.random() * max);
+}
 
 function getUniqueVerboseData(data, multipleField) {
 	// Split values of `multipleField` and regenerate the data
@@ -73,6 +88,8 @@ function getUniqueCycleTerms(data, cycleField, standards = STANDARDS) {
 	}
 	return uniqueCycleTerms
 }
+
+// REBUILD DATA AGGREGATIONS
 
 function rebuildCollapsibleClusterTreeAggregations(data, aggregation = STANDARDS_AGGREGATION) {
 	// Cluster Tree: Standards ["Genomics", "Proteomics / Metabolomics"] -> "Domain Class/Subclass" (split)
@@ -293,6 +310,192 @@ function rebuildBarChartAggregations(data, standards = STANDARDS, standardTypes 
 	return aggregation
 }
 
+// UNIPEPT VISUALISATION DATA NODES
+// https://github.com/unipept/unipept-visualizations/wiki/DataNode
+
+function rebuildUnipeptSunburstAggregations(data, aggregation = UNIPEPT_STANDARDS_AGGREGATION) {
+	// Zoomable sunburst: Data Lifecycle -> Lifecycle Term -> Standards -> Standard Types -> Acronym/Short Name
+	// https://observablehq.com/@d3/zoomable-sunburst
+	// https://observablehq.com/@d3/zoomable-icicle
+	for (const cycle of LIFECYCLE) {
+		const cycleChild = {
+			id: getRandomInt(),
+			name: cycle,
+			children: [],
+			count: 1,
+			selfCount: LIFECYCLE.length,
+			extra: {
+				rank: aggregation.name
+			}
+		}
+		const cycleTerms = getUniqueCycleTerms(data, cycle)
+		for (const cycleTerm of cycleTerms) {
+			const cycleTermChild = {
+				id: getRandomInt(),
+				name: cycleTerm,
+				children: [],
+				count: 1,
+				selfCount: cycleTerms.length,
+				extra: {
+					rank: cycleChild.name
+				}
+			}
+			for (const standard of STANDARDS) {
+				const standardChild = {
+					id: getRandomInt(),
+					name: standard,
+					children: [],
+					count: 1,
+					selfCount: STANDARDS.length,
+					extra: {
+						rank: cycleTermChild.name
+					}
+				}
+				const filteredCycle = data[standard.toLowerCase()].filter((item) => item[cycle] === cycleTerm)
+				// Build the hierarchy: "Standard Type", "Acronym/Short Name"
+				let classTerms = filteredCycle.map(item => item["Standard Type"])
+				let classTermsSeries = [...new Set(classTerms)]
+				for (const classTerm of classTermsSeries) {
+					const classChild = {
+						id: getRandomInt(),
+						name: classTerm,
+						children: [],
+						count: 1,
+						selfCount: classTermsSeries.length,
+						extra: {
+							rank: standardChild.name
+						}
+					}
+					let lowestEntries = Object.entries(getStandardCounts(classTerm, data[standard.toLowerCase()], "Acronym/Short Name"))
+					for (const [k, v] of lowestEntries) {
+						classChild.count += v
+						classChild.children.push({
+							id: getRandomInt(),
+							name: k,
+							count: v,
+							selfCount: lowestEntries.length,
+							extra: {
+								rank: classChild.name
+							}
+						})
+					}
+					standardChild.count += classChild.count
+					standardChild.children.push(classChild)
+				}
+				cycleTermChild.count += standardChild.count
+				cycleTermChild.children.push(standardChild)
+			}
+			cycleChild.count += cycleTermChild.count
+			cycleChild.children.push(cycleTermChild)
+		}
+		aggregation.count += cycleChild.count
+		aggregation.children.push(cycleChild)
+	}
+	return aggregation
+}
+
+function rebuildUnipeptTreeviewAggregations(data, aggregation = STANDARDS_AGGREGATION) {
+	// Cluster Tree: Standards ["Genomics", "Proteomics / Metabolomics"] -> "Domain Class/Subclass" (split)
+	//				 -> Status -> Standard Types -> Acronyms
+	// https://observablehq.com/@d3/collapsible-tree
+	// https://observablehq.com/@d3/cluster/2
+	aggregation.name = "Application Technology"
+	const applicationTechnologyTerms = getUniqueVerboseData(data, "Application Technology")
+	let allTerms = new Set([...["no rank"], ...applicationTechnologyTerms ])
+	for (const appTechTerm of applicationTechnologyTerms) {
+		const appTechChild = {
+			id: getRandomInt(),
+			name: appTechTerm,
+			children: [],
+			count: 1,
+			selfCount: applicationTechnologyTerms.length,
+			extra: {
+				rank: aggregation.name
+			}
+		}
+		const standardTerms = ["Genomics", "Proteomics", "Metabolomics"]
+		allTerms = new Set([...allTerms, ...standardTerms ])
+		for (const standard of standardTerms) {
+			const standardChild = {
+				id: getRandomInt(),
+				name: standard,
+				children: [],
+				count: 1,
+				selfCount: standardTerms.length,
+				extra: {
+					rank: appTechChild.name
+				}
+			}
+			// Build the hierarchy: "Domain Class/Subclass", "Standard Type", "Standard Name"
+			// Filter by "Application Technology"
+			let verboseData = buildVerboseData(data[standard.toLowerCase()], "Application Technology")
+			verboseData = verboseData.filter((item) => item["Application Technology"] === appTechTerm)
+			verboseData = buildVerboseData(verboseData, "Domain Class/Subclass")
+			let classTerms = verboseData.map(item => item["Domain Class/Subclass"])
+			classTerms = [...new Set(classTerms)]
+			allTerms = new Set([...allTerms, ...classTerms ])
+			for (const classTerm of classTerms) {
+				const classChild = {
+					id: getRandomInt(),
+					name: classTerm,
+					children: [],
+					count: 1,
+					selfCount: classTerms.length,
+					extra: {
+						rank: standardChild.name
+					}
+				}
+				const filteredSubClass = verboseData.filter((item) => item["Domain Class/Subclass"] === classTerm)
+				let subClassTerms = filteredSubClass.map(item => item["Standard Type"])
+				subClassTerms = [...new Set(subClassTerms)]
+				allTerms = new Set([...allTerms, ...subClassTerms ])
+				for (const subClassTerm of subClassTerms) {
+					const subClassChild = {
+						id: getRandomInt(),
+						name: subClassTerm,
+						children: [],
+						count: 1,
+						selfCount: subClassTerms.length,
+						extra: {
+							rank: classChild.name
+						}
+					}
+					let subClassChildTerms = Object.entries(getStandardCounts(subClassTerm, filteredSubClass, "Acronym/Short Name"))
+					for (const [k, v] of subClassChildTerms) {
+						subClassChild.count += v
+						subClassChild.children.push({
+							id: getRandomInt(),
+							name: k,
+							count: v,
+							selfCount: subClassChildTerms.length,
+							extra: {
+								rank: subClassChild.name
+							}
+						})
+					}
+					if (subClassChild.count) {
+						classChild.count += subClassChild.count
+						classChild.children.push(subClassChild)
+					}
+				}
+				if (classChild.count) {
+					standardChild.count += classChild.count
+					standardChild.children.push(classChild)
+				}
+			}
+			if (standardChild.count) {
+				appTechChild.count += standardChild.count
+				appTechChild.children.push(standardChild)
+			}
+		}
+		if (appTechChild.count) {
+			aggregation.count += appTechChild.count
+			aggregation.children.push(appTechChild)
+		}
+	}
+	return aggregation
+}
+
 // BUILD VISUALISATION AGGREGATIONS
 
 let aggregation
@@ -308,3 +511,11 @@ fs.writeFileSync('./src/data/cluster-chart.json', JSON.stringify(aggregation, nu
 
 aggregation = rebuildBarChartAggregations(data, STANDARDS, STANDARDTYPES)
 fs.writeFileSync('./src/data/standards-bar-chart.json', JSON.stringify(aggregation, null, '  '));
+
+// BUILD UNIPEPT VISUALISATION AGGREGATIONS
+
+aggregation = rebuildUnipeptSunburstAggregations(data, structuredClone(UNIPEPT_STANDARDS_AGGREGATION))
+fs.writeFileSync('./src/data/unipept-sunburst-chart.json', JSON.stringify(aggregation, null, '  '));
+
+aggregation = rebuildUnipeptTreeviewAggregations(data, structuredClone(UNIPEPT_STANDARDS_AGGREGATION))
+fs.writeFileSync('./src/data/unipept-treeview-chart.json', JSON.stringify(aggregation, null, '  '));
