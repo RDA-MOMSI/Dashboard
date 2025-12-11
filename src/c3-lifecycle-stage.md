@@ -41,7 +41,14 @@ _See a lifecycle relationship that is missing or needs to be updated? Data lifec
               let numberFormat = d3.format(",d");
               let style = `
               <style>
+                .tip, .tip::before, .tip[label]::before {
+                  all: unset;
+                }
                 .unipept-tooltip {
+                    padding: 10px;
+                    border-radius: 5px; 
+                    background: rgba(0, 0, 0, 0.8); 
+                    color: #fff;
                     font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
                 }
                 .unipept-tooltip div {
