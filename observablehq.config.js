@@ -13,10 +13,10 @@ export default {
         {name: "Contributing Guidance", path: "/contributing"},
         {name: "User Journey Examples", path: "/user-journeys"},
         {name: "MOMSI Terminology", path: "/glossary"},
-        {name: "Standards by Subject Area (C1)", path: "/example-circle"},
-        {name: "Standards by Technology (C2)", path: "/example-cluster"},
-        {name: "Standards by Lifecycle Stage (C3)", path: "/example-sunburst"},
-        {name: "Standards by Lifecycle Stage (C4)", path: "/example-icicle"}
+        {name: "Standards by Subject Area (C1)", path: "/c1-subject-area"},
+        {name: "Standards by Technology (C2)", path: "/c2-technology"},
+        {name: "Standards by Lifecycle Stage (C3)", path: "/c3-lifecycle-stage"},
+        {name: "Standards by Lifecycle Stage (C4)", path: "/c4-lifecycle-stage"}
       ]
     }
   ],

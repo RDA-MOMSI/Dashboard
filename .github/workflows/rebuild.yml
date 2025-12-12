@@ -29,6 +29,8 @@ jobs:
                   git add ./src/data/cluster-chart.json && \
                   git add ./src/data/standards-bar-chart.json && \
                   git add ./src/data/sunburst-chart.json && \
+                  git add ./src/data/unipept-sunburst-chart.json && \
+                  git add ./src/data/unipept-treeview-chart.json && \
                   git commit -m 'Update Dashboard' && \
                   git push
 
@@ -43,8 +45,12 @@ jobs:
                 node-version: '20' 
                 cache: "yarn"
 
-            - name: Install dependencies
+            - name: Install external dependencies
               run: yarn --frozen-lockfile
+
+            - name: Copy repo dependencies
+              shell: bash
+              run: mkdir -p ./dist/dependencies/ && cp -r ./src/dependencies/* ./dist/dependencies/
               
             - name: Build
               run: yarn run build
