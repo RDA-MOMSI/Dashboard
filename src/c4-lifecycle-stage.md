@@ -67,10 +67,13 @@ This variant of an icicle diagram shows only three layers of the hierarchy at a 
       document.getElementById("chartView"),
       data,
       {
-          width,
-          height,
-          levels: ranks.length,
-          getLevel: (d) => ranks.indexOf(d.data.extra.rank)
+        getTooltip: (d) => {
+          return `<div class="unipept-tooltip"><h6>${d.name}</h6></div>`;
+        },
+        width,
+        height,
+        levels: ranks.length,
+        getLevel: (d) => ranks.indexOf(d.data.extra.rank)
       }
   )
 

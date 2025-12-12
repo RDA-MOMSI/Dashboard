@@ -20,6 +20,10 @@ h6 {
   text-decoration: underline;
 }
 
+.tip, .tip::before, .tip[label]::before {
+	all: unset;
+}
+
 .logos .footer-logos {
 	display: flex;
 	font-family: var(--sans-serif);
@@ -102,6 +106,28 @@ blockquote p {
 	text-align: center;
 	justify-center: center; /* Align horizontal */
 	align-items: center; /* Align vertical */
+}
+
+.unipept-tooltip {
+	padding: 10px;
+	border-radius: 5px; 
+	background: rgba(0, 0, 0, 0.8); 
+	color: #fff;
+}
+
+.unipept-tooltip h6 { 
+	margin: 0;
+	padding: 0;
+	max-width: none;
+	font-size: 18px;
+	font-weight: 700;
+	color: #fff;
+}
+
+.unipept-tooltip p {
+	margin: 0;
+	padding: 0;
+	color: #fff;
 }
 
 @media (min-width: 640px) {

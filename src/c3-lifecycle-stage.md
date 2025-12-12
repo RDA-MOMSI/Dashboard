@@ -39,24 +39,16 @@ _See a lifecycle relationship that is missing or needs to be updated? Data lifec
       {
           getTooltip: (d) => {
               let numberFormat = d3.format(",d");
-              let style = `
-              <style>
-                .tip, .tip::before, .tip[label]::before {
-                  all: unset;
-                }
-                .unipept-tooltip {
-                    padding: 10px;
-                    border-radius: 5px; 
-                    background: rgba(0, 0, 0, 0.8); 
-                    color: #fff;
-                    font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-                }
-                .unipept-tooltip div {
-                    font-weight: bold;
-                }
-              </style>
+              let response = `
+                <div class="unipept-tooltip">
+                  <h6>${d.name}</h6>
+                  ${d.children && d.children.length ? 
+                    "<p>" + numberFormat(!d.count ? "0" : d.count) + (d.count && d.count === 1 ? " standard" : " standards") + " specific to this level or lower</p>"
+                    : ""
+                  }
+                </div>
               `
-              return `${style}<div class="unipept-tooltip"><div>${d.name}</div>` + '<a>' + numberFormat(!d.count ? "0" : d.count) + (d.count && d.count === 1 ? " standard" : " standards") + " specific to this level or lower" + "</a></div>";
+              return response;
           },
           width,
           height,
