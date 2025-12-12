@@ -56,7 +56,7 @@ This repository is maintained by the MOMSI WG co-chairs. Co-chair duties include
 As part of our sustainability workflow and long-term maintenance plan this repository was established to provide a transparent method for sharing expert-level information with non-expert users. Expert curated Multi-Omics standards, originally captured in a Google Sheet, now available in a machine-actionable and version controlled environment, enables open-access to live curated WG deliverables for continuous update by the scientific community as future standards evolve. This repository serves as the first step in our sustainability workflow process for downstream inclusion at our [MOMSI FAIRsharing Collection](https://doi.org/10.25504/FAIRsharing.2fa4fb), in collaboration with the RDA FAIRsharing WG.
 
 <p align="center">
-  <img src="https://github.com/RDA-MOMSI/Dashboard/blob/main/src/images/Deliverables_Workflow_Revised.png" height="500">
+  <img src="https://github.com/RDA-MOMSI/Dashboard/blob/main/src/images/Deliverables_Workflow_Revised.jpg" height="500">
 </p>
 
 
