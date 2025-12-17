@@ -92,7 +92,7 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
 - View Standards linked to [Data Collection](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?domains=data%2520collection) activities
 - View Standards linked to [Data Processing](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?domains=data%2520processing) activities
 - View Standards linked to [Data Analysis](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?domains=data%2520analysis) activities
-- Explore [Standards by Technology (C3)](https://rda-momsi.github.io/Dashboard/c3-lifecycle-stage) at the dashboard
+- Explore [Standards by Lifecycle Stage (C3)](https://rda-momsi.github.io/Dashboard/c3-lifecycle-stage) at the dashboard
 
 
 ### Advanced Journeys
