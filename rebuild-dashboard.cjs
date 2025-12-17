@@ -473,22 +473,22 @@ function rebuildUnipeptTreeviewAggregations(data, aggregation = STANDARDS_AGGREG
 							}
 						})
 					}
-					if (subClassChild.count) {
+					if (subClassChild.children.length) {
 						classChild.count += subClassChild.count
 						classChild.children.push(subClassChild)
 					}
 				}
-				if (classChild.count) {
+				if (classChild.children.length) {
 					standardChild.count += classChild.count
 					standardChild.children.push(classChild)
 				}
 			}
-			if (standardChild.count) {
+			if (standardChild.children.length) {
 				appTechChild.count += standardChild.count
 				appTechChild.children.push(standardChild)
 			}
 		}
-		if (appTechChild.count) {
+		if (appTechChild.children.length) {
 			aggregation.count += appTechChild.count
 			aggregation.children.push(appTechChild)
 		}
