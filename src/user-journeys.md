@@ -56,29 +56,36 @@ _Note: If you notice a standard is missing from the output results listed under 
 
 See example queries below for a few ways to browse MOMSI WG standards aligned to your interest from our collection.
 
-1. **Browse Standards by FAIRsharing Standard Type**
-- View [Terminology Artefacts](https://fairsharing.org/5742?recordType=terminology_artefact&page=1)
-- View [Reporting Guidelines](https://fairsharing.org/5742?page=1&recordType=reporting_guideline)
-- View [Models/Formats](https://fairsharing.org/5742?page=1&recordType=model_and_format)
-- View [Identifier Schemas](https://fairsharing.org/5742?page=1&recordType=identifier_schema)
+1. **Browse by Standard Type(s)**
+- View [Terminology Artefacts](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?recordType=terminology_artefact)
+- View [Reporting Guidelines](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?recordType=reporting_guideline)
+- View [Models/Formats](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?recordType=model_and_format)
+- View [Identifier Schemas](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?recordType=identifier_schema)
 
-2. **Browse Standards by MOMSI Subject Area Class**
-- View [Genomics Standards](https://fairsharing.org/5742?subjects=genomics&page=1)
-- View [Proteomics Standards](https://fairsharing.org/5742?subjects=proteomics&page=1)
-- View [Metabolomics Standards](https://fairsharing.org/5742?subjects=metabolomics&page=1)
-- View Universal [Omics Standards](https://fairsharing.org/5742?q=Omics) and/or [Subject Agnostic Standards](https://fairsharing.org/5742?q=Subject%20Agnostic)
-- Explore [Standards by Subject Area (C1)](https://rda-momsi.github.io/Dashboard/c1-subject-area) chart.
+2. **Browse by Subject Area Class**
+- View [Genomics Standards](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?subjects=genomics)
+- View [Proteomics Standards](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?subjects=proteomics)
+- View [Metabolomics Standards](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?subjects=metabolomics)
+- View Universal [Omics Standards](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?subjects=Omics) and/or [Subject Agnostic Standards](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?subjects=Subject%20Agnostic)
+- Explore [Standards by Subject Area (C1)](https://rda-momsi.github.io/Dashboard/c1-subject-area) at the dashboard
 
-3. **Browse Standards by MOMSI Subject Area Subclass**
-- View [Transcriptomics Standards](https://fairsharing.org/5742?subjects=transcriptomics&page=1) (Genomics subclass)
-- View [Epigenomics Standards](https://fairsharing.org/5742?subjects=epigenomics&page=1) (Genomics subclass)
-- View [Metaproteomics Standards](https://fairsharing.org/5742?subjects=metaproteomics&page=1) (Proteomics subclass)
-- View [Lipidomics Standards](https://fairsharing.org/5742?subjects=lipidomics&page=1) (Metabolomics subclass)
+3. **Browse by Subject Area Subclass**
+- View [Transcriptomics Standards](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?subjects=transcriptomics)
+- View [Epigenomics Standards](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?subjects=epigenomics)
+- View [Metaproteomics Standards](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?subjects=metaproteomics)
+- View [Lipidomics Standards](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?subjects=lipidomics)
 
-4. **Browse Standards by Domain Application Technology**
-- View Standards linked to [Sequencing](https://fairsharing.org/5742?q=Sequencing)
-- View Standards linked to [Mass spectrometry](https://fairsharing.org/5742?q=Mass%20Spectrometry)
-- Explore [Standards by Technology (C2)](https://rda-momsi.github.io/Dashboard/c2-technology) chart.
+4. **Browse by Domain Technology**
+- View Standards linked to [Sequencing](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?domains=next%2520generation%2520sequencing)
+- View Standards linked to [Mass spectrometry](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?domains=mass%2520spectrometry%2520assay)
+- Explore [Standards by Technology (C2)](https://rda-momsi.github.io/Dashboard/c2-technology) at the dashboard
+
+5. **Browse by Object Type**
+- View Standards linked to a [Dataset](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?objectTypes=dataset)
+- View Standards linked to a [Model](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?objectTypes=model)
+- View Standards linked to a [Image](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?objectTypes=image)
+- View Standards linked to a [Terminology Artifact](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?objectTypes=terminology%2520artifact)
+- View Standards linked to a [Data Mangagement Plan](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?objectTypes=data_management_plan)
 
 ### Advanced Journeys
 
