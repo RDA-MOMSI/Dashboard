@@ -109,7 +109,7 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
   
    - View Identifier Schema examples representing Universal (generalist) standard curations for [DOI](https://doi.org/10.25504/FAIRsharing.hFLKCn), [CURIE](https://doi.org/10.25504/FAIRsharing.af21db), [ORCID](https://doi.org/10.25504/FAIRsharing.OrNi1L) **vs.** Omics Domain representative examples such as [Biosample ID](https://doi.org/10.25504/FAIRsharing.322dc0), [UniProt ID](https://doi.org/10.25504/FAIRsharing.fd6003), [InChI](https://doi.org/10.25504/FAIRsharing.ddk9t9).
 
-2. **Browse by Selection Criteria Status **
+2. **Browse by Standard Selection Criteria Status**
 
     _Note: render times for each query may take a few minutes based on the size and complexity of the established relationships._
 
