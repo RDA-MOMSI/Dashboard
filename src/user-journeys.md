@@ -85,13 +85,21 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
 - View Standards linked to a [Model](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?objectTypes=model)
 - View Standards linked to a [Image](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?objectTypes=image)
 - View Standards linked to a [Terminology Artifact](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?objectTypes=terminology%2520artifact)
-- View Standards linked to a [Data Mangagement Plan](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?objectTypes=data_management_plan)
+- View Standards linked to a [Data Management Plan](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?objectTypes=data_management_plan)
+
+5. **Browse by Data Lifecycle Stage Activities**
+- View Standards linked to [Experimental Design](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?domains=data%2520collection) activities
+- View Standards linked to [Data Collection](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?domains=data%2520collection) activities
+- View Standards linked to [Data Processing](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?domains=data%2520processing) activities
+- View Standards linked to [Data Analysis](https://fairsharing.org/10.25504/FAIRsharing.2fa4fb?domains=data%2520analysis) activities
+- Explore [Standards by Technology (C3)](https://rda-momsi.github.io/Dashboard/c3-lifecycle-stage) at the dashboard
+
 
 ### Advanced Journeys
 
 "Advanced" journeys provide a more in-depth view of standards listed across multiple Omics domains and standard types curated at the dashboard and listed at our collection. See "FAIRsharing content: standards overview" and "FAIR Principles in a nutshell" to learn more about how combined Omics standards and Universal standards can support FAIR research developments.
 
-1. **Browse MOMSI Curations by Domain vs. Universal Standard Types**
+1. **Browse Domain Standards Types vs. Universal (FAIR-informed) Standard Types**
 
    - View Terminology Artefacts examples representing Universal (generalist) standard curations relevant to Omics for [BFO](https://doi.org/10.25504/FAIRsharing.wcpd6f), [T4FS](https://doi.org/10.25504/FAIRsharing.fb99fa), [EDAM](https://doi.org/10.25504/FAIRsharing.a6r7zs) **vs.** Omics Domain representative examples such as [EFO](https://doi.org/10.25504/FAIRsharing.1gr4tz), [PSI-MS CV](https://doi.org/10.25504/FAIRsharing.sxh2dp), [XLMOD](https://doi.org/10.25504/FAIRsharing.6ccbe6).
   
@@ -101,22 +109,19 @@ See example queries below for a few ways to browse MOMSI WG standards aligned to
   
    - View Identifier Schema examples representing Universal (generalist) standard curations for [DOI](https://doi.org/10.25504/FAIRsharing.hFLKCn), [CURIE](https://doi.org/10.25504/FAIRsharing.af21db), [ORCID](https://doi.org/10.25504/FAIRsharing.OrNi1L) **vs.** Omics Domain representative examples such as [Biosample ID](https://doi.org/10.25504/FAIRsharing.322dc0), [UniProt ID](https://doi.org/10.25504/FAIRsharing.fd6003), [InChI](https://doi.org/10.25504/FAIRsharing.ddk9t9).
 
-2. **Browse MOMSI Curations by Relevant Submission Criteria**
+2. **Browse by Selection Criteria Status **
 
     _Note: render times for each query may take a few minutes based on the size and complexity of the established relationships._
 
-   - View standards affiliated efforts by the [Genomic Standards Consortium (GSC)](https://fairsharing.org/5742?page=1&organisations=genomic%2520standards%2520consortium), [European Bioinformatics Institute (EBI)](https://fairsharing.org/5742?page=1&organisations=european%2520bioinformatics%2520institute), [HUPO Proteomics Standards Initiative (HUPO-PSI)](https://fairsharing.org/5742?page=1&organisations=proteomics%2520standards%2520initiative%2520%28psi%29%2520-%2520human%2520proteomics%2520organisation%2520%28hupo%29), or the [International Organization for Standardization (ISO)](https://fairsharing.org/5742?page=1&organisations=international%2520organization%2520for%2520standardization%2520%28iso%29).
    - View standards being [actively maintained](https://fairsharing.org/5742?page=1&isMaintained=true) by corresponding affiliated organizations.
    - View standards that are currently still [in development](https://fairsharing.org/5742?page=1&status=in_development).
    - View standards that are [recommended](https://fairsharing.org/5742?page=1&isRecommended=true) by a data policy from a journal, journal publisher or funder.
    - View the [MOMSI collection network graph](https://fairsharing.org/graph/5742) to explore how curation standards are interlinked to databases, standards, and policies.
-   - Explore [Standards by Research Data Lifecycle Stage (C3)](https://rda-momsi.github.io/Dashboard/c3-lifecycle-stage) chart.
 
-**References**
+
+**Related References**
 
 1. RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences URL: [https://rdmkit.elixir-europe.org](https://rdmkit.elixir-europe.org/) (Accessed 2025-04-12).
-2. Anderson, L., Van Den Bossche, T., & Papadopoulou, A. (2024, November 14). Evaluating Multi-Omics Data Standard Integration Challenges and Building Solutions. The Research Data Alliance's 23rd Plenary Meeting (RDA P23), San José, Costa Rica. Zenodo. https://doi.org/10.5281/zenodo.14187653
-3. Sansone, SA., McQuilton, P., Rocca-Serra, P. _et al._ FAIRsharing as a community approach to standards, repositories and policies. _Nat Biotechnol_ 37, 358–367 (2019). https://doi.org/10.1038/s41587-019-0080-8
-4. Allyson Lister, & Susanna-Assunta Sansone. (2023, July 28). FAIRsharing in a nutshell. Zenodo. https://doi.org/10.5281/zenodo.8191958
-5. Malin Sandström, Allyson Lister, & Susanna-Assunta Sansone. (2023, July 26). FAIRsharing content: standards overview. Zenodo. https://doi.org/10.5281/zenodo.8186982
-6. Lister, A., Sansone, S.-A., & Rocca-Serra, P. (2024, June 19). FAIR Principles in a nutshell. Zenodo. https://doi.org/10.5281/zenodo.12167786
+2. Sansone, SA., McQuilton, P., Rocca-Serra, P. _et al._ FAIRsharing as a community approach to standards, repositories and policies. _Nat Biotechnol_ 37, 358–367 (2019). https://doi.org/10.1038/s41587-019-0080-8
+3. Malin Sandström, Allyson Lister, & Susanna-Assunta Sansone. (2023, July 26). FAIRsharing content: standards overview. Zenodo. https://doi.org/10.5281/zenodo.8186982
+
