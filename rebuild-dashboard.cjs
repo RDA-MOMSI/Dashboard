@@ -24,7 +24,8 @@ const UNIPEPT_STANDARDS_AGGREGATION = {
     "count": 1,
 	"selfCount": 0,
 	"extra": {
-		"rank": "no rank"
+		"rank": "no rank",
+		"tooltext": "research data management lifecycle stages"
 	}
 }
 
@@ -325,7 +326,8 @@ function rebuildUnipeptSunburstAggregations(data, aggregation = UNIPEPT_STANDARD
 			count: 1,
 			selfCount: LIFECYCLE.length,
 			extra: {
-				rank: aggregation.name
+				rank: aggregation.name,
+				tooltext: "stages"
 			}
 		}
 		const cycleTerms = getUniqueCycleTerms(data, cycle)
@@ -337,7 +339,8 @@ function rebuildUnipeptSunburstAggregations(data, aggregation = UNIPEPT_STANDARD
 				count: 1,
 				selfCount: cycleTerms.length,
 				extra: {
-					rank: cycleChild.name
+					rank: cycleChild.name,
+					tooltext: "subclass activities"
 				}
 			}
 			for (const standard of STANDARDS) {
@@ -348,7 +351,8 @@ function rebuildUnipeptSunburstAggregations(data, aggregation = UNIPEPT_STANDARD
 					count: 1,
 					selfCount: STANDARDS.length,
 					extra: {
-						rank: cycleTermChild.name
+						rank: cycleTermChild.name,
+						tooltext: "domains"
 					}
 				}
 				const filteredCycle = data[standard.toLowerCase()].filter((item) => item[cycle] === cycleTerm)
@@ -363,7 +367,8 @@ function rebuildUnipeptSunburstAggregations(data, aggregation = UNIPEPT_STANDARD
 						count: 1,
 						selfCount: classTermsSeries.length,
 						extra: {
-							rank: standardChild.name
+							rank: standardChild.name,
+							tooltext: "types"
 						}
 					}
 					let lowestEntries = Object.entries(getStandardCounts(classTerm, data[standard.toLowerCase()], "Acronym/Short Name"))

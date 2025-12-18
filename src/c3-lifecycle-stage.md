@@ -43,7 +43,7 @@ _See a lifecycle relationship that is missing or needs to be updated? Data lifec
                 <div class="unipept-tooltip">
                   <h6>${d.name}</h6>
                   ${d.children && d.children.length ? 
-                    "<p>" + numberFormat(!d.count ? "0" : d.count) + (d.count && d.count === 1 ? " standard" : " standards") + " specific to this level or lower</p>"
+                    "<p>" + numberFormat(!d.count ? "0" : d.count) + (d.count && d.count === 1 ? " standard" : " standards") + " specific to all " + d.extra.tooltext +" or lower</p>"
                     : ""
                   }
                 </div>
