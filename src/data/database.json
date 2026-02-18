@@ -5316,6 +5316,35 @@
       "CRediT": "Data curation; Writing - original draft",
       "Contributor": "lnanderson",
       "Identifier": "MOMSI_P:00045"
+    },
+    {
+      "Standard Type": "Model/Format",
+      "Status": "Established/Maintained",
+      "Country": "Worldwide",
+      "Domain Class/Subclass": "Proteomics",
+      "Application Technology": "Mass Spectrometry (general)",
+      "Standard Name": "mzPEAK File Format",
+      "Acronym/Short Name": "mzPEAK",
+      "Planning": "Computed Analysis Design",
+      "Collection": "All of the above",
+      "Processing": "Metadata Collection",
+      "Analysis": "Interpretation Analysis",
+      "Preservation": "Data (raw, processed, generated) Storage",
+      "Sharing": "Knowledgebase (machine-readable)",
+      "Reuse": "Conditional based on linked standards",
+      "Meets Criteria": [
+        "Meets criteria for the MOMSI Standards Collection at FAIRsharing"
+      ],
+      "Active Affiliation(s)": "HUPO - Proteomics Standards Initiative",
+      "Homepage": "https://www.psidev.info/mzpeak",
+      "Reference Article Citation (DOI)": "https://doi.org/10.1021/acs.jproteome.5c00435",
+      "Reference Source Code (DOI or URL)": "https://github.com/HUPO-PSI/mzPeak",
+      "FAIRsharing Record (DOI or URL)": "https://fairsharing.org/7741",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_P:00046"
     }
   ],
   "universal": [

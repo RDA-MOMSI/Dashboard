@@ -51,3 +51,4 @@ _The below contributor fields are documented for all merged community contributi
 | #10 | 2025-07-29  | Lindsey N. Anderson | `0000-0002-8741-7823` | Data curation; Writing - original draft | MOMSI_U:00067 | [@lnanderson](https://github.com/lnanderson) |
 | #12 | 2025-09-03  | Lindsey N. Anderson | `0000-0002-8741-7823` | Data curation; Writing - original draft | MOMSI_U:00068 | [@lnanderson](https://github.com/lnanderson) |
 | #13 | 2025-10-30  | Lindsey N. Anderson | `0000-0002-8741-7823` | Data curation; Writing - original draft | MOMSI_M:00052 | [@lnanderson](https://github.com/lnanderson) |
+| #16 | 2026-02-18  | Lindsey N. Anderson | `0000-0002-8741-7823` | Data curation; Writing - original draft | MOMSI_P:00046 | [@lnanderson](https://github.com/lnanderson) |
