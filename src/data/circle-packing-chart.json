@@ -542,9 +542,13 @@
             {
               "name": "MassQL",
               "count": 1
+            },
+            {
+              "name": "mzPEAK",
+              "count": 1
             }
           ],
-          "count": 18
+          "count": 19
         },
         {
           "name": "Identifier Schema",
@@ -639,7 +643,7 @@
           "count": 16
         }
       ],
-      "count": 46
+      "count": 47
     },
     {
       "name": "Metabolomics",
@@ -1208,5 +1212,5 @@
       "count": 69
     }
   ],
-  "count": 264
+  "count": 265
 }

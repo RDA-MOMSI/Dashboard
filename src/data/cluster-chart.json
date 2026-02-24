@@ -996,9 +996,13 @@
                     {
                       "name": "PRIDE-XML",
                       "count": 1
+                    },
+                    {
+                      "name": "mzPEAK",
+                      "count": 1
                     }
                   ],
-                  "count": 15
+                  "count": 16
                 },
                 {
                   "name": "Identifier Schema",
@@ -1065,7 +1069,7 @@
                   "count": 10
                 }
               ],
-              "count": 32
+              "count": 33
             },
             {
               "name": "Metaproteomics",
@@ -1152,7 +1156,7 @@
               "count": 15
             }
           ],
-          "count": 58
+          "count": 59
         },
         {
           "name": "Metabolomics",
@@ -1489,7 +1493,7 @@
           "count": 55
         }
       ],
-      "count": 113
+      "count": 114
     },
     {
       "name": "Ion Mobility Mass Spectrometry (IM-MS)",
@@ -1672,5 +1676,5 @@
       "count": 2
     }
   ],
-  "count": 248
+  "count": 249
 }
