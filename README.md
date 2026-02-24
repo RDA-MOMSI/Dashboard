@@ -100,7 +100,7 @@ For reuse and citation of all code releases contained at this repository, please
 
 ### 🎁 Funding
 
-A portion of this work was funded under the European Union's Horizon Europe Framework Programme under the project grant agreement No. 101094406. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+A portion of this work was funded under the European Union's Horizon Europe Framework Programme under the project grant agreement No. [101094406](https://doi.org/10.3030/101094406). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
 
 ### 🙌 Acknowledgements
 
