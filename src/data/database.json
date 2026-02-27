@@ -433,7 +433,7 @@
       "Status": "In Development"
     },
     {
-      "Acronym/Short Name": "WGS",
+      "Acronym/Short Name": "WGS QC",
       "Active Affiliation(s)": "Global Alliance for Genomics and Health (GA4GH)",
       "Analysis": "All of the above",
       "Application Technology": "High-Throughput Sequencing",
@@ -455,7 +455,7 @@
       "Reference Source Code (DOI or URL)": "https://github.com/ga4gh/quality-control-wgs",
       "Reuse": "Required for Reuse",
       "Sharing": "All of the above",
-      "Standard Name": "WGS Quality Control Standards",
+      "Standard Name": "GA4GH Quality Control of Whole Genome Sequencing Standards",
       "Standard Type": "Multi-Standard Applicable",
       "Status": "In Development"
     },
