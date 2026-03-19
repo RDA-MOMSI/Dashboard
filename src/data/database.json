@@ -2591,6 +2591,35 @@
       "CRediT": "Data curation; Writing - original draft",
       "Contributor": "lnanderson",
       "Identifier": "MOMSI_G:00095"
+    },
+    {
+      "Standard Type": "Reporting Guideline",
+      "Status": "Established",
+      "Country": "Worldwide",
+      "Domain Class/Subclass": "Multi-omics Applicable",
+      "Application Technology": "Sequencing (general)",
+      "Standard Name": "Standards for Technical Reporting in Environmental and host-Associated Microbiome Studies",
+      "Acronym/Short Name": "STREAMS",
+      "Planning": "All of the above",
+      "Collection": "Sample Preparation",
+      "Processing": "Metadata Collection",
+      "Analysis": "Other",
+      "Preservation": "Data (raw, processed, generated) Storage",
+      "Sharing": "Article (human-readable)",
+      "Reuse": "Conditional based on linked standards",
+      "Meets Criteria": [
+        "Meets criteria for the MOMSI Standards Collection at FAIRsharing"
+      ],
+      "Active Affiliation(s)": "The STREAMS Consortium",
+      "Homepage": "http://streamsmicrobiome.org",
+      "Reference Article Citation (DOI)": "https://doi.org/10.1038/s41564-025-02186-2",
+      "Reference Source Code (DOI or URL)": "https://doi.org/10.5281/zenodo.15014818",
+      "FAIRsharing Record (DOI or URL)": "https://fairsharing.org/7593",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_G:00096"
     }
   ],
   "metabolomics": [
