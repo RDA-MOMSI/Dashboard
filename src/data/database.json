@@ -5035,7 +5035,7 @@
       "Sharing": "Repository (machine-readable)",
       "Standard Name": "PRIDE XML Format",
       "Standard Type": "Model/Format",
-      "Status": "Established/Maintained"
+      "Status": "Deprecated"
     },
     {
       "Acronym/Short Name": "PXD ID",
