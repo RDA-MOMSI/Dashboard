@@ -374,9 +374,13 @@
             {
               "name": "MIAPPE",
               "count": 1
+            },
+            {
+              "name": "STREAMS",
+              "count": 1
             }
           ],
-          "count": 29
+          "count": 30
         },
         {
           "name": "Multi-Standard Applicable",
@@ -419,7 +423,7 @@
           "count": 6
         }
       ],
-      "count": 96
+      "count": 97
     },
     {
       "name": "Proteomics",
@@ -1212,5 +1216,5 @@
       "count": 69
     }
   ],
-  "count": 265
+  "count": 266
 }

@@ -464,9 +464,13 @@
                     {
                       "name": "MIAPPE",
                       "count": 1
+                    },
+                    {
+                      "name": "STREAMS",
+                      "count": 1
                     }
                   ],
-                  "count": 4
+                  "count": 5
                 },
                 {
                   "name": "Terminology Artefact",
@@ -491,7 +495,7 @@
                   "count": 4
                 }
               ],
-              "count": 15
+              "count": 16
             },
             {
               "name": "Epigenomics",
@@ -558,10 +562,10 @@
               "count": 10
             }
           ],
-          "count": 109
+          "count": 110
         }
       ],
-      "count": 109
+      "count": 110
     },
     {
       "name": "Array Sequencing",
@@ -1676,5 +1680,5 @@
       "count": 2
     }
   ],
-  "count": 249
+  "count": 250
 }
