@@ -110,8 +110,8 @@
       "resourceTypeGeneral": "Text"
     },
     {
-      "relatedIdentifier": "https://fairsharing.org/5742",
-      "relatedIdentifierType": "URL",
+      "relatedIdentifier": "https://doi.org/10.25504/FAIRsharing.2fa4fb",
+      "relatedIdentifierType": "DOI",
       "relationType": "IsContinuedBy",
       "resourceTypeGeneral": "Text"
     },
