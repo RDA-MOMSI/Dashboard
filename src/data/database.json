@@ -4055,6 +4055,35 @@
       "CRediT": "Data curation; Writing - original draft",
       "Contributor": "lnanderson",
       "Identifier": "MOMSI_M:00052"
+    },
+    {
+      "Standard Type": "Identifier Schema",
+      "Status": "Established/Maintained",
+      "Country": "United States",
+      "Domain Class/Subclass": "Multi-omics Applicable",
+      "Application Technology": "Mass Spectrometry (general)",
+      "Standard Name": "The Spectral Hash Identifier",
+      "Acronym/Short Name": "SPLASH",
+      "Planning": "Computed Analysis Design",
+      "Collection": "N/A",
+      "Processing": "Data Feature Detection/Identification",
+      "Analysis": "Interpretation Analysis",
+      "Preservation": "Data (raw, processed, generated) Storage",
+      "Sharing": "Knowledgebase (machine-readable)",
+      "Reuse": "Not Required for Reuse",
+      "Meets Criteria": [
+        "Meets criteria for the MOMSI Standards Collection at FAIRsharing"
+      ],
+      "Active Affiliation(s)": "MassBank of North America (MoNA)",
+      "Homepage": "https://splash.fiehnlab.ucdavis.edu",
+      "Reference Article Citation (DOI)": "https://doi.org/10.1038/nbt.3689",
+      "Reference Source Code (DOI or URL)": "https://github.com/berlinguyinca/spectra-hash",
+      "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.f31b8f",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_M:00053"
     }
   ],
   "proteomics": [
