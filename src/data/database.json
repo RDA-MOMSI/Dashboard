@@ -5289,7 +5289,7 @@
       "Sharing": "Repository (machine-readable)",
       "Standard Name": "Imaging Mass Spectrometry Markup Language",
       "Standard Type": "Model/Format",
-      "Status": "Established/Maintained"
+      "Status": "Deprecated"
     },
     {
       "Acronym/Short Name": "MassIVE.Quant",
