@@ -1105,7 +1105,7 @@
       "Sharing": "All of the above",
       "Standard Name": "PLINK pedigree/phenotype information",
       "Standard Type": "Model/Format",
-      "Status": "Established/Maintained"
+      "Status": "Deprecated"
     },
     {
       "Acronym/Short Name": "SBML",
