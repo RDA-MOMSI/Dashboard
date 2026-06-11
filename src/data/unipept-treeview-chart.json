@@ -3,23 +3,23 @@
   "name": "Application Technology",
   "children": [
     {
-      "id": 568,
+      "id": 2140,
       "name": "Sequencing (general)",
       "children": [
         {
-          "id": 793,
+          "id": 1810,
           "name": "Genomics",
           "children": [
             {
-              "id": 9539,
+              "id": 4362,
               "name": "Genomics",
               "children": [
                 {
-                  "id": 490,
+                  "id": 5758,
                   "name": "Terminology Artefact",
                   "children": [
                     {
-                      "id": 9911,
+                      "id": 7242,
                       "name": "SO",
                       "count": 1,
                       "selfCount": 4,
@@ -28,7 +28,7 @@
                       }
                     },
                     {
-                      "id": 7710,
+                      "id": 1584,
                       "name": "GECKO",
                       "count": 1,
                       "selfCount": 4,
@@ -37,7 +37,7 @@
                       }
                     },
                     {
-                      "id": 4442,
+                      "id": 9485,
                       "name": "ORNASEQ",
                       "count": 1,
                       "selfCount": 4,
@@ -46,7 +46,7 @@
                       }
                     },
                     {
-                      "id": 5764,
+                      "id": 6482,
                       "name": "ARO",
                       "count": 1,
                       "selfCount": 4,
@@ -62,11 +62,11 @@
                   }
                 },
                 {
-                  "id": 7082,
+                  "id": 3926,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 6225,
+                      "id": 1363,
                       "name": "FHR",
                       "count": 1,
                       "selfCount": 34,
@@ -75,7 +75,7 @@
                       }
                     },
                     {
-                      "id": 7639,
+                      "id": 4601,
                       "name": "GFF3",
                       "count": 1,
                       "selfCount": 34,
@@ -84,7 +84,7 @@
                       }
                     },
                     {
-                      "id": 2435,
+                      "id": 784,
                       "name": "VCF",
                       "count": 1,
                       "selfCount": 34,
@@ -93,7 +93,7 @@
                       }
                     },
                     {
-                      "id": 9453,
+                      "id": 9087,
                       "name": "FASTA",
                       "count": 1,
                       "selfCount": 34,
@@ -102,7 +102,7 @@
                       }
                     },
                     {
-                      "id": 507,
+                      "id": 3493,
                       "name": "FASTQ",
                       "count": 1,
                       "selfCount": 34,
@@ -111,7 +111,7 @@
                       }
                     },
                     {
-                      "id": 431,
+                      "id": 1860,
                       "name": "ISO 4454:2022",
                       "count": 1,
                       "selfCount": 34,
@@ -120,7 +120,7 @@
                       }
                     },
                     {
-                      "id": 1941,
+                      "id": 8285,
                       "name": "SAM",
                       "count": 1,
                       "selfCount": 34,
@@ -129,7 +129,7 @@
                       }
                     },
                     {
-                      "id": 1439,
+                      "id": 7903,
                       "name": "BEACON",
                       "count": 1,
                       "selfCount": 34,
@@ -138,7 +138,7 @@
                       }
                     },
                     {
-                      "id": 7642,
+                      "id": 6326,
                       "name": "BAM",
                       "count": 1,
                       "selfCount": 34,
@@ -147,7 +147,7 @@
                       }
                     },
                     {
-                      "id": 7740,
+                      "id": 5683,
                       "name": "CLUSTALW",
                       "count": 1,
                       "selfCount": 34,
@@ -156,7 +156,7 @@
                       }
                     },
                     {
-                      "id": 5186,
+                      "id": 5224,
                       "name": "Hi-C",
                       "count": 1,
                       "selfCount": 34,
@@ -165,7 +165,7 @@
                       }
                     },
                     {
-                      "id": 2146,
+                      "id": 7540,
                       "name": "PHYLIP",
                       "count": 1,
                       "selfCount": 34,
@@ -174,7 +174,7 @@
                       }
                     },
                     {
-                      "id": 1961,
+                      "id": 9433,
                       "name": "NWK",
                       "count": 1,
                       "selfCount": 34,
@@ -183,7 +183,7 @@
                       }
                     },
                     {
-                      "id": 1174,
+                      "id": 8094,
                       "name": "PhyloXML",
                       "count": 1,
                       "selfCount": 34,
@@ -192,7 +192,7 @@
                       }
                     },
                     {
-                      "id": 1074,
+                      "id": 7878,
                       "name": "GenBank ID",
                       "count": 1,
                       "selfCount": 34,
@@ -201,7 +201,7 @@
                       }
                     },
                     {
-                      "id": 6057,
+                      "id": 9011,
                       "name": "ENA EMBL XSD",
                       "count": 1,
                       "selfCount": 34,
@@ -210,7 +210,7 @@
                       }
                     },
                     {
-                      "id": 6398,
+                      "id": 3887,
                       "name": "FAM",
                       "count": 1,
                       "selfCount": 34,
@@ -219,7 +219,7 @@
                       }
                     },
                     {
-                      "id": 6512,
+                      "id": 6286,
                       "name": "AIRR Repertoire",
                       "count": 1,
                       "selfCount": 34,
@@ -228,7 +228,7 @@
                       }
                     },
                     {
-                      "id": 9182,
+                      "id": 954,
                       "name": "AIRR Rearrangement",
                       "count": 1,
                       "selfCount": 34,
@@ -237,7 +237,7 @@
                       }
                     },
                     {
-                      "id": 4726,
+                      "id": 6800,
                       "name": "ADC API",
                       "count": 1,
                       "selfCount": 34,
@@ -246,7 +246,7 @@
                       }
                     },
                     {
-                      "id": 5888,
+                      "id": 4141,
                       "name": "bigBed",
                       "count": 1,
                       "selfCount": 34,
@@ -255,7 +255,7 @@
                       }
                     },
                     {
-                      "id": 6264,
+                      "id": 802,
                       "name": "CIGAR",
                       "count": 1,
                       "selfCount": 34,
@@ -264,7 +264,7 @@
                       }
                     },
                     {
-                      "id": 7021,
+                      "id": 4346,
                       "name": "bigWig",
                       "count": 1,
                       "selfCount": 34,
@@ -273,7 +273,7 @@
                       }
                     },
                     {
-                      "id": 6636,
+                      "id": 1709,
                       "name": "bedpe",
                       "count": 1,
                       "selfCount": 34,
@@ -282,7 +282,7 @@
                       }
                     },
                     {
-                      "id": 8209,
+                      "id": 3034,
                       "name": "BED",
                       "count": 1,
                       "selfCount": 34,
@@ -291,7 +291,7 @@
                       }
                     },
                     {
-                      "id": 3019,
+                      "id": 7623,
                       "name": "GCDML",
                       "count": 1,
                       "selfCount": 34,
@@ -300,7 +300,7 @@
                       }
                     },
                     {
-                      "id": 8869,
+                      "id": 6499,
                       "name": "FG",
                       "count": 1,
                       "selfCount": 34,
@@ -309,7 +309,7 @@
                       }
                     },
                     {
-                      "id": 8796,
+                      "id": 6908,
                       "name": "ISO/TS 8376:2023",
                       "count": 1,
                       "selfCount": 34,
@@ -318,7 +318,7 @@
                       }
                     },
                     {
-                      "id": 8080,
+                      "id": 2387,
                       "name": "ISO/TS 8392:2023",
                       "count": 1,
                       "selfCount": 34,
@@ -327,7 +327,7 @@
                       }
                     },
                     {
-                      "id": 5711,
+                      "id": 7585,
                       "name": "ISO/TS 20428:2024",
                       "count": 1,
                       "selfCount": 34,
@@ -336,7 +336,7 @@
                       }
                     },
                     {
-                      "id": 5326,
+                      "id": 82,
                       "name": "ISO 21393:2021",
                       "count": 1,
                       "selfCount": 34,
@@ -345,7 +345,7 @@
                       }
                     },
                     {
-                      "id": 3678,
+                      "id": 5759,
                       "name": "ISO/TS 22693:2021",
                       "count": 1,
                       "selfCount": 34,
@@ -354,7 +354,7 @@
                       }
                     },
                     {
-                      "id": 3723,
+                      "id": 3967,
                       "name": "ISO 25720:2009",
                       "count": 1,
                       "selfCount": 34,
@@ -363,7 +363,7 @@
                       }
                     },
                     {
-                      "id": 305,
+                      "id": 3942,
                       "name": "SRA-XML",
                       "count": 1,
                       "selfCount": 34,
@@ -379,11 +379,11 @@
                   }
                 },
                 {
-                  "id": 713,
+                  "id": 3675,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 9059,
+                      "id": 5150,
                       "name": "MIxS",
                       "count": 1,
                       "selfCount": 15,
@@ -392,7 +392,7 @@
                       }
                     },
                     {
-                      "id": 7768,
+                      "id": 2676,
                       "name": "GSCID/BRC",
                       "count": 1,
                       "selfCount": 15,
@@ -401,7 +401,7 @@
                       }
                     },
                     {
-                      "id": 9745,
+                      "id": 7728,
                       "name": "DMID",
                       "count": 1,
                       "selfCount": 15,
@@ -410,7 +410,7 @@
                       }
                     },
                     {
-                      "id": 5553,
+                      "id": 8480,
                       "name": "EBP1",
                       "count": 1,
                       "selfCount": 15,
@@ -419,7 +419,7 @@
                       }
                     },
                     {
-                      "id": 3113,
+                      "id": 4837,
                       "name": "MIGS-BA",
                       "count": 1,
                       "selfCount": 15,
@@ -428,7 +428,7 @@
                       }
                     },
                     {
-                      "id": 2934,
+                      "id": 5295,
                       "name": "MIGS-EU",
                       "count": 1,
                       "selfCount": 15,
@@ -437,7 +437,7 @@
                       }
                     },
                     {
-                      "id": 1304,
+                      "id": 1812,
                       "name": "MIGS-ORG",
                       "count": 1,
                       "selfCount": 15,
@@ -446,7 +446,7 @@
                       }
                     },
                     {
-                      "id": 6777,
+                      "id": 1622,
                       "name": "MIGS-PI",
                       "count": 1,
                       "selfCount": 15,
@@ -455,7 +455,7 @@
                       }
                     },
                     {
-                      "id": 9437,
+                      "id": 3468,
                       "name": "MIGS-VI",
                       "count": 1,
                       "selfCount": 15,
@@ -464,7 +464,7 @@
                       }
                     },
                     {
-                      "id": 9274,
+                      "id": 3655,
                       "name": "MISAG",
                       "count": 1,
                       "selfCount": 15,
@@ -473,7 +473,7 @@
                       }
                     },
                     {
-                      "id": 5925,
+                      "id": 4455,
                       "name": "MIUViG",
                       "count": 1,
                       "selfCount": 15,
@@ -482,7 +482,7 @@
                       }
                     },
                     {
-                      "id": 5620,
+                      "id": 7495,
                       "name": "STORMS",
                       "count": 1,
                       "selfCount": 15,
@@ -491,7 +491,7 @@
                       }
                     },
                     {
-                      "id": 8465,
+                      "id": 953,
                       "name": "GA4GH-VRS",
                       "count": 1,
                       "selfCount": 15,
@@ -500,7 +500,7 @@
                       }
                     },
                     {
-                      "id": 7956,
+                      "id": 8129,
                       "name": "MINIMESS",
                       "count": 1,
                       "selfCount": 15,
@@ -509,7 +509,7 @@
                       }
                     },
                     {
-                      "id": 1884,
+                      "id": 5301,
                       "name": "FHIR Genomics",
                       "count": 1,
                       "selfCount": 15,
@@ -525,11 +525,11 @@
                   }
                 },
                 {
-                  "id": 8106,
+                  "id": 8655,
                   "name": "Identifier Schema",
                   "children": [
                     {
-                      "id": 8319,
+                      "id": 4084,
                       "name": "GOLD ID",
                       "count": 1,
                       "selfCount": 3,
@@ -538,7 +538,7 @@
                       }
                     },
                     {
-                      "id": 9117,
+                      "id": 1780,
                       "name": "SAMN",
                       "count": 1,
                       "selfCount": 3,
@@ -547,7 +547,7 @@
                       }
                     },
                     {
-                      "id": 5149,
+                      "id": 4436,
                       "name": "PRJNA",
                       "count": 1,
                       "selfCount": 3,
@@ -570,15 +570,15 @@
               }
             },
             {
-              "id": 413,
+              "id": 5572,
               "name": "Transcriptomics",
               "children": [
                 {
-                  "id": 3217,
+                  "id": 8810,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 9754,
+                      "id": 3422,
                       "name": "MIxS",
                       "count": 1,
                       "selfCount": 7,
@@ -587,7 +587,7 @@
                       }
                     },
                     {
-                      "id": 5132,
+                      "id": 3580,
                       "name": "MIMS",
                       "count": 1,
                       "selfCount": 7,
@@ -596,7 +596,7 @@
                       }
                     },
                     {
-                      "id": 1724,
+                      "id": 5384,
                       "name": "MIMARKS-SU/MIMARKS-S",
                       "count": 1,
                       "selfCount": 7,
@@ -605,7 +605,7 @@
                       }
                     },
                     {
-                      "id": 6896,
+                      "id": 7340,
                       "name": "MIMAG",
                       "count": 1,
                       "selfCount": 7,
@@ -614,7 +614,7 @@
                       }
                     },
                     {
-                      "id": 6283,
+                      "id": 9874,
                       "name": "MINIMESS",
                       "count": 1,
                       "selfCount": 7,
@@ -623,7 +623,7 @@
                       }
                     },
                     {
-                      "id": 9779,
+                      "id": 7747,
                       "name": "OORF-TRF",
                       "count": 1,
                       "selfCount": 7,
@@ -632,7 +632,7 @@
                       }
                     },
                     {
-                      "id": 9948,
+                      "id": 7462,
                       "name": "MIMARKS-SP/MIMARKS-C",
                       "count": 1,
                       "selfCount": 7,
@@ -648,11 +648,11 @@
                   }
                 },
                 {
-                  "id": 1612,
+                  "id": 3798,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 3107,
+                      "id": 169,
                       "name": "GFF3",
                       "count": 1,
                       "selfCount": 16,
@@ -661,7 +661,7 @@
                       }
                     },
                     {
-                      "id": 8726,
+                      "id": 8049,
                       "name": "FASTQ",
                       "count": 1,
                       "selfCount": 16,
@@ -670,7 +670,7 @@
                       }
                     },
                     {
-                      "id": 2155,
+                      "id": 7063,
                       "name": "NWK",
                       "count": 1,
                       "selfCount": 16,
@@ -679,7 +679,7 @@
                       }
                     },
                     {
-                      "id": 6185,
+                      "id": 3137,
                       "name": "ENA EMBL XSD",
                       "count": 1,
                       "selfCount": 16,
@@ -688,7 +688,7 @@
                       }
                     },
                     {
-                      "id": 618,
+                      "id": 2913,
                       "name": "AIRR Repertoire",
                       "count": 1,
                       "selfCount": 16,
@@ -697,7 +697,7 @@
                       }
                     },
                     {
-                      "id": 9464,
+                      "id": 2418,
                       "name": "AIRR Rearrangement",
                       "count": 1,
                       "selfCount": 16,
@@ -706,7 +706,7 @@
                       }
                     },
                     {
-                      "id": 8137,
+                      "id": 6448,
                       "name": "ADC API",
                       "count": 1,
                       "selfCount": 16,
@@ -715,7 +715,7 @@
                       }
                     },
                     {
-                      "id": 6793,
+                      "id": 73,
                       "name": "bigBed",
                       "count": 1,
                       "selfCount": 16,
@@ -724,7 +724,7 @@
                       }
                     },
                     {
-                      "id": 1479,
+                      "id": 7173,
                       "name": "CIGAR",
                       "count": 1,
                       "selfCount": 16,
@@ -733,7 +733,7 @@
                       }
                     },
                     {
-                      "id": 9233,
+                      "id": 6827,
                       "name": "bigWig",
                       "count": 1,
                       "selfCount": 16,
@@ -742,7 +742,7 @@
                       }
                     },
                     {
-                      "id": 7197,
+                      "id": 9669,
                       "name": "bedpe",
                       "count": 1,
                       "selfCount": 16,
@@ -751,7 +751,7 @@
                       }
                     },
                     {
-                      "id": 2745,
+                      "id": 5063,
                       "name": "BED",
                       "count": 1,
                       "selfCount": 16,
@@ -760,7 +760,7 @@
                       }
                     },
                     {
-                      "id": 8465,
+                      "id": 1725,
                       "name": "mirGFF3",
                       "count": 1,
                       "selfCount": 16,
@@ -769,7 +769,7 @@
                       }
                     },
                     {
-                      "id": 8284,
+                      "id": 450,
                       "name": "FG",
                       "count": 1,
                       "selfCount": 16,
@@ -778,7 +778,7 @@
                       }
                     },
                     {
-                      "id": 7433,
+                      "id": 8920,
                       "name": "SRA-XML",
                       "count": 1,
                       "selfCount": 16,
@@ -787,7 +787,7 @@
                       }
                     },
                     {
-                      "id": 5591,
+                      "id": 4066,
                       "name": "md5sum",
                       "count": 1,
                       "selfCount": 16,
@@ -803,11 +803,11 @@
                   }
                 },
                 {
-                  "id": 4622,
+                  "id": 7036,
                   "name": "Terminology Artefact",
                   "children": [
                     {
-                      "id": 6791,
+                      "id": 6084,
                       "name": "PCL",
                       "count": 1,
                       "selfCount": 2,
@@ -816,7 +816,7 @@
                       }
                     },
                     {
-                      "id": 1170,
+                      "id": 4235,
                       "name": "ORNASEQ",
                       "count": 1,
                       "selfCount": 2,
@@ -832,11 +832,11 @@
                   }
                 },
                 {
-                  "id": 8416,
+                  "id": 6300,
                   "name": "Identifier Schema",
                   "children": [
                     {
-                      "id": 6345,
+                      "id": 738,
                       "name": "SAMN",
                       "count": 1,
                       "selfCount": 3,
@@ -845,7 +845,7 @@
                       }
                     },
                     {
-                      "id": 1854,
+                      "id": 5291,
                       "name": "PRJNA",
                       "count": 1,
                       "selfCount": 3,
@@ -854,7 +854,7 @@
                       }
                     },
                     {
-                      "id": 1705,
+                      "id": 7606,
                       "name": "MIXS ID",
                       "count": 1,
                       "selfCount": 3,
@@ -877,15 +877,15 @@
               }
             },
             {
-              "id": 5293,
+              "id": 7319,
               "name": "Multi-omics Applicable",
               "children": [
                 {
-                  "id": 9963,
+                  "id": 5689,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 1936,
+                      "id": 4515,
                       "name": "GTF",
                       "count": 1,
                       "selfCount": 6,
@@ -894,7 +894,7 @@
                       }
                     },
                     {
-                      "id": 4158,
+                      "id": 6818,
                       "name": "HDF5/h5",
                       "count": 1,
                       "selfCount": 6,
@@ -903,7 +903,7 @@
                       }
                     },
                     {
-                      "id": 6686,
+                      "id": 5937,
                       "name": "BioPAX",
                       "count": 1,
                       "selfCount": 6,
@@ -912,7 +912,7 @@
                       }
                     },
                     {
-                      "id": 7722,
+                      "id": 4486,
                       "name": "PED",
                       "count": 1,
                       "selfCount": 6,
@@ -921,7 +921,7 @@
                       }
                     },
                     {
-                      "id": 1728,
+                      "id": 9727,
                       "name": "SBML",
                       "count": 1,
                       "selfCount": 6,
@@ -930,7 +930,7 @@
                       }
                     },
                     {
-                      "id": 4149,
+                      "id": 3841,
                       "name": "FAIRtracks",
                       "count": 1,
                       "selfCount": 6,
@@ -946,11 +946,11 @@
                   }
                 },
                 {
-                  "id": 1918,
+                  "id": 2808,
                   "name": "Identifier Schema",
                   "children": [
                     {
-                      "id": 667,
+                      "id": 5352,
                       "name": "NCBITaxon",
                       "count": 1,
                       "selfCount": 1,
@@ -966,11 +966,11 @@
                   }
                 },
                 {
-                  "id": 3157,
+                  "id": 9511,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 3709,
+                      "id": 2117,
                       "name": "CDE",
                       "count": 1,
                       "selfCount": 5,
@@ -979,7 +979,7 @@
                       }
                     },
                     {
-                      "id": 3361,
+                      "id": 1348,
                       "name": "MIAPA Checklist",
                       "count": 1,
                       "selfCount": 5,
@@ -988,7 +988,7 @@
                       }
                     },
                     {
-                      "id": 6354,
+                      "id": 398,
                       "name": "ENA MIxS",
                       "count": 1,
                       "selfCount": 5,
@@ -997,7 +997,7 @@
                       }
                     },
                     {
-                      "id": 647,
+                      "id": 2110,
                       "name": "MIAPPE",
                       "count": 1,
                       "selfCount": 5,
@@ -1006,7 +1006,7 @@
                       }
                     },
                     {
-                      "id": 2573,
+                      "id": 3056,
                       "name": "STREAMS",
                       "count": 1,
                       "selfCount": 5,
@@ -1022,11 +1022,11 @@
                   }
                 },
                 {
-                  "id": 5152,
+                  "id": 6449,
                   "name": "Terminology Artefact",
                   "children": [
                     {
-                      "id": 2677,
+                      "id": 2396,
                       "name": "HGNC",
                       "count": 1,
                       "selfCount": 4,
@@ -1035,7 +1035,7 @@
                       }
                     },
                     {
-                      "id": 173,
+                      "id": 3433,
                       "name": "MIAPA",
                       "count": 1,
                       "selfCount": 4,
@@ -1044,7 +1044,7 @@
                       }
                     },
                     {
-                      "id": 5387,
+                      "id": 3161,
                       "name": "GENO",
                       "count": 1,
                       "selfCount": 4,
@@ -1053,7 +1053,7 @@
                       }
                     },
                     {
-                      "id": 117,
+                      "id": 9675,
                       "name": "ENVO",
                       "count": 1,
                       "selfCount": 4,
@@ -1076,15 +1076,15 @@
               }
             },
             {
-              "id": 417,
+              "id": 439,
               "name": "Epigenomics",
               "children": [
                 {
-                  "id": 1518,
+                  "id": 977,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 9121,
+                      "id": 8668,
                       "name": "ENA EMBL XSD",
                       "count": 1,
                       "selfCount": 6,
@@ -1093,7 +1093,7 @@
                       }
                     },
                     {
-                      "id": 295,
+                      "id": 4629,
                       "name": "bedMethyl",
                       "count": 1,
                       "selfCount": 6,
@@ -1102,7 +1102,7 @@
                       }
                     },
                     {
-                      "id": 2336,
+                      "id": 4554,
                       "name": "bigBed",
                       "count": 1,
                       "selfCount": 6,
@@ -1111,7 +1111,7 @@
                       }
                     },
                     {
-                      "id": 3881,
+                      "id": 1312,
                       "name": "bigWig",
                       "count": 1,
                       "selfCount": 6,
@@ -1120,7 +1120,7 @@
                       }
                     },
                     {
-                      "id": 6626,
+                      "id": 5310,
                       "name": "bedpe",
                       "count": 1,
                       "selfCount": 6,
@@ -1129,7 +1129,7 @@
                       }
                     },
                     {
-                      "id": 7038,
+                      "id": 7981,
                       "name": "BED",
                       "count": 1,
                       "selfCount": 6,
@@ -1145,11 +1145,11 @@
                   }
                 },
                 {
-                  "id": 4644,
+                  "id": 6311,
                   "name": "Terminology Artefact",
                   "children": [
                     {
-                      "id": 6284,
+                      "id": 199,
                       "name": "GENEPIO",
                       "count": 1,
                       "selfCount": 2,
@@ -1158,7 +1158,7 @@
                       }
                     },
                     {
-                      "id": 4931,
+                      "id": 2641,
                       "name": "ORNASEQ",
                       "count": 1,
                       "selfCount": 2,
@@ -1174,11 +1174,11 @@
                   }
                 },
                 {
-                  "id": 5116,
+                  "id": 2222,
                   "name": "Identifier Schema",
                   "children": [
                     {
-                      "id": 8951,
+                      "id": 9810,
                       "name": "SAMN",
                       "count": 1,
                       "selfCount": 2,
@@ -1187,7 +1187,7 @@
                       }
                     },
                     {
-                      "id": 2470,
+                      "id": 3035,
                       "name": "PRJNA",
                       "count": 1,
                       "selfCount": 2,
@@ -1224,23 +1224,23 @@
       }
     },
     {
-      "id": 987,
+      "id": 3895,
       "name": "Array Sequencing",
       "children": [
         {
-          "id": 7639,
+          "id": 3098,
           "name": "Genomics",
           "children": [
             {
-              "id": 8816,
+              "id": 6560,
               "name": "Transcriptomics",
               "children": [
                 {
-                  "id": 6280,
+                  "id": 8254,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 8266,
+                      "id": 9303,
                       "name": "MIAME",
                       "count": 1,
                       "selfCount": 2,
@@ -1249,7 +1249,7 @@
                       }
                     },
                     {
-                      "id": 5006,
+                      "id": 5755,
                       "name": "MAGE-TAB",
                       "count": 1,
                       "selfCount": 2,
@@ -1286,23 +1286,23 @@
       }
     },
     {
-      "id": 5922,
+      "id": 1353,
       "name": "High-Throughput Sequencing",
       "children": [
         {
-          "id": 7972,
+          "id": 1999,
           "name": "Genomics",
           "children": [
             {
-              "id": 4395,
+              "id": 1929,
               "name": "Genomics",
               "children": [
                 {
-                  "id": 676,
+                  "id": 6906,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 3956,
+                      "id": 6450,
                       "name": "MINSEQE",
                       "count": 1,
                       "selfCount": 1,
@@ -1318,11 +1318,11 @@
                   }
                 },
                 {
-                  "id": 9520,
+                  "id": 3139,
                   "name": "Multi-Standard Applicable",
                   "children": [
                     {
-                      "id": 5190,
+                      "id": 7717,
                       "name": "WGS QC",
                       "count": 1,
                       "selfCount": 1,
@@ -1338,11 +1338,11 @@
                   }
                 },
                 {
-                  "id": 4521,
+                  "id": 4780,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 3315,
+                      "id": 1634,
                       "name": "CRAM",
                       "count": 1,
                       "selfCount": 1,
@@ -1365,15 +1365,15 @@
               }
             },
             {
-              "id": 1567,
+              "id": 2470,
               "name": "Transcriptomics",
               "children": [
                 {
-                  "id": 8633,
+                  "id": 7986,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 2105,
+                      "id": 8438,
                       "name": "MINSEQE",
                       "count": 1,
                       "selfCount": 1,
@@ -1389,11 +1389,11 @@
                   }
                 },
                 {
-                  "id": 191,
+                  "id": 3844,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 7531,
+                      "id": 4726,
                       "name": "CRAM",
                       "count": 1,
                       "selfCount": 1,
@@ -1416,15 +1416,15 @@
               }
             },
             {
-              "id": 2575,
+              "id": 1738,
               "name": "Multi-omics Applicable",
               "children": [
                 {
-                  "id": 167,
+                  "id": 5736,
                   "name": "Identifier Schema",
                   "children": [
                     {
-                      "id": 8407,
+                      "id": 1798,
                       "name": "SRA ID",
                       "count": 1,
                       "selfCount": 1,
@@ -1461,23 +1461,23 @@
       }
     },
     {
-      "id": 7356,
+      "id": 1257,
       "name": "RNA Sequencing",
       "children": [
         {
-          "id": 735,
+          "id": 226,
           "name": "Genomics",
           "children": [
             {
-              "id": 9479,
+              "id": 7008,
               "name": "Transcriptomics",
               "children": [
                 {
-                  "id": 5384,
+                  "id": 3686,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 4975,
+                      "id": 5755,
                       "name": "MiAIRR",
                       "count": 1,
                       "selfCount": 1,
@@ -1500,15 +1500,15 @@
               }
             },
             {
-              "id": 7255,
+              "id": 707,
               "name": "Genomics",
               "children": [
                 {
-                  "id": 2037,
+                  "id": 1058,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 5301,
+                      "id": 9818,
                       "name": "ISO/TS 22690:2021",
                       "count": 1,
                       "selfCount": 1,
@@ -1545,23 +1545,23 @@
       }
     },
     {
-      "id": 9002,
+      "id": 5147,
       "name": "DNA Sequencing",
       "children": [
         {
-          "id": 4067,
+          "id": 2004,
           "name": "Genomics",
           "children": [
             {
-              "id": 9625,
+              "id": 2535,
               "name": "Epigenomics",
               "children": [
                 {
-                  "id": 1458,
+                  "id": 3714,
                   "name": "Terminology Artefact",
                   "children": [
                     {
-                      "id": 4680,
+                      "id": 923,
                       "name": "EGO",
                       "count": 1,
                       "selfCount": 1,
@@ -1584,15 +1584,15 @@
               }
             },
             {
-              "id": 6273,
+              "id": 539,
               "name": "Genomics",
               "children": [
                 {
-                  "id": 807,
+                  "id": 7921,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 6521,
+                      "id": 507,
                       "name": "ISO/TS 4424:2023",
                       "count": 1,
                       "selfCount": 4,
@@ -1601,7 +1601,7 @@
                       }
                     },
                     {
-                      "id": 3925,
+                      "id": 7994,
                       "name": "ISO/TS 4425:2023",
                       "count": 1,
                       "selfCount": 4,
@@ -1610,7 +1610,7 @@
                       }
                     },
                     {
-                      "id": 7570,
+                      "id": 2075,
                       "name": "ISO/TS 22692:2020",
                       "count": 1,
                       "selfCount": 4,
@@ -1619,7 +1619,7 @@
                       }
                     },
                     {
-                      "id": 1428,
+                      "id": 9327,
                       "name": "ISO/TS 23357:2023",
                       "count": 1,
                       "selfCount": 4,
@@ -1656,23 +1656,23 @@
       }
     },
     {
-      "id": 7537,
+      "id": 9454,
       "name": "Other",
       "children": [
         {
-          "id": 6547,
+          "id": 2538,
           "name": "Genomics",
           "children": [
             {
-              "id": 7532,
+              "id": 3659,
               "name": "Multi-omics Applicable",
               "children": [
                 {
-                  "id": 6243,
+                  "id": 536,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 3774,
+                      "id": 9805,
                       "name": "MIBiG",
                       "count": 1,
                       "selfCount": 1,
@@ -1702,19 +1702,19 @@
           }
         },
         {
-          "id": 3597,
+          "id": 7232,
           "name": "Proteomics",
           "children": [
             {
-              "id": 287,
+              "id": 7678,
               "name": "Proteomics",
               "children": [
                 {
-                  "id": 8106,
+                  "id": 4169,
                   "name": "Identifier Schema",
                   "children": [
                     {
-                      "id": 7723,
+                      "id": 858,
                       "name": "PDB ID",
                       "count": 1,
                       "selfCount": 1,
@@ -1751,23 +1751,23 @@
       }
     },
     {
-      "id": 4941,
+      "id": 9794,
       "name": "Mass Spectrometry (general)",
       "children": [
         {
-          "id": 6499,
+          "id": 6789,
           "name": "Proteomics",
           "children": [
             {
-              "id": 9890,
+              "id": 5235,
               "name": "Multi-omics Applicable",
               "children": [
                 {
-                  "id": 2451,
+                  "id": 6414,
                   "name": "Terminology Artefact",
                   "children": [
                     {
-                      "id": 218,
+                      "id": 6891,
                       "name": "PSI-MS CV",
                       "count": 1,
                       "selfCount": 4,
@@ -1776,7 +1776,7 @@
                       }
                     },
                     {
-                      "id": 5505,
+                      "id": 1139,
                       "name": "MOD",
                       "count": 1,
                       "selfCount": 4,
@@ -1785,7 +1785,7 @@
                       }
                     },
                     {
-                      "id": 8642,
+                      "id": 9176,
                       "name": "PR",
                       "count": 1,
                       "selfCount": 4,
@@ -1794,7 +1794,7 @@
                       }
                     },
                     {
-                      "id": 1948,
+                      "id": 8706,
                       "name": "PSI-MI CV",
                       "count": 1,
                       "selfCount": 4,
@@ -1810,11 +1810,11 @@
                   }
                 },
                 {
-                  "id": 9121,
+                  "id": 7760,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 2657,
+                      "id": 9165,
                       "name": "mzQC",
                       "count": 1,
                       "selfCount": 3,
@@ -1823,7 +1823,7 @@
                       }
                     },
                     {
-                      "id": 8647,
+                      "id": 4884,
                       "name": "imzML",
                       "count": 1,
                       "selfCount": 3,
@@ -1832,7 +1832,7 @@
                       }
                     },
                     {
-                      "id": 591,
+                      "id": 7125,
                       "name": "MassQL",
                       "count": 1,
                       "selfCount": 3,
@@ -1848,11 +1848,11 @@
                   }
                 },
                 {
-                  "id": 7012,
+                  "id": 8801,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 1009,
+                      "id": 4025,
                       "name": "MIAPE-MSI",
                       "count": 1,
                       "selfCount": 4,
@@ -1861,7 +1861,7 @@
                       }
                     },
                     {
-                      "id": 2039,
+                      "id": 169,
                       "name": "MIABE",
                       "count": 1,
                       "selfCount": 4,
@@ -1870,7 +1870,7 @@
                       }
                     },
                     {
-                      "id": 6766,
+                      "id": 7501,
                       "name": "HPP 3.0",
                       "count": 1,
                       "selfCount": 4,
@@ -1879,7 +1879,7 @@
                       }
                     },
                     {
-                      "id": 1948,
+                      "id": 2965,
                       "name": "HPG",
                       "count": 1,
                       "selfCount": 4,
@@ -1902,15 +1902,15 @@
               }
             },
             {
-              "id": 7546,
+              "id": 2241,
               "name": "Proteomics",
               "children": [
                 {
-                  "id": 9038,
+                  "id": 299,
                   "name": "Multi-Standard Applicable",
                   "children": [
                     {
-                      "id": 2843,
+                      "id": 5735,
                       "name": "mzML",
                       "count": 1,
                       "selfCount": 4,
@@ -1919,7 +1919,7 @@
                       }
                     },
                     {
-                      "id": 402,
+                      "id": 3617,
                       "name": "mzTab",
                       "count": 1,
                       "selfCount": 4,
@@ -1928,7 +1928,7 @@
                       }
                     },
                     {
-                      "id": 8747,
+                      "id": 6649,
                       "name": "PRIDE formats",
                       "count": 1,
                       "selfCount": 4,
@@ -1937,7 +1937,7 @@
                       }
                     },
                     {
-                      "id": 6629,
+                      "id": 7224,
                       "name": "ProXI",
                       "count": 1,
                       "selfCount": 4,
@@ -1953,11 +1953,11 @@
                   }
                 },
                 {
-                  "id": 326,
+                  "id": 8636,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 3054,
+                      "id": 8317,
                       "name": "mzMLb ",
                       "count": 1,
                       "selfCount": 16,
@@ -1966,7 +1966,7 @@
                       }
                     },
                     {
-                      "id": 8212,
+                      "id": 1250,
                       "name": "mzIdentML",
                       "count": 1,
                       "selfCount": 16,
@@ -1975,7 +1975,7 @@
                       }
                     },
                     {
-                      "id": 5498,
+                      "id": 7074,
                       "name": "PEFF",
                       "count": 1,
                       "selfCount": 16,
@@ -1984,7 +1984,7 @@
                       }
                     },
                     {
-                      "id": 9920,
+                      "id": 3097,
                       "name": "mzSpecLib",
                       "count": 1,
                       "selfCount": 16,
@@ -1993,7 +1993,7 @@
                       }
                     },
                     {
-                      "id": 4305,
+                      "id": 3675,
                       "name": "SDRF",
                       "count": 1,
                       "selfCount": 16,
@@ -2002,7 +2002,7 @@
                       }
                     },
                     {
-                      "id": 9321,
+                      "id": 1902,
                       "name": "ProForma 2.0",
                       "count": 1,
                       "selfCount": 16,
@@ -2011,7 +2011,7 @@
                       }
                     },
                     {
-                      "id": 7556,
+                      "id": 9201,
                       "name": "mzPAF",
                       "count": 1,
                       "selfCount": 16,
@@ -2020,7 +2020,7 @@
                       }
                     },
                     {
-                      "id": 8297,
+                      "id": 5760,
                       "name": "proBAM",
                       "count": 1,
                       "selfCount": 16,
@@ -2029,7 +2029,7 @@
                       }
                     },
                     {
-                      "id": 795,
+                      "id": 1094,
                       "name": "MGF",
                       "count": 1,
                       "selfCount": 16,
@@ -2038,7 +2038,7 @@
                       }
                     },
                     {
-                      "id": 5951,
+                      "id": 3966,
                       "name": "FASTA",
                       "count": 1,
                       "selfCount": 16,
@@ -2047,7 +2047,7 @@
                       }
                     },
                     {
-                      "id": 8318,
+                      "id": 2785,
                       "name": "Proprietary Formats",
                       "count": 1,
                       "selfCount": 16,
@@ -2056,7 +2056,7 @@
                       }
                     },
                     {
-                      "id": 4712,
+                      "id": 2298,
                       "name": "RAW",
                       "count": 1,
                       "selfCount": 16,
@@ -2065,7 +2065,7 @@
                       }
                     },
                     {
-                      "id": 8994,
+                      "id": 9198,
                       "name": "proBED",
                       "count": 1,
                       "selfCount": 16,
@@ -2074,7 +2074,7 @@
                       }
                     },
                     {
-                      "id": 8087,
+                      "id": 6122,
                       "name": "TraML",
                       "count": 1,
                       "selfCount": 16,
@@ -2083,7 +2083,7 @@
                       }
                     },
                     {
-                      "id": 4362,
+                      "id": 7610,
                       "name": "PRIDE-XML",
                       "count": 1,
                       "selfCount": 16,
@@ -2092,7 +2092,7 @@
                       }
                     },
                     {
-                      "id": 2947,
+                      "id": 7533,
                       "name": "mzPEAK",
                       "count": 1,
                       "selfCount": 16,
@@ -2108,11 +2108,11 @@
                   }
                 },
                 {
-                  "id": 1373,
+                  "id": 7896,
                   "name": "Identifier Schema",
                   "children": [
                     {
-                      "id": 209,
+                      "id": 9777,
                       "name": "USI",
                       "count": 1,
                       "selfCount": 3,
@@ -2121,7 +2121,7 @@
                       }
                     },
                     {
-                      "id": 9745,
+                      "id": 5421,
                       "name": "UniProt ID",
                       "count": 1,
                       "selfCount": 3,
@@ -2130,7 +2130,7 @@
                       }
                     },
                     {
-                      "id": 2179,
+                      "id": 190,
                       "name": "PXD ID",
                       "count": 1,
                       "selfCount": 3,
@@ -2146,11 +2146,11 @@
                   }
                 },
                 {
-                  "id": 5339,
+                  "id": 3321,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 2430,
+                      "id": 9900,
                       "name": "MIAPE",
                       "count": 1,
                       "selfCount": 10,
@@ -2159,7 +2159,7 @@
                       }
                     },
                     {
-                      "id": 3093,
+                      "id": 2769,
                       "name": "MIAPE-MS",
                       "count": 1,
                       "selfCount": 10,
@@ -2168,7 +2168,7 @@
                       }
                     },
                     {
-                      "id": 9635,
+                      "id": 1684,
                       "name": "MIASSPE",
                       "count": 1,
                       "selfCount": 10,
@@ -2177,7 +2177,7 @@
                       }
                     },
                     {
-                      "id": 6452,
+                      "id": 5193,
                       "name": "MIAPE-Quant",
                       "count": 1,
                       "selfCount": 10,
@@ -2186,7 +2186,7 @@
                       }
                     },
                     {
-                      "id": 9906,
+                      "id": 9582,
                       "name": "MIAPE-GI",
                       "count": 1,
                       "selfCount": 10,
@@ -2195,7 +2195,7 @@
                       }
                     },
                     {
-                      "id": 5975,
+                      "id": 6478,
                       "name": "MIADE",
                       "count": 1,
                       "selfCount": 10,
@@ -2204,7 +2204,7 @@
                       }
                     },
                     {
-                      "id": 2159,
+                      "id": 2964,
                       "name": "MIAPAR",
                       "count": 1,
                       "selfCount": 10,
@@ -2213,7 +2213,7 @@
                       }
                     },
                     {
-                      "id": 4724,
+                      "id": 3726,
                       "name": "MIAPE-GE",
                       "count": 1,
                       "selfCount": 10,
@@ -2222,7 +2222,7 @@
                       }
                     },
                     {
-                      "id": 6315,
+                      "id": 8926,
                       "name": "MIAPE-CC",
                       "count": 1,
                       "selfCount": 10,
@@ -2231,7 +2231,7 @@
                       }
                     },
                     {
-                      "id": 9719,
+                      "id": 1155,
                       "name": "MassIVE.Quant",
                       "count": 1,
                       "selfCount": 10,
@@ -2254,15 +2254,15 @@
               }
             },
             {
-              "id": 1215,
+              "id": 3298,
               "name": "Metaproteomics",
               "children": [
                 {
-                  "id": 6599,
+                  "id": 1144,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 7077,
+                      "id": 726,
                       "name": "mzIdentML",
                       "count": 1,
                       "selfCount": 10,
@@ -2271,7 +2271,7 @@
                       }
                     },
                     {
-                      "id": 9071,
+                      "id": 3638,
                       "name": "PEFF",
                       "count": 1,
                       "selfCount": 10,
@@ -2280,7 +2280,7 @@
                       }
                     },
                     {
-                      "id": 5873,
+                      "id": 1053,
                       "name": "mzSpecLib",
                       "count": 1,
                       "selfCount": 10,
@@ -2289,7 +2289,7 @@
                       }
                     },
                     {
-                      "id": 1915,
+                      "id": 9496,
                       "name": "SDRF",
                       "count": 1,
                       "selfCount": 10,
@@ -2298,7 +2298,7 @@
                       }
                     },
                     {
-                      "id": 3500,
+                      "id": 7143,
                       "name": "ProForma 2.0",
                       "count": 1,
                       "selfCount": 10,
@@ -2307,7 +2307,7 @@
                       }
                     },
                     {
-                      "id": 2590,
+                      "id": 2357,
                       "name": "mzPAF",
                       "count": 1,
                       "selfCount": 10,
@@ -2316,7 +2316,7 @@
                       }
                     },
                     {
-                      "id": 6813,
+                      "id": 5857,
                       "name": "MGF",
                       "count": 1,
                       "selfCount": 10,
@@ -2325,7 +2325,7 @@
                       }
                     },
                     {
-                      "id": 8204,
+                      "id": 9682,
                       "name": "FASTA",
                       "count": 1,
                       "selfCount": 10,
@@ -2334,7 +2334,7 @@
                       }
                     },
                     {
-                      "id": 3539,
+                      "id": 5624,
                       "name": "Proprietary Formats",
                       "count": 1,
                       "selfCount": 10,
@@ -2343,7 +2343,7 @@
                       }
                     },
                     {
-                      "id": 8734,
+                      "id": 8041,
                       "name": "RAW",
                       "count": 1,
                       "selfCount": 10,
@@ -2359,11 +2359,11 @@
                   }
                 },
                 {
-                  "id": 7384,
+                  "id": 712,
                   "name": "Identifier Schema",
                   "children": [
                     {
-                      "id": 8513,
+                      "id": 3945,
                       "name": "USI",
                       "count": 1,
                       "selfCount": 2,
@@ -2372,7 +2372,7 @@
                       }
                     },
                     {
-                      "id": 599,
+                      "id": 35,
                       "name": "UniProt ID",
                       "count": 1,
                       "selfCount": 2,
@@ -2388,11 +2388,11 @@
                   }
                 },
                 {
-                  "id": 1695,
+                  "id": 1060,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 8843,
+                      "id": 3493,
                       "name": "MIAPE",
                       "count": 1,
                       "selfCount": 3,
@@ -2401,7 +2401,7 @@
                       }
                     },
                     {
-                      "id": 6209,
+                      "id": 6998,
                       "name": "MIAPE-MS",
                       "count": 1,
                       "selfCount": 3,
@@ -2410,7 +2410,7 @@
                       }
                     },
                     {
-                      "id": 8026,
+                      "id": 2997,
                       "name": "MIAPE-Quant",
                       "count": 1,
                       "selfCount": 3,
@@ -2440,19 +2440,19 @@
           }
         },
         {
-          "id": 9811,
+          "id": 7454,
           "name": "Metabolomics",
           "children": [
             {
-              "id": 3199,
+              "id": 655,
               "name": "Metabolomics",
               "children": [
                 {
-                  "id": 428,
+                  "id": 6735,
                   "name": "Terminology Artefact",
                   "children": [
                     {
-                      "id": 5765,
+                      "id": 6811,
                       "name": "MSIO",
                       "count": 1,
                       "selfCount": 2,
@@ -2461,7 +2461,7 @@
                       }
                     },
                     {
-                      "id": 4597,
+                      "id": 3288,
                       "name": "CHEMINF",
                       "count": 1,
                       "selfCount": 2,
@@ -2477,11 +2477,11 @@
                   }
                 },
                 {
-                  "id": 9346,
+                  "id": 5100,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 3364,
+                      "id": 1503,
                       "name": "mzTab-M",
                       "count": 1,
                       "selfCount": 6,
@@ -2490,7 +2490,7 @@
                       }
                     },
                     {
-                      "id": 9436,
+                      "id": 6168,
                       "name": "PSI-MI XML",
                       "count": 1,
                       "selfCount": 6,
@@ -2499,7 +2499,7 @@
                       }
                     },
                     {
-                      "id": 9098,
+                      "id": 8733,
                       "name": "PDBx/mmCIF",
                       "count": 1,
                       "selfCount": 6,
@@ -2508,7 +2508,7 @@
                       }
                     },
                     {
-                      "id": 7482,
+                      "id": 7255,
                       "name": "DAT",
                       "count": 1,
                       "selfCount": 6,
@@ -2517,7 +2517,7 @@
                       }
                     },
                     {
-                      "id": 9983,
+                      "id": 3031,
                       "name": "mwTab",
                       "count": 1,
                       "selfCount": 6,
@@ -2526,7 +2526,7 @@
                       }
                     },
                     {
-                      "id": 7789,
+                      "id": 2892,
                       "name": "MI-TAB",
                       "count": 1,
                       "selfCount": 6,
@@ -2542,11 +2542,11 @@
                   }
                 },
                 {
-                  "id": 2767,
+                  "id": 9060,
                   "name": "Multi-Standard Applicable",
                   "children": [
                     {
-                      "id": 2825,
+                      "id": 4897,
                       "name": "InChI",
                       "count": 1,
                       "selfCount": 3,
@@ -2555,7 +2555,7 @@
                       }
                     },
                     {
-                      "id": 2399,
+                      "id": 9251,
                       "name": "SMILES",
                       "count": 1,
                       "selfCount": 3,
@@ -2564,7 +2564,7 @@
                       }
                     },
                     {
-                      "id": 8932,
+                      "id": 7558,
                       "name": "InChIKey",
                       "count": 1,
                       "selfCount": 3,
@@ -2580,11 +2580,11 @@
                   }
                 },
                 {
-                  "id": 2910,
+                  "id": 6573,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 1281,
+                      "id": 26,
                       "name": "MIMIx",
                       "count": 1,
                       "selfCount": 3,
@@ -2593,7 +2593,7 @@
                       }
                     },
                     {
-                      "id": 572,
+                      "id": 3826,
                       "name": "CIMR",
                       "count": 1,
                       "selfCount": 3,
@@ -2602,7 +2602,7 @@
                       }
                     },
                     {
-                      "id": 3350,
+                      "id": 7976,
                       "name": "ANDI-MS",
                       "count": 1,
                       "selfCount": 3,
@@ -2618,11 +2618,11 @@
                   }
                 },
                 {
-                  "id": 3689,
+                  "id": 703,
                   "name": "Identifier Schema",
                   "children": [
                     {
-                      "id": 9992,
+                      "id": 1692,
                       "name": "CAS RN",
                       "count": 1,
                       "selfCount": 5,
@@ -2631,7 +2631,7 @@
                       }
                     },
                     {
-                      "id": 9979,
+                      "id": 2588,
                       "name": "CID",
                       "count": 1,
                       "selfCount": 5,
@@ -2640,7 +2640,7 @@
                       }
                     },
                     {
-                      "id": 2607,
+                      "id": 6392,
                       "name": "IUPAC",
                       "count": 1,
                       "selfCount": 5,
@@ -2649,7 +2649,7 @@
                       }
                     },
                     {
-                      "id": 6557,
+                      "id": 4489,
                       "name": "HMDB ID",
                       "count": 1,
                       "selfCount": 5,
@@ -2658,7 +2658,7 @@
                       }
                     },
                     {
-                      "id": 723,
+                      "id": 9348,
                       "name": "RefMet",
                       "count": 1,
                       "selfCount": 5,
@@ -2681,15 +2681,15 @@
               }
             },
             {
-              "id": 9441,
+              "id": 4292,
               "name": "Multi-omics Applicable",
               "children": [
                 {
-                  "id": 879,
+                  "id": 4402,
                   "name": "Multi-Standard Applicable",
                   "children": [
                     {
-                      "id": 1991,
+                      "id": 1180,
                       "name": "ChEBI",
                       "count": 1,
                       "selfCount": 1,
@@ -2705,11 +2705,11 @@
                   }
                 },
                 {
-                  "id": 8478,
+                  "id": 3309,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 8302,
+                      "id": 5326,
                       "name": "SDF",
                       "count": 1,
                       "selfCount": 11,
@@ -2718,7 +2718,7 @@
                       }
                     },
                     {
-                      "id": 6388,
+                      "id": 4773,
                       "name": "ISA-TAB",
                       "count": 1,
                       "selfCount": 11,
@@ -2727,7 +2727,7 @@
                       }
                     },
                     {
-                      "id": 2427,
+                      "id": 1639,
                       "name": "MSP",
                       "count": 1,
                       "selfCount": 11,
@@ -2736,7 +2736,7 @@
                       }
                     },
                     {
-                      "id": 8652,
+                      "id": 2373,
                       "name": "MGF",
                       "count": 1,
                       "selfCount": 11,
@@ -2745,7 +2745,7 @@
                       }
                     },
                     {
-                      "id": 7905,
+                      "id": 1248,
                       "name": "CDX",
                       "count": 1,
                       "selfCount": 11,
@@ -2754,7 +2754,7 @@
                       }
                     },
                     {
-                      "id": 6552,
+                      "id": 2534,
                       "name": "mzML",
                       "count": 1,
                       "selfCount": 11,
@@ -2763,7 +2763,7 @@
                       }
                     },
                     {
-                      "id": 3377,
+                      "id": 2662,
                       "name": "MDL Molfile",
                       "count": 1,
                       "selfCount": 11,
@@ -2772,7 +2772,7 @@
                       }
                     },
                     {
-                      "id": 2751,
+                      "id": 5584,
                       "name": "RAW",
                       "count": 1,
                       "selfCount": 11,
@@ -2781,7 +2781,7 @@
                       }
                     },
                     {
-                      "id": 2747,
+                      "id": 2943,
                       "name": "XYZ",
                       "count": 1,
                       "selfCount": 11,
@@ -2790,7 +2790,7 @@
                       }
                     },
                     {
-                      "id": 8064,
+                      "id": 1853,
                       "name": "ThermoML",
                       "count": 1,
                       "selfCount": 11,
@@ -2799,7 +2799,7 @@
                       }
                     },
                     {
-                      "id": 9656,
+                      "id": 5065,
                       "name": "imzML",
                       "count": 1,
                       "selfCount": 11,
@@ -2815,11 +2815,11 @@
                   }
                 },
                 {
-                  "id": 8916,
+                  "id": 3511,
                   "name": "Terminology Artefact",
                   "children": [
                     {
-                      "id": 7774,
+                      "id": 2868,
                       "name": "OBI",
                       "count": 1,
                       "selfCount": 5,
@@ -2828,7 +2828,7 @@
                       }
                     },
                     {
-                      "id": 5209,
+                      "id": 3318,
                       "name": "CHMO",
                       "count": 1,
                       "selfCount": 5,
@@ -2837,7 +2837,7 @@
                       }
                     },
                     {
-                      "id": 6196,
+                      "id": 3236,
                       "name": "XLMOD",
                       "count": 1,
                       "selfCount": 5,
@@ -2846,7 +2846,7 @@
                       }
                     },
                     {
-                      "id": 1155,
+                      "id": 9207,
                       "name": "PSI-MS CV",
                       "count": 1,
                       "selfCount": 5,
@@ -2855,7 +2855,7 @@
                       }
                     },
                     {
-                      "id": 7264,
+                      "id": 3008,
                       "name": "ChAMP",
                       "count": 1,
                       "selfCount": 5,
@@ -2871,11 +2871,11 @@
                   }
                 },
                 {
-                  "id": 1780,
+                  "id": 6103,
                   "name": "Identifier Schema",
                   "children": [
                     {
-                      "id": 1326,
+                      "id": 6744,
                       "name": "USI",
                       "count": 1,
                       "selfCount": 2,
@@ -2884,7 +2884,7 @@
                       }
                     },
                     {
-                      "id": 6166,
+                      "id": 2587,
                       "name": "SPLASH",
                       "count": 1,
                       "selfCount": 2,
@@ -2900,11 +2900,11 @@
                   }
                 },
                 {
-                  "id": 2461,
+                  "id": 4944,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 7890,
+                      "id": 9039,
                       "name": "MFIF",
                       "count": 1,
                       "selfCount": 4,
@@ -2913,7 +2913,7 @@
                       }
                     },
                     {
-                      "id": 3455,
+                      "id": 7276,
                       "name": "MIABE",
                       "count": 1,
                       "selfCount": 4,
@@ -2922,7 +2922,7 @@
                       }
                     },
                     {
-                      "id": 3323,
+                      "id": 9973,
                       "name": "IUPAC-InChI",
                       "count": 1,
                       "selfCount": 4,
@@ -2931,7 +2931,7 @@
                       }
                     },
                     {
-                      "id": 5719,
+                      "id": 9951,
                       "name": "OORF-MRF",
                       "count": 1,
                       "selfCount": 4,
@@ -2954,15 +2954,15 @@
               }
             },
             {
-              "id": 8764,
+              "id": 3858,
               "name": "Lipidomics",
               "children": [
                 {
-                  "id": 5610,
+                  "id": 755,
                   "name": "Multi-Standard Applicable",
                   "children": [
                     {
-                      "id": 8922,
+                      "id": 9767,
                       "name": "InChI",
                       "count": 1,
                       "selfCount": 4,
@@ -2971,7 +2971,7 @@
                       }
                     },
                     {
-                      "id": 1837,
+                      "id": 9952,
                       "name": "LM ID",
                       "count": 1,
                       "selfCount": 4,
@@ -2980,7 +2980,7 @@
                       }
                     },
                     {
-                      "id": 1997,
+                      "id": 9728,
                       "name": "SMILES",
                       "count": 1,
                       "selfCount": 4,
@@ -2989,7 +2989,7 @@
                       }
                     },
                     {
-                      "id": 4962,
+                      "id": 75,
                       "name": "InChIKey",
                       "count": 1,
                       "selfCount": 4,
@@ -3005,11 +3005,11 @@
                   }
                 },
                 {
-                  "id": 2744,
+                  "id": 1978,
                   "name": "Identifier Schema",
                   "children": [
                     {
-                      "id": 2209,
+                      "id": 2992,
                       "name": "CAS RN",
                       "count": 1,
                       "selfCount": 4,
@@ -3018,7 +3018,7 @@
                       }
                     },
                     {
-                      "id": 885,
+                      "id": 702,
                       "name": "CID",
                       "count": 1,
                       "selfCount": 4,
@@ -3027,7 +3027,7 @@
                       }
                     },
                     {
-                      "id": 9779,
+                      "id": 1752,
                       "name": "IUPAC",
                       "count": 1,
                       "selfCount": 4,
@@ -3036,7 +3036,7 @@
                       }
                     },
                     {
-                      "id": 6721,
+                      "id": 6837,
                       "name": "SLM",
                       "count": 1,
                       "selfCount": 4,
@@ -3052,11 +3052,11 @@
                   }
                 },
                 {
-                  "id": 198,
+                  "id": 9866,
                   "name": "Terminology Artefact",
                   "children": [
                     {
-                      "id": 3270,
+                      "id": 7289,
                       "name": "CHEMINF",
                       "count": 1,
                       "selfCount": 2,
@@ -3065,7 +3065,7 @@
                       }
                     },
                     {
-                      "id": 6775,
+                      "id": 7220,
                       "name": "LION",
                       "count": 1,
                       "selfCount": 2,
@@ -3081,11 +3081,11 @@
                   }
                 },
                 {
-                  "id": 281,
+                  "id": 8591,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 1741,
+                      "id": 4442,
                       "name": "PDBx/mmCIF",
                       "count": 1,
                       "selfCount": 1,
@@ -3101,11 +3101,11 @@
                   }
                 },
                 {
-                  "id": 9801,
+                  "id": 2026,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 3851,
+                      "id": 1884,
                       "name": "LSI",
                       "count": 1,
                       "selfCount": 3,
@@ -3114,7 +3114,7 @@
                       }
                     },
                     {
-                      "id": 6441,
+                      "id": 4358,
                       "name": "mzTab-L",
                       "count": 1,
                       "selfCount": 3,
@@ -3123,7 +3123,7 @@
                       }
                     },
                     {
-                      "id": 5930,
+                      "id": 9028,
                       "name": "ANDI-MS",
                       "count": 1,
                       "selfCount": 3,
@@ -3160,23 +3160,23 @@
       }
     },
     {
-      "id": 4019,
+      "id": 7724,
       "name": "Ion Mobility Mass Spectrometry (IM-MS)",
       "children": [
         {
-          "id": 3094,
+          "id": 9085,
           "name": "Proteomics",
           "children": [
             {
-              "id": 9433,
+              "id": 9606,
               "name": "Proteomics",
               "children": [
                 {
-                  "id": 3542,
+                  "id": 1214,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 2374,
+                      "id": 8538,
                       "name": "IM-MS/DIA-mzML",
                       "count": 1,
                       "selfCount": 1,
@@ -3213,23 +3213,23 @@
       }
     },
     {
-      "id": 5933,
+      "id": 9795,
       "name": "Capillary Electrophoresis–Mass Spectrometry (CE-MS)",
       "children": [
         {
-          "id": 3726,
+          "id": 7535,
           "name": "Proteomics",
           "children": [
             {
-              "id": 3095,
+              "id": 8401,
               "name": "Proteomics",
               "children": [
                 {
-                  "id": 4482,
+                  "id": 4381,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 5086,
+                      "id": 1843,
                       "name": "MIAPE-CE",
                       "count": 1,
                       "selfCount": 1,
@@ -3266,23 +3266,23 @@
       }
     },
     {
-      "id": 718,
+      "id": 53,
       "name": "Nuclear Magnetic Resonance (NMR)",
       "children": [
         {
-          "id": 7904,
+          "id": 1476,
           "name": "Metabolomics",
           "children": [
             {
-              "id": 913,
+              "id": 6776,
               "name": "Multi-omics Applicable",
               "children": [
                 {
-                  "id": 6964,
+                  "id": 7702,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 563,
+                      "id": 9499,
                       "name": "nmrML",
                       "count": 1,
                       "selfCount": 2,
@@ -3291,7 +3291,7 @@
                       }
                     },
                     {
-                      "id": 3323,
+                      "id": 1024,
                       "name": "ISA-TAB-Nano",
                       "count": 1,
                       "selfCount": 2,
@@ -3314,15 +3314,15 @@
               }
             },
             {
-              "id": 7192,
+              "id": 3616,
               "name": "Metabolomics",
               "children": [
                 {
-                  "id": 767,
+                  "id": 7401,
                   "name": "Terminology Artefact",
                   "children": [
                     {
-                      "id": 5917,
+                      "id": 6224,
                       "name": "nmrCV",
                       "count": 1,
                       "selfCount": 1,
@@ -3359,23 +3359,23 @@
       }
     },
     {
-      "id": 8506,
+      "id": 5934,
       "name": "Mass Spectrometry Imaging (MSI)",
       "children": [
         {
-          "id": 3483,
+          "id": 8435,
           "name": "Metabolomics",
           "children": [
             {
-              "id": 5122,
+              "id": 9776,
               "name": "Metabolomics",
               "children": [
                 {
-                  "id": 7678,
+                  "id": 8882,
                   "name": "Reporting Guideline",
                   "children": [
                     {
-                      "id": 2527,
+                      "id": 8427,
                       "name": "SMART",
                       "count": 1,
                       "selfCount": 1,
@@ -3398,15 +3398,15 @@
               }
             },
             {
-              "id": 2480,
+              "id": 3458,
               "name": "Metabolomics/Lipidomics",
               "children": [
                 {
-                  "id": 3943,
+                  "id": 4899,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 2424,
+                      "id": 6651,
                       "name": "RFC 7946",
                       "count": 1,
                       "selfCount": 1,
@@ -3443,23 +3443,23 @@
       }
     },
     {
-      "id": 7612,
+      "id": 6771,
       "name": "Time-of-Flight Mass Spectrometer (TOF)",
       "children": [
         {
-          "id": 6180,
+          "id": 1657,
           "name": "Metabolomics",
           "children": [
             {
-              "id": 6223,
+              "id": 8497,
               "name": "Multi-omics Applicable",
               "children": [
                 {
-                  "id": 4087,
+                  "id": 1471,
                   "name": "Model/Format",
                   "children": [
                     {
-                      "id": 1205,
+                      "id": 7240,
                       "name": "ITA",
                       "count": 1,
                       "selfCount": 2,
@@ -3468,7 +3468,7 @@
                       }
                     },
                     {
-                      "id": 4619,
+                      "id": 159,
                       "name": "ITM",
                       "count": 1,
                       "selfCount": 2,
