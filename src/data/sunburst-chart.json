@@ -840,9 +840,13 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 },
                 {
                   "name": "Reporting Guideline",
@@ -891,7 +895,7 @@
                   "count": 10
                 }
               ],
-              "count": 53
+              "count": 54
             },
             {
               "name": "Universal",
@@ -1106,7 +1110,7 @@
               "count": 47
             }
           ],
-          "count": 243
+          "count": 244
         },
         {
           "name": "All of the above",
@@ -3490,9 +3494,13 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 },
                 {
                   "name": "Reporting Guideline",
@@ -3541,7 +3549,7 @@
                   "count": 10
                 }
               ],
-              "count": 17
+              "count": 18
             },
             {
               "name": "Universal",
@@ -3826,7 +3834,7 @@
               "count": 63
             }
           ],
-          "count": 163
+          "count": 164
         },
         {
           "name": "Other",
@@ -4004,7 +4012,7 @@
           "count": 34
         }
       ],
-      "count": 879
+      "count": 881
     },
     {
       "name": "Collection",
@@ -6729,9 +6737,13 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 },
                 {
                   "name": "Terminology Artefact",
@@ -6916,7 +6928,7 @@
                   "count": 10
                 }
               ],
-              "count": 53
+              "count": 54
             },
             {
               "name": "Universal",
@@ -7237,7 +7249,7 @@
               "count": 69
             }
           ],
-          "count": 265
+          "count": 266
         },
         {
           "name": "Sample Preparation",
@@ -7830,7 +7842,7 @@
           "count": 128
         }
       ],
-      "count": 841
+      "count": 842
     },
     {
       "name": "Processing",
@@ -9543,12 +9555,16 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 }
               ],
-              "count": 53
+              "count": 54
             },
             {
               "name": "Universal",
@@ -9833,7 +9849,7 @@
               "count": 63
             }
           ],
-          "count": 251
+          "count": 252
         },
         {
           "name": "Data Feature Detection/Identification",
@@ -10537,9 +10553,13 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 },
                 {
                   "name": "Reporting Guideline",
@@ -10630,7 +10650,7 @@
                   "count": 9
                 }
               ],
-              "count": 53
+              "count": 54
             },
             {
               "name": "Universal",
@@ -10638,7 +10658,7 @@
               "count": 0
             }
           ],
-          "count": 176
+          "count": 177
         },
         {
           "name": "Data Pre-Processing",
@@ -11996,7 +12016,7 @@
           "count": 187
         }
       ],
-      "count": 916
+      "count": 918
     },
     {
       "name": "Analysis",
@@ -14721,9 +14741,13 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 },
                 {
                   "name": "Reporting Guideline",
@@ -14772,7 +14796,7 @@
                   "count": 10
                 }
               ],
-              "count": 53
+              "count": 54
             },
             {
               "name": "Universal",
@@ -15027,7 +15051,7 @@
               "count": 57
             }
           ],
-          "count": 243
+          "count": 244
         },
         {
           "name": "Quantitative Analysis",
@@ -15737,12 +15761,16 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 }
               ],
-              "count": 7
+              "count": 8
             },
             {
               "name": "Universal",
@@ -15750,7 +15778,7 @@
               "count": 0
             }
           ],
-          "count": 72
+          "count": 73
         },
         {
           "name": "Software Specific",
@@ -16729,12 +16757,16 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 }
               ],
-              "count": 7
+              "count": 8
             },
             {
               "name": "Universal",
@@ -17055,10 +17087,10 @@
               "count": 69
             }
           ],
-          "count": 211
+          "count": 212
         }
       ],
-      "count": 1115
+      "count": 1118
     },
     {
       "name": "Preservation",
@@ -17933,12 +17965,16 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 }
               ],
-              "count": 53
+              "count": 54
             },
             {
               "name": "Universal",
@@ -18259,7 +18295,7 @@
               "count": 69
             }
           ],
-          "count": 262
+          "count": 263
         },
         {
           "name": "Metadata Storage or Exchange",
@@ -19045,9 +19081,13 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 },
                 {
                   "name": "Reporting Guideline",
@@ -19096,7 +19136,7 @@
                   "count": 10
                 }
               ],
-              "count": 53
+              "count": 54
             },
             {
               "name": "Universal",
@@ -19381,7 +19421,7 @@
               "count": 63
             }
           ],
-          "count": 249
+          "count": 250
         },
         {
           "name": "Data (raw, processed, generated) Storage",
@@ -20094,9 +20134,47 @@
                     }
                   ],
                   "count": 10
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "CAS RN",
+                      "count": 1
+                    },
+                    {
+                      "name": "CID",
+                      "count": 1
+                    },
+                    {
+                      "name": "IUPAC",
+                      "count": 1
+                    },
+                    {
+                      "name": "HMDB ID",
+                      "count": 1
+                    },
+                    {
+                      "name": "USI",
+                      "count": 1
+                    },
+                    {
+                      "name": "RefMet",
+                      "count": 1
+                    },
+                    {
+                      "name": "SLM",
+                      "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
+                    }
+                  ],
+                  "count": 8
                 }
               ],
-              "count": 32
+              "count": 40
             },
             {
               "name": "Universal",
@@ -20127,7 +20205,7 @@
               "count": 4
             }
           ],
-          "count": 164
+          "count": 172
         },
         {
           "name": "N/A",
@@ -20634,7 +20712,7 @@
           "count": 39
         }
       ],
-      "count": 776
+      "count": 786
     },
     {
       "name": "Sharing",
@@ -21329,9 +21407,13 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 },
                 {
                   "name": "Model/Format",
@@ -21428,7 +21510,7 @@
                   "count": 22
                 }
               ],
-              "count": 43
+              "count": 44
             },
             {
               "name": "Universal",
@@ -21713,7 +21795,7 @@
               "count": 63
             }
           ],
-          "count": 239
+          "count": 240
         },
         {
           "name": "All of the above",
@@ -23551,12 +23633,16 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 }
               ],
-              "count": 48
+              "count": 49
             },
             {
               "name": "Universal",
@@ -23743,7 +23829,7 @@
               "count": 40
             }
           ],
-          "count": 227
+          "count": 228
         },
         {
           "name": "Article (human-readable)",
@@ -24373,7 +24459,7 @@
           "count": 22
         }
       ],
-      "count": 812
+      "count": 814
     },
     {
       "name": "Reuse",
@@ -25196,9 +25282,13 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 },
                 {
                   "name": "Terminology Artefact",
@@ -25243,7 +25333,7 @@
                   "count": 9
                 }
               ],
-              "count": 53
+              "count": 54
             },
             {
               "name": "Universal",
@@ -25550,7 +25640,7 @@
               "count": 67
             }
           ],
-          "count": 259
+          "count": 260
         },
         {
           "name": "Uncertain",
@@ -26688,9 +26778,13 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 },
                 {
                   "name": "Terminology Artefact",
@@ -26735,7 +26829,7 @@
                   "count": 9
                 }
               ],
-              "count": 43
+              "count": 44
             },
             {
               "name": "Universal",
@@ -26836,7 +26930,7 @@
               "count": 20
             }
           ],
-          "count": 176
+          "count": 177
         },
         {
           "name": "Not Required for Reuse",
@@ -27480,9 +27574,13 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 },
                 {
                   "name": "Model/Format",
@@ -27625,7 +27723,7 @@
                   "count": 10
                 }
               ],
-              "count": 48
+              "count": 49
             },
             {
               "name": "Universal",
@@ -27704,7 +27802,7 @@
               "count": 16
             }
           ],
-          "count": 193
+          "count": 194
         },
         {
           "name": "Recommended for Reuse",
@@ -28510,12 +28608,16 @@
                     {
                       "name": "SLM",
                       "count": 1
+                    },
+                    {
+                      "name": "SPLASH",
+                      "count": 1
                     }
                   ],
-                  "count": 7
+                  "count": 8
                 }
               ],
-              "count": 48
+              "count": 49
             },
             {
               "name": "Universal",
@@ -28680,7 +28782,7 @@
               "count": 33
             }
           ],
-          "count": 214
+          "count": 215
         },
         {
           "name": "Other",
@@ -29101,8 +29203,8 @@
           "count": 20
         }
       ],
-      "count": 1030
+      "count": 1034
     }
   ],
-  "count": 6369
+  "count": 6393
 }
