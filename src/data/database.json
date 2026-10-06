@@ -5394,9 +5394,9 @@
         "Meets criteria for the MOMSI Standards Collection at FAIRsharing"
       ],
       "Active Affiliation(s)": "HUPO - Proteomics Standards Initiative",
-      "Homepage": "https://www.psidev.info/mzpeak",
+      "Homepage": "https://www.mzpeak.org/spec/",
       "Reference Article Citation (DOI)": "https://doi.org/10.1021/acs.jproteome.5c00435",
-      "Reference Source Code (DOI or URL)": "https://github.com/HUPO-PSI/mzPeak",
+      "Reference Source Code (DOI or URL)": "https://github.com/HUPO-PSI/mzPeak-specification",
       "FAIRsharing Record (DOI or URL)": "https://fairsharing.org/7741",
       "Contributor Name": "Lindsey N. Anderson",
       "Contributor ORCID ID": "0000-0002-8741-7823",
