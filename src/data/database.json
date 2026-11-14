@@ -2620,6 +2620,35 @@
       "CRediT": "Data curation; Writing - original draft",
       "Contributor": "lnanderson",
       "Identifier": "MOMSI_G:00096"
+    },
+    {
+      "Standard Type": "Reporting Guideline",
+      "Status": "Established",
+      "Country": "United Kingdom",
+      "Domain Class/Subclass": "Transcriptomics",
+      "Application Technology": "RNA Sequencing",
+      "Standard Name": "Minimum Information about a Single-Cell Experiment",
+      "Acronym/Short Name": "minSCe",
+      "Planning": "All of the above",
+      "Collection": "All of the above",
+      "Processing": "Metadata Collection",
+      "Analysis": "Interpretation Analysis",
+      "Preservation": "Metadata Storage",
+      "Sharing": "All of the above",
+      "Reuse": "Conditional based on linked standards",
+      "Meets Criteria": [
+        "Meets criteria for the MOMSI Standards Collection at FAIRsharing"
+      ],
+      "Active Affiliation(s)": "European Bioinformatics Institute (EBI)",
+      "Homepage": "https://www.ebi.ac.uk/about/teams/functional-genomics",
+      "Reference Article Citation (DOI)": "https://doi.org/10.1038/s41587-020-00744-z",
+      "Reference Source Code (DOI or URL)": "https://github.com/ebi-gene-expression-group/sc-metadata-fields",
+      "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.77c3d3",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_G:00097"
     }
   ],
   "metabolomics": [
