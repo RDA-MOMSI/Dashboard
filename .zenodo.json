@@ -1,4 +1,18 @@
 {
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://zenodo.org/records/15692852",
+      "alternateIdentifierType": "URL"
+    },
+    {
+      "alternateIdentifier": "oai:zenodo.org:15692852",
+      "alternateIdentifierType": "oai"
+    },
+    {
+      "alternateIdentifier": "10.15497/RDA00133",
+      "alternateIdentifierType": "DOI"
+    }
+  ],
   "contributors": [
     {
       "affiliation": [
@@ -61,6 +75,23 @@
         }
       ],
       "nameType": "Personal"
+    },
+    {
+      "affiliation": [
+        {
+          "affiliationIdentifier": "https://ror.org/037x9qj67",
+          "affiliationIdentifierScheme": "ROR",
+          "name": "Research Data Alliance-US"
+        },
+        {
+          "affiliationIdentifier": "https://ror.org/05dc6w374",
+          "affiliationIdentifierScheme": "ROR",
+          "name": "Research Data Alliance"
+        }
+      ],
+      "name": "Multi-Omics Metadata Standards Integration (MOMSI) Working Group",
+      "nameIdentifiers": [],
+      "nameType": "Organizational"
     }
   ],
   "dates": [
@@ -69,7 +100,7 @@
       "dateType": "Issued"
     },
     {
-      "date": "2025-06-18",
+      "date": "2026-11-15",
       "dateType": "Updated"
     }
   ],
@@ -77,26 +108,36 @@
     {
       "description": "This documentation represents the MOMSI Working Group's Multi-Omics Standard Landscape Review Curation Workflow & Interactive Web-based Dashboard Tool (Deliverable 1a), located at the RDA-MOMSI GitHub repository, providing in-depth exploration of Multi-omics standards (genomics, proteomics, metabolomics, etc.) and Universal standards (generalist or subject agnostic) supporting final recommendations. MOMSI WG supporting outputs, as part of their sustainability and long-term maintenance plan, are aimed to enhance curation method transparency for sharing expert-level Multi-Omics standard recommendations with non-expert users for adoption and reuse.\n\nExpert curated Multi-Omics standards, originally captured in a Google Sheet, are now available as machine-actionable outputs in a semi-automated and version-controlled environment designed to capture iterative updates by the scientific community as future standards evolve. This repository serves as the first step in our sustainability workflow process for leveraging downstream standard selections included at our Multi-Omics Standards FAIRsharing Collection (Deliverable 1b). Curated standards captured at the MOMSI dashboard and FAIRsharing collection include controlled vocabularies/ontologies, metadata reporting guidelines, data models/formats, and identifier schemas representative of Omics domain application technologies and FAIR best practices.\n\nKey Features\n\n\n\nLearn how to Contribute and Get CRediT for submitting new standards or updating existing standards using our curation workflow Omics issue templates.\n\nBrowse User Journeys for themed use-case exploration of Omics standard types, research data lifecycle curations, and relevant Omics subject area classes/subclasses.\n\nExplore MOMSI Terminology representing curated concepts and terms used to organize and filter standard tags listed at the dashboard and MOMSI FAIRsharing Collection (Deliverable 1b).\n\n\nUsage Note: This dashboard supports exploration and discovery of Multi-omics standards listed within our repository using front-end visualizations to support live curation status updates. This dashboard is not intended for advanced search and filter navigation, nor it is our final recommendation resource. Learn more about out how standards listed at our repository are being implemented under Sustainability.",
       "descriptionType": "Abstract"
+    },
+    {
+      "description": "This record represents all live curation updates at the MOMSI Curation Dashboard located on GitHub. Iterative version-controlled releases will be regularly provided on a quarterly basis (or upon request if required sooner).\u00a0",
+      "descriptionType": "TechnicalInfo",
+      "lang": "eng"
     }
   ],
-  "identifiers": [
+  "doi": "10.5281/zenodo.15692852",
+  "fundingReferences": [
     {
-      "identifier": "https://zenodo.org/records/15692852",
-      "identifierType": "URL"
-    },
-    {
-      "identifier": "10.5281/zenodo.15692852",
-      "identifierType": "DOI"
-    },
-    {
-      "identifier": "oai:zenodo.org:15692852",
-      "identifierType": "oai"
+      "awardNumber": "101094406",
+      "awardTitle": "RDA TIGER Support Services",
+      "awardURI": "https://doi.org/10.3030/101094406",
+      "funderIdentifier": "05dc6w374",
+      "funderIdentifierType": "ROR",
+      "funderName": "Research Data Alliance"
     }
   ],
   "language": "eng",
   "publicationYear": "2025",
-  "publisher": "Zenodo",
+  "publisher": {
+    "name": "Zenodo"
+  },
   "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "https://rda-momsi.github.io/Dashboard",
+      "relatedIdentifierType": "URL",
+      "relationType": "IsSourceOf",
+      "resourceTypeGeneral": "Text"
+    },
     {
       "relatedIdentifier": "10.15497/RDA00133",
       "relatedIdentifierType": "DOI",
@@ -104,13 +145,7 @@
       "resourceTypeGeneral": "Text"
     },
     {
-      "relatedIdentifier": "https://rda-momsi.github.io/Dashboard",
-      "relatedIdentifierType": "URL",
-      "relationType": "HasPart",
-      "resourceTypeGeneral": "Text"
-    },
-    {
-      "relatedIdentifier": "https://doi.org/10.25504/FAIRsharing.2fa4fb",
+      "relatedIdentifier": "10.25504/FAIRsharing.2fa4fb",
       "relatedIdentifierType": "DOI",
       "relationType": "IsContinuedBy",
       "resourceTypeGeneral": "Text"
@@ -138,6 +173,9 @@
       "rightsIdentifier": "cc-by-4.0",
       "rightsIdentifierScheme": "spdx",
       "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    },
+    {
+      "rightsUri": "info:eu-repo/semantics/openAccess"
     },
     {
       "rights": "Copyright 2023-2025 Multi-Omics Metadata Standards Integration (MOMSI) Working Group",
