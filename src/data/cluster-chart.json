@@ -704,12 +704,16 @@
                     {
                       "name": "MiAIRR",
                       "count": 1
+                    },
+                    {
+                      "name": "minSCe",
+                      "count": 1
                     }
                   ],
-                  "count": 1
+                  "count": 2
                 }
               ],
-              "count": 1
+              "count": 2
             },
             {
               "name": "Genomics",
@@ -728,10 +732,10 @@
               "count": 1
             }
           ],
-          "count": 2
+          "count": 3
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
       "name": "DNA Sequencing",
@@ -1684,5 +1688,5 @@
       "count": 2
     }
   ],
-  "count": 251
+  "count": 252
 }

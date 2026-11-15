@@ -378,9 +378,13 @@
             {
               "name": "STREAMS",
               "count": 1
+            },
+            {
+              "name": "minSCe",
+              "count": 1
             }
           ],
-          "count": 30
+          "count": 31
         },
         {
           "name": "Multi-Standard Applicable",
@@ -423,7 +427,7 @@
           "count": 6
         }
       ],
-      "count": 97
+      "count": 98
     },
     {
       "name": "Proteomics",
@@ -1220,5 +1224,5 @@
       "count": 69
     }
   ],
-  "count": 267
+  "count": 268
 }
