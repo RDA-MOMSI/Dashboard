@@ -7240,6 +7240,34 @@
       "CRediT": "Data curation; Writing - original draft",
       "Contributor": "lnanderson",
       "Identifier": "MOMSI_U:00068"
+    },
+    {
+      "Standard Type": "Identifier Schema",
+      "Status": "Established/Maintained",
+      "Country": "Worldwide",
+      "Domain Class/Subclass": "Omics Applicable, General Best Practices",
+      "Standard Name": "Decentralized Identifiers",
+      "Acronym/Short Name": "DID",
+      "Planning": "N/A",
+      "Collection": "N/A",
+      "Processing": "N/A",
+      "Analysis": "All of the above",
+      "Preservation": "All of the above",
+      "Sharing": "Other",
+      "Reuse": "Conditional based on linked standards",
+      "Meets Criteria": [
+        "Meets criteria for the MOMSI Standards Collection at FAIRsharing"
+      ],
+      "Active Affiliation(s)": "W3C DID Working Group",
+      "Homepage": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
+      "Reference Article Citation (DOI)": "",
+      "Reference Source Code (DOI or URL)": "https://github.com/w3c/did",
+      "FAIRsharing Record (DOI or URL)": "https://doi.org/10.25504/FAIRsharing.2bf47f",
+      "Contributor Name": "Lindsey N. Anderson",
+      "Contributor ORCID ID": "0000-0002-8741-7823",
+      "CRediT": "Data curation; Writing - original draft",
+      "Contributor": "lnanderson",
+      "Identifier": "MOMSI_U:00069"
     }
   ]
 }
