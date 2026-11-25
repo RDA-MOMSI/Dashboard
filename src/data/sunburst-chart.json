@@ -2060,9 +2060,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Reporting Guideline",
@@ -2257,10 +2261,10 @@
                   "count": 2
                 }
               ],
-              "count": 69
+              "count": 70
             }
           ],
-          "count": 252
+          "count": 253
         },
         {
           "name": "Experimental Design",
@@ -2922,9 +2926,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Model/Format",
@@ -3103,10 +3111,10 @@
                   "count": 30
                 }
               ],
-              "count": 57
+              "count": 58
             }
           ],
-          "count": 189
+          "count": 190
         },
         {
           "name": "N/A",
@@ -3636,9 +3644,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Model/Format",
@@ -3847,10 +3859,10 @@
                   "count": 6
                 }
               ],
-              "count": 63
+              "count": 64
             }
           ],
-          "count": 165
+          "count": 166
         },
         {
           "name": "Other",
@@ -4028,7 +4040,7 @@
           "count": 34
         }
       ],
-      "count": 885
+      "count": 888
     },
     {
       "name": "Collection",
@@ -4971,15 +4983,19 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 }
               ],
-              "count": 37
+              "count": 38
             }
           ],
-          "count": 210
+          "count": 211
         },
         {
           "name": "All of the above",
@@ -5903,9 +5919,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Reporting Guideline",
@@ -6056,10 +6076,10 @@
                   "count": 30
                 }
               ],
-              "count": 67
+              "count": 68
             }
           ],
-          "count": 240
+          "count": 241
         },
         {
           "name": "N/A",
@@ -7027,9 +7047,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -7274,10 +7298,10 @@
                   "count": 4
                 }
               ],
-              "count": 69
+              "count": 70
             }
           ],
-          "count": 267
+          "count": 268
         },
         {
           "name": "Sample Preparation",
@@ -7737,9 +7761,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Terminology Artefact",
@@ -7868,13 +7896,13 @@
                   "count": 30
                 }
               ],
-              "count": 46
+              "count": 47
             }
           ],
-          "count": 129
+          "count": 130
         }
       ],
-      "count": 846
+      "count": 850
     },
     {
       "name": "Processing",
@@ -9725,9 +9753,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -9886,10 +9918,10 @@
                   "count": 30
                 }
               ],
-              "count": 63
+              "count": 64
             }
           ],
-          "count": 253
+          "count": 254
         },
         {
           "name": "Data Feature Detection/Identification",
@@ -11807,9 +11839,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Reporting Guideline",
@@ -12054,13 +12090,13 @@
                   "count": 6
                 }
               ],
-              "count": 69
+              "count": 70
             }
           ],
-          "count": 187
+          "count": 188
         }
       ],
-      "count": 921
+      "count": 923
     },
     {
       "name": "Analysis",
@@ -12964,12 +13000,86 @@
                     }
                   ],
                   "count": 30
+                },
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "DOI",
+                      "count": 1
+                    },
+                    {
+                      "name": "IGSN",
+                      "count": 1
+                    },
+                    {
+                      "name": "ORCID",
+                      "count": 1
+                    },
+                    {
+                      "name": "Identifiers.org",
+                      "count": 1
+                    },
+                    {
+                      "name": "ROR",
+                      "count": 1
+                    },
+                    {
+                      "name": "CURIE",
+                      "count": 1
+                    },
+                    {
+                      "name": "RRID",
+                      "count": 1
+                    },
+                    {
+                      "name": "hdl",
+                      "count": 1
+                    },
+                    {
+                      "name": "URI",
+                      "count": 1
+                    },
+                    {
+                      "name": "ISO/TS 22943:2022",
+                      "count": 1
+                    },
+                    {
+                      "name": "RAiD",
+                      "count": 1
+                    },
+                    {
+                      "name": "ISO 27729:2024",
+                      "count": 1
+                    },
+                    {
+                      "name": "FAIROS PIDs",
+                      "count": 1
+                    },
+                    {
+                      "name": "i4iOZ",
+                      "count": 1
+                    },
+                    {
+                      "name": "PMCID",
+                      "count": 1
+                    },
+                    {
+                      "name": "PMID",
+                      "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
+                    }
+                  ],
+                  "count": 17
                 }
               ],
-              "count": 34
+              "count": 51
             }
           ],
-          "count": 201
+          "count": 218
         },
         {
           "name": "Other",
@@ -13801,9 +13911,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Reporting Guideline",
@@ -14004,10 +14118,10 @@
                   "count": 30
                 }
               ],
-              "count": 67
+              "count": 68
             }
           ],
-          "count": 231
+          "count": 232
         },
         {
           "name": "Interpretation Analysis",
@@ -15049,9 +15163,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Model/Format",
@@ -15104,10 +15222,10 @@
                   "count": 11
                 }
               ],
-              "count": 57
+              "count": 58
             }
           ],
-          "count": 245
+          "count": 246
         },
         {
           "name": "Quantitative Analysis",
@@ -16951,9 +17069,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Reporting Guideline",
@@ -17148,13 +17270,13 @@
                   "count": 30
                 }
               ],
-              "count": 69
+              "count": 70
             }
           ],
-          "count": 213
+          "count": 214
         }
       ],
-      "count": 1123
+      "count": 1143
     },
     {
       "name": "Preservation",
@@ -18163,9 +18285,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Reporting Guideline",
@@ -18360,10 +18486,10 @@
                   "count": 30
                 }
               ],
-              "count": 69
+              "count": 70
             }
           ],
-          "count": 264
+          "count": 265
         },
         {
           "name": "Metadata Storage or Exchange",
@@ -19485,15 +19611,19 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 }
               ],
-              "count": 63
+              "count": 64
             }
           ],
-          "count": 251
+          "count": 252
         },
         {
           "name": "Data (raw, processed, generated) Storage",
@@ -20923,7 +21053,7 @@
           "count": 70
         }
       ],
-      "count": 821
+      "count": 823
     },
     {
       "name": "Sharing",
@@ -21796,9 +21926,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -22007,10 +22141,10 @@
                   "count": 30
                 }
               ],
-              "count": 63
+              "count": 64
             }
           ],
-          "count": 241
+          "count": 242
         },
         {
           "name": "All of the above",
@@ -22816,9 +22950,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Reporting Guideline",
@@ -23013,10 +23151,10 @@
                   "count": 2
                 }
               ],
-              "count": 69
+              "count": 70
             }
           ],
-          "count": 220
+          "count": 221
         },
         {
           "name": "Repository (machine-readable)",
@@ -24683,14 +24821,89 @@
             },
             {
               "name": "Universal",
-              "children": [],
-              "count": 0
+              "children": [
+                {
+                  "name": "Identifier Schema",
+                  "children": [
+                    {
+                      "name": "DOI",
+                      "count": 1
+                    },
+                    {
+                      "name": "IGSN",
+                      "count": 1
+                    },
+                    {
+                      "name": "ORCID",
+                      "count": 1
+                    },
+                    {
+                      "name": "Identifiers.org",
+                      "count": 1
+                    },
+                    {
+                      "name": "ROR",
+                      "count": 1
+                    },
+                    {
+                      "name": "CURIE",
+                      "count": 1
+                    },
+                    {
+                      "name": "RRID",
+                      "count": 1
+                    },
+                    {
+                      "name": "hdl",
+                      "count": 1
+                    },
+                    {
+                      "name": "URI",
+                      "count": 1
+                    },
+                    {
+                      "name": "ISO/TS 22943:2022",
+                      "count": 1
+                    },
+                    {
+                      "name": "RAiD",
+                      "count": 1
+                    },
+                    {
+                      "name": "ISO 27729:2024",
+                      "count": 1
+                    },
+                    {
+                      "name": "FAIROS PIDs",
+                      "count": 1
+                    },
+                    {
+                      "name": "i4iOZ",
+                      "count": 1
+                    },
+                    {
+                      "name": "PMCID",
+                      "count": 1
+                    },
+                    {
+                      "name": "PMID",
+                      "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
+                    }
+                  ],
+                  "count": 17
+                }
+              ],
+              "count": 17
             }
           ],
-          "count": 22
+          "count": 39
         }
       ],
-      "count": 819
+      "count": 838
     },
     {
       "name": "Reuse",
@@ -25689,9 +25902,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Multi-Standard Applicable",
@@ -25872,10 +26089,10 @@
                   "count": 30
                 }
               ],
-              "count": 67
+              "count": 68
             }
           ],
-          "count": 261
+          "count": 262
         },
         {
           "name": "Uncertain",
@@ -27139,9 +27356,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Reporting Guideline",
@@ -27166,10 +27387,10 @@
                   "count": 4
                 }
               ],
-              "count": 20
+              "count": 21
             }
           ],
-          "count": 178
+          "count": 179
         },
         {
           "name": "Not Required for Reuse",
@@ -28037,15 +28258,19 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 }
               ],
-              "count": 16
+              "count": 17
             }
           ],
-          "count": 195
+          "count": 196
         },
         {
           "name": "Recommended for Reuse",
@@ -29021,15 +29246,19 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 }
               ],
-              "count": 33
+              "count": 34
             }
           ],
-          "count": 216
+          "count": 217
         },
         {
           "name": "Other",
@@ -29417,9 +29646,13 @@
                     {
                       "name": "PMID",
                       "count": 1
+                    },
+                    {
+                      "name": "DID",
+                      "count": 1
                     }
                   ],
-                  "count": 16
+                  "count": 17
                 },
                 {
                   "name": "Reporting Guideline",
@@ -29444,14 +29677,14 @@
                   "count": 4
                 }
               ],
-              "count": 20
+              "count": 21
             }
           ],
-          "count": 20
+          "count": 21
         }
       ],
-      "count": 1038
+      "count": 1043
     }
   ],
-  "count": 6453
+  "count": 6508
 }

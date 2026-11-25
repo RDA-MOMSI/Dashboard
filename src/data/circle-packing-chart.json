@@ -1024,9 +1024,13 @@
             {
               "name": "PMID",
               "count": 1
+            },
+            {
+              "name": "DID",
+              "count": 1
             }
           ],
-          "count": 16
+          "count": 17
         },
         {
           "name": "Multi-Standard Applicable",
@@ -1221,8 +1225,8 @@
           "count": 2
         }
       ],
-      "count": 69
+      "count": 70
     }
   ],
-  "count": 268
+  "count": 269
 }
