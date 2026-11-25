@@ -1,230 +1,510 @@
 {
-  "alternateIdentifiers": [
-    {
-      "alternateIdentifier": "https://zenodo.org/records/15692852",
-      "alternateIdentifierType": "URL"
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
     },
-    {
-      "alternateIdentifier": "oai:zenodo.org:15692852",
-      "alternateIdentifierType": "oai"
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2025-06-18T19:09:07.132161+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/RDA-MOMSI/Dashboard",
+    "code:developmentStatus": {
+      "id": "active",
+      "title": {
+        "en": "Active"
+      }
     },
-    {
-      "alternateIdentifier": "10.15497/RDA00133",
-      "alternateIdentifierType": "DOI"
-    }
-  ],
-  "contributors": [
-    {
-      "affiliation": [
-        {
-          "name": "@whythawk"
+    "code:programmingLanguage": [
+      {
+        "id": "javascript",
+        "title": {
+          "en": "JavaScript"
         }
-      ],
-      "contributorType": "Other",
-      "familyName": "Chait",
-      "givenName": "Gavin",
-      "name": "Chait, Gavin",
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "0000-0003-3733-6299",
-          "nameIdentifierScheme": "ORCID"
+      },
+      {
+        "id": "css",
+        "title": {
+          "en": "CSS"
         }
-      ],
-      "nameType": "Personal"
-    }
-  ],
-  "creators": [
-    {
-      "affiliation": [
-        {
-          "name": "Pacific Northwest National Laboratory"
+      },
+      {
+        "id": "jupyter_notebook",
+        "title": {
+          "en": "Jupyter Notebook"
+        }
+      }
+    ]
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "RDA-MOMSI/Dashboard-v1.0.0.zip": {
+        "access": {
+          "hidden": false
         },
-        {
-          "name": "Multi-Omics Metadata Standards Integration (MOMSI) Working Group"
-        }
-      ],
-      "familyName": "Anderson",
-      "givenName": "Lindsey N.",
-      "name": "Anderson, Lindsey N.",
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "0000-0002-8741-7823",
-          "nameIdentifierScheme": "ORCID"
-        }
-      ],
-      "nameType": "Personal"
-    },
-    {
-      "affiliation": [
-        {
-          "affiliationIdentifier": "https://ror.org/04hbttm44",
-          "affiliationIdentifierScheme": "ROR",
-          "name": "VIB-UGent Center for Medical Biotechnology"
+        "checksum": "md5:b3a5251ba734e100801edcf72a757301",
+        "ext": "zip",
+        "id": "220d740b-f18b-4ed3-83d9-1679ec90f48f",
+        "key": "RDA-MOMSI/Dashboard-v1.0.0.zip",
+        "links": {
+          "container": "https://zenodo.org/api/records/15692852/files/RDA-MOMSI/Dashboard-v1.0.0.zip/container",
+          "content": "https://zenodo.org/api/records/15692852/files/RDA-MOMSI/Dashboard-v1.0.0.zip/content",
+          "self": "https://zenodo.org/api/records/15692852/files/RDA-MOMSI/Dashboard-v1.0.0.zip"
         },
-        {
-          "name": "Multi-Omics Metadata Standards Integration (MOMSI) Working Group"
-        }
-      ],
-      "familyName": "Van Den Bossche",
-      "givenName": "Tim",
-      "name": "Van Den Bossche, Tim",
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "0000-0002-5916-2587",
-          "nameIdentifierScheme": "ORCID"
-        }
-      ],
-      "nameType": "Personal"
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 2228259,
+        "storage_class": "L"
+      }
     },
-    {
-      "affiliation": [
-        {
-          "affiliationIdentifier": "https://ror.org/037x9qj67",
-          "affiliationIdentifierScheme": "ROR",
-          "name": "Research Data Alliance-US"
+    "order": [],
+    "total_bytes": 2228259
+  },
+  "id": "15692852",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/15692852/access",
+    "access_grants": "https://zenodo.org/api/records/15692852/access/grants",
+    "access_links": "https://zenodo.org/api/records/15692852/access/links",
+    "access_request": "https://zenodo.org/api/records/15692852/access/request",
+    "access_users": "https://zenodo.org/api/records/15692852/access/users",
+    "communities": "https://zenodo.org/api/records/15692852/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/15692852/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.15692852",
+    "draft": "https://zenodo.org/api/records/15692852/draft",
+    "file_modification": "https://zenodo.org/api/records/15692852/file-modification",
+    "files": "https://zenodo.org/api/records/15692852/files",
+    "latest": "https://zenodo.org/api/records/15692852/versions/latest",
+    "latest_html": "https://zenodo.org/records/15692852/latest",
+    "media_files": "https://zenodo.org/api/records/15692852/media-files",
+    "parent": "https://zenodo.org/api/records/15692698",
+    "parent_doi": "https://doi.org/10.5281/zenodo.15692698",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15692698",
+    "parent_html": "https://zenodo.org/records/15692698",
+    "preview_html": "https://zenodo.org/records/15692852?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/15692852/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/15692852/request-deletion",
+    "requests": "https://zenodo.org/api/records/15692852/requests",
+    "reserve_doi": "https://zenodo.org/api/records/15692852/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/15692852",
+    "self_doi": "https://doi.org/10.5281/zenodo.15692852",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15692852",
+    "self_html": "https://zenodo.org/records/15692852",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15692852/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15692852/sequence/default",
+    "versions": "https://zenodo.org/api/records/15692852/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "additional_descriptions": [
+      {
+        "description": "<p><em>This record represents all live curation updates at the MOMSI Curation Dashboard located on GitHub. Iterative version-controlled releases will be regularly provided on a quarterly basis (or upon request if required sooner).&nbsp;</em></p>",
+        "lang": {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
         },
-        {
-          "affiliationIdentifier": "https://ror.org/05dc6w374",
-          "affiliationIdentifierScheme": "ROR",
+        "type": {
+          "id": "technical-info",
+          "title": {
+            "de": "Technische Informationen",
+            "en": "Technical info"
+          }
+        }
+      }
+    ],
+    "contributors": [
+      {
+        "affiliations": [
+          {
+            "name": "@whythawk"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Chait",
+          "given_name": "Gavin",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3733-6299",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Chait, Gavin",
+          "type": "personal"
+        },
+        "role": {
+          "id": "producer",
+          "title": {
+            "de": "ProduzentIn",
+            "en": "Producer"
+          }
+        }
+      }
+    ],
+    "copyright": "Copyright 2023-2025 Multi-Omics Metadata Standards Integration (MOMSI) Working Group",
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "Pacific Northwest National Laboratory"
+          },
+          {
+            "name": "Multi-Omics Metadata Standards Integration (MOMSI) Working Group"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Anderson",
+          "given_name": "Lindsey N.",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8741-7823",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Anderson, Lindsey N.",
+          "type": "personal"
+        },
+        "role": {
+          "id": "projectleader",
+          "title": {
+            "de": "ProjektleiterIn",
+            "en": "Project leader"
+          }
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "id": "04hbttm44",
+            "identifiers": [
+              {
+                "identifier": "04hbttm44",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.511525.7",
+                "scheme": "grid"
+              }
+            ],
+            "name": "VIB-UGent Center for Medical Biotechnology"
+          },
+          {
+            "name": "Multi-Omics Metadata Standards Integration (MOMSI) Working Group"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Van Den Bossche",
+          "given_name": "Tim",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5916-2587",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Van Den Bossche, Tim",
+          "type": "personal"
+        },
+        "role": {
+          "id": "projectleader",
+          "title": {
+            "de": "ProjektleiterIn",
+            "en": "Project leader"
+          }
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "id": "037x9qj67",
+            "identifiers": [
+              {
+                "identifier": "037x9qj67",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.510416.7",
+                "scheme": "grid"
+              }
+            ],
+            "name": "Research Data Alliance-US"
+          },
+          {
+            "id": "05dc6w374",
+            "identifiers": [
+              {
+                "identifier": "05dc6w374",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.484715.b",
+                "scheme": "grid"
+              }
+            ],
+            "name": "Research Data Alliance"
+          }
+        ],
+        "person_or_org": {
+          "name": "Multi-Omics Metadata Standards Integration (MOMSI) Working Group",
+          "type": "organizational"
+        },
+        "role": {
+          "id": "researchgroup",
+          "title": {
+            "de": "Forschungsgruppe",
+            "en": "Research group"
+          }
+        }
+      }
+    ],
+    "description": "<p>This documentation represents the MOMSI Working Group's <a href=\"https://github.com/RDA-MOMSI/Dashboard\">Multi-Omics Standard Landscape Review Curation Workflow </a>&amp; <a href=\"https://rda-momsi.github.io/Dashboard\">Interactive Web-based Dashboard Tool</a> (Deliverable 1a), located at the RDA-MOMSI GitHub repository, providing in-depth exploration of Multi-omics standards (genomics, proteomics, metabolomics, etc.) and Universal standards (generalist or subject agnostic) supporting final recommendations. MOMSI WG supporting outputs, as part of their sustainability and long-term maintenance plan, are aimed to enhance curation method transparency for sharing expert-level Multi-Omics standard recommendations with non-expert users for adoption and reuse.</p>\n<p>Expert curated Multi-Omics standards, originally captured in a Google Sheet, are now available as machine-actionable outputs in a semi-automated and version-controlled environment designed to capture iterative updates by the scientific community as future standards evolve. This repository serves as the first step in our sustainability workflow process for leveraging downstream standard selections included at our <a href=\"https://fairsharing.org/5742\">Multi-Omics Standards FAIRsharing Collection</a> (Deliverable 1b). Curated standards captured at the MOMSI dashboard and FAIRsharing collection include controlled vocabularies/ontologies, metadata reporting guidelines, data models/formats, and identifier schemas representative of Omics domain application technologies and FAIR best practices.</p>\n<p><strong>Key Features</strong></p>\n<ul>\n<li>Learn how to <a href=\"https://rda-momsi.github.io/Dashboard/contributing#contribution-guidelines\">Contribute</a> and <a href=\"https://rda-momsi.github.io/Dashboard/contributing#getting-c-redi-t\">Get CRediT</a> for submitting new standards or updating existing standards using our curation workflow <a href=\"https://github.com/RDA-MOMSI/Dashboard/issues/new/choose\">Omics issue templates</a>.</li>\n<li>Browse <a href=\"https://rda-momsi.github.io/Dashboard/user-journeys\">User Journeys</a> for themed use-case exploration of Omics standard types, research data lifecycle curations, and relevant Omics subject area classes/subclasses.</li>\n<li>Explore <a href=\"https://rda-momsi.github.io/Dashboard/glossary\">MOMSI Terminology</a> representing curated concepts and terms used to organize and filter standard tags listed at the dashboard and <a href=\"https://fairsharing.org/5742\">MOMSI FAIRsharing Collection</a> (Deliverable 1b).</li>\n</ul>\n<p><em>Usage Note: This dashboard supports exploration and discovery of Multi-omics standards listed within our repository using front-end visualizations to support live curation status updates. This dashboard is not intended for advanced search and filter navigation, nor it is our final recommendation resource. Learn more about out how standards listed at our repository are being implemented under <a href=\"https://github.com/RDA-MOMSI/Dashboard#%EF%B8%8F-sustainability\">Sustainability</a>.</em></p>",
+    "funding": [
+      {
+        "award": {
+          "identifiers": [
+            {
+              "identifier": "https://doi.org/10.3030/101094406",
+              "scheme": "url"
+            }
+          ],
+          "number": "101094406",
+          "title": {
+            "en": "RDA TIGER Support Services"
+          }
+        },
+        "funder": {
+          "id": "05dc6w374",
           "name": "Research Data Alliance"
         }
-      ],
-      "name": "Multi-Omics Metadata Standards Integration (MOMSI) Working Group",
-      "nameIdentifiers": [],
-      "nameType": "Organizational"
-    }
-  ],
-  "dates": [
-    {
-      "date": "2025-06-18",
-      "dateType": "Issued"
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2025-06-18",
+    "publisher": "Zenodo",
+    "references": [
+      {
+        "reference": "https://www.rd-alliance.org/groups/multi-omics-metadata-standards-integration-momsi-wg"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://rda-momsi.github.io/Dashboard",
+        "relation_type": {
+          "id": "issourceof",
+          "title": {
+            "de": "Ist Quelle von",
+            "en": "Is source of"
+          }
+        },
+        "resource_type": {
+          "id": "publication-deliverable",
+          "title": {
+            "de": "Projektergebnis",
+            "en": "Project deliverable"
+          }
+        },
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.15497/RDA00133",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Erg\u00e4nzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "publication-softwaredocumentation",
+          "title": {
+            "de": "Softwaredokumentation",
+            "en": "Software documentation"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.25504/FAIRsharing.2fa4fb",
+        "relation_type": {
+          "id": "iscontinuedby",
+          "title": {
+            "de": "Wird fortgesetzt durch",
+            "en": "Is continued by"
+          }
+        },
+        "resource_type": {
+          "id": "publication-milestone",
+          "title": {
+            "de": "Projektmeilenstein",
+            "en": "Project milestone"
+          }
+        },
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
     },
-    {
-      "date": "2026-11-15",
-      "dateType": "Updated"
-    }
-  ],
-  "descriptions": [
-    {
-      "description": "This documentation represents the MOMSI Working Group's Multi-Omics Standard Landscape Review Curation Workflow & Interactive Web-based Dashboard Tool (Deliverable 1a), located at the RDA-MOMSI GitHub repository, providing in-depth exploration of Multi-omics standards (genomics, proteomics, metabolomics, etc.) and Universal standards (generalist or subject agnostic) supporting final recommendations. MOMSI WG supporting outputs, as part of their sustainability and long-term maintenance plan, are aimed to enhance curation method transparency for sharing expert-level Multi-Omics standard recommendations with non-expert users for adoption and reuse.\n\nExpert curated Multi-Omics standards, originally captured in a Google Sheet, are now available as machine-actionable outputs in a semi-automated and version-controlled environment designed to capture iterative updates by the scientific community as future standards evolve. This repository serves as the first step in our sustainability workflow process for leveraging downstream standard selections included at our Multi-Omics Standards FAIRsharing Collection (Deliverable 1b). Curated standards captured at the MOMSI dashboard and FAIRsharing collection include controlled vocabularies/ontologies, metadata reporting guidelines, data models/formats, and identifier schemas representative of Omics domain application technologies and FAIR best practices.\n\nKey Features\n\n\n\nLearn how to Contribute and Get CRediT for submitting new standards or updating existing standards using our curation workflow Omics issue templates.\n\nBrowse User Journeys for themed use-case exploration of Omics standard types, research data lifecycle curations, and relevant Omics subject area classes/subclasses.\n\nExplore MOMSI Terminology representing curated concepts and terms used to organize and filter standard tags listed at the dashboard and MOMSI FAIRsharing Collection (Deliverable 1b).\n\n\nUsage Note: This dashboard supports exploration and discovery of Multi-omics standards listed within our repository using front-end visualizations to support live curation status updates. This dashboard is not intended for advanced search and filter navigation, nor it is our final recommendation resource. Learn more about out how standards listed at our repository are being implemented under Sustainability.",
-      "descriptionType": "Abstract"
-    },
-    {
-      "description": "This record represents all live curation updates at the MOMSI Curation Dashboard located on GitHub. Iterative version-controlled releases will be regularly provided on a quarterly basis (or upon request if required sooner).\u00a0",
-      "descriptionType": "TechnicalInfo",
-      "lang": "eng"
-    }
-  ],
-  "doi": "10.5281/zenodo.15692852",
-  "fundingReferences": [
-    {
-      "awardNumber": "101094406",
-      "awardTitle": "RDA TIGER Support Services",
-      "awardURI": "https://doi.org/10.3030/101094406",
-      "funderIdentifier": "05dc6w374",
-      "funderIdentifierType": "ROR",
-      "funderName": "Research Data Alliance"
-    }
-  ],
-  "language": "eng",
-  "publicationYear": "2025",
-  "publisher": {
-    "name": "Zenodo"
+    "rights": [
+      {
+        "description": {
+          "en": ""
+        },
+        "id": "bsd-3-clause",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://opensource.org/licenses/BSD-3-Clause"
+        },
+        "title": {
+          "en": "BSD 3-Clause \"New\" or \"Revised\" License"
+        }
+      },
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "id": "mesh:D000095028",
+        "scheme": "MeSH",
+        "subject": "Multiomics"
+      },
+      {
+        "id": "mesh:D000095028Q000592",
+        "scheme": "MeSH",
+        "subject": "Multiomics/standards"
+      },
+      {
+        "id": "mesh:D023281Q000592",
+        "scheme": "MeSH",
+        "subject": "Genomics/standards"
+      },
+      {
+        "id": "mesh:D040901Q000592",
+        "scheme": "MeSH",
+        "subject": "Proteomics/standards"
+      },
+      {
+        "id": "mesh:D055432Q000592",
+        "scheme": "MeSH",
+        "subject": "Metabolomics/standards"
+      },
+      {
+        "id": "mesh:D066289",
+        "scheme": "MeSH",
+        "subject": "Data Curation"
+      },
+      {
+        "id": "mesh:D000079803Q000592",
+        "scheme": "MeSH",
+        "subject": "Data Management/standards"
+      },
+      {
+        "id": "mesh:D000071253Q000592",
+        "scheme": "MeSH",
+        "subject": "Metadata/standards"
+      }
+    ],
+    "title": "MOMSI WG Multi-Omics Standard Landscape Review Curation Workflow & Interactive Web-based Dashboard Tool (Initial Release)",
+    "version": "v1.0.0"
   },
-  "relatedIdentifiers": [
-    {
-      "relatedIdentifier": "https://rda-momsi.github.io/Dashboard",
-      "relatedIdentifierType": "URL",
-      "relationType": "IsSourceOf",
-      "resourceTypeGeneral": "Text"
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "270766"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
     },
-    {
-      "relatedIdentifier": "10.15497/RDA00133",
-      "relatedIdentifierType": "DOI",
-      "relationType": "IsSupplementTo",
-      "resourceTypeGeneral": "Text"
-    },
-    {
-      "relatedIdentifier": "10.25504/FAIRsharing.2fa4fb",
-      "relatedIdentifierType": "DOI",
-      "relationType": "IsContinuedBy",
-      "resourceTypeGeneral": "Text"
-    },
-    {
-      "relatedIdentifier": "10.5281/zenodo.15692698",
-      "relatedIdentifierType": "DOI",
-      "relationType": "IsVersionOf"
-    },
-    {
-      "relatedIdentifier": "https://archive.softwareheritage.org/swh:1:dir:594dadc2c7c3b939c44a6c8cc38e408a7813a5bb;origin=https://doi.org/10.5281/zenodo.15692698;visit=swh:1:snp:ad6959a0c089afd540d2ccec9a2ae11c1e232694;anchor=swh:1:rel:6b06c16ce8cabe6e462c96a792d96124e99cb9f9;path=RDA-MOMSI-Dashboard-e5bfe2f",
-      "relatedIdentifierType": "URL",
-      "relationType": "IsIdenticalTo"
+    "communities": {},
+    "id": "15692698",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.15692698",
+        "provider": "datacite"
+      }
     }
-  ],
-  "rightsList": [
-    {
-      "rights": "BSD 3-Clause \"New\" or \"Revised\" License",
-      "rightsIdentifier": "bsd-3-clause",
-      "rightsIdentifierScheme": "spdx",
-      "rightsUri": "https://opensource.org/licenses/BSD-3-Clause"
-    },
-    {
-      "rights": "Creative Commons Attribution 4.0 International",
-      "rightsIdentifier": "cc-by-4.0",
-      "rightsIdentifierScheme": "spdx",
-      "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode"
-    },
-    {
-      "rightsUri": "info:eu-repo/semantics/openAccess"
-    },
-    {
-      "rights": "Copyright 2023-2025 Multi-Omics Metadata Standards Integration (MOMSI) Working Group",
-      "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
-    }
-  ],
-  "schemaVersion": "http://datacite.org/schema/kernel-4",
-  "subjects": [
-    {
-      "subject": "Multiomics",
-      "subjectScheme": "MeSH"
-    },
-    {
-      "subject": "Multiomics/standards",
-      "subjectScheme": "MeSH"
-    },
-    {
-      "subject": "Genomics/standards",
-      "subjectScheme": "MeSH"
-    },
-    {
-      "subject": "Proteomics/standards",
-      "subjectScheme": "MeSH"
-    },
-    {
-      "subject": "Metabolomics/standards",
-      "subjectScheme": "MeSH"
-    },
-    {
-      "subject": "Data Curation",
-      "subjectScheme": "MeSH"
-    },
-    {
-      "subject": "Data Management/standards",
-      "subjectScheme": "MeSH"
-    },
-    {
-      "subject": "Metadata/standards",
-      "subjectScheme": "MeSH"
-    }
-  ],
-  "titles": [
-    {
-      "title": "MOMSI WG Multi-Omics Standard Landscape Review Curation Workflow & Interactive Web-based Dashboard Tool (Initial Release)"
-    }
-  ],
-  "types": {
-    "resourceType": "",
-    "resourceTypeGeneral": "Software"
   },
-  "version": "v1.0.0"
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.15692852",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:15692852",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 26,
+  "stats": {
+    "all_versions": {
+      "data_volume": 102499914.0,
+      "downloads": 46,
+      "unique_downloads": 46,
+      "unique_views": 280,
+      "views": 368
+    },
+    "this_version": {
+      "data_volume": 98043396.0,
+      "downloads": 44,
+      "unique_downloads": 44,
+      "unique_views": 232,
+      "views": 298
+    }
+  },
+  "status": "published",
+  "swh": {
+    "swhid": "swh:1:dir:594dadc2c7c3b939c44a6c8cc38e408a7813a5bb;origin=https://doi.org/10.5281/zenodo.15692698;visit=swh:1:snp:ad6959a0c089afd540d2ccec9a2ae11c1e232694;anchor=swh:1:rel:6b06c16ce8cabe6e462c96a792d96124e99cb9f9;path=RDA-MOMSI-Dashboard-e5bfe2f"
+  },
+  "updated": "2026-11-25T17:54:46.973129+00:00",
+  "versions": {
+    "index": 2,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
 }
